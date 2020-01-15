@@ -1,0 +1,2337 @@
+	graphie	lemme	cat	infover	genre	nombre	occurrences	rangFW	rangFWV	case
+162	revoir	revoir	VER				60918.0	545.0	163.0	
+232	plaît	plaire	VER				42211.0	721.0	233.0	
+1488	faîtes	faîte	VER	imp:pre:2p;ind:pre:2p;par:pas;	m	p	4347.0	4205.5	1489.5	
+1564	monte	monte	VER	imp:pre:2s;ind:pre:1s;ind:pre:3s;sub:pre:3s;	f	s	4086.0	4404.5	1564.5	
+2122	partons	parton	VER	imp:pre:1p;ind:pre:1p;	m	p	2779.0	5870.0	2123.5	
+2750	préférerais	préférer	VER				1943.0	7541.5	2751.0	
+3981	porter	porter	VER		m	s	1135.0	10786.0	3981.0	
+4573	entraîner	entraîner	VER				927.0	12336.0	4574.0	
+5015	tueraient	tuer	VER				809.0	13414.0	5017.0	
+5168	débarrasser	débarrasser	VER				773.0	13776.0	5167.5	
+5259	reconnaître	reconnaître	VER				751.0	14016.5	5260.5	
+5701	va	aller	VER				655.0	15190.5	5702.5	
+5820	ri	rire	VER		m	s	637.0	15491.5	5822.0	
+5995	coûte	coûter	VER				609.0	15918.0	5995.0	
+6400	apparaît	apparaître	VER				547.0	16963.5	6398.0	
+6518	kiffe	kiffer	VER				532.0	17273.5	6519.0	
+6589	casa	caser	VER		f	s	522.0	17448.0	6586.5	
+6759	disant	dire	VER		m	s	501.0	17883.5	6754.0	
+6781	allie	allier	VER				498.0	17940.5	6782.0	
+7538	grimes	grimer	VER		m	p	420.0	19840.5	7539.5	
+7737	dis	dire	VER				403.0	20339.5	7738.5	
+7863	regarde	regarder	VER				393.0	20646.0	7864.5	
+7997	crane	craner	VER		m	s	382.0	20988.0	7997.5	
+8356	terra	terrer	VER		f	s	355.0	21917.0	8361.5	
+8917	geindre	geindre	VER		m	s	319.0	23307.0	8914.5	
+9472	arrête	arrêter	VER				287.0	24727.0	9473.5	
+9525	paniqué	paniquer	VER		m	s	285.0	24814.5	9511.5	
+9632	monte	monte	VER	imp:pre:2s;ind:pre:1s;ind:pre:3s;sub:pre:3s;	f	s	279.0	25102.0	9639.0	
+10560	avançons	avancer	VER		m	p	238.0	27396.5	10565.5	
+10646	exile	exiler	VER				235.0	27570.5	10638.5	
+11363	usa	user	VER				209.0	29339.5	11372.0	
+11911	attendant	attendre	VER		m	s	191.0	30717.5	11927.5	
+12708	kiffes	kiffer	VER				171.0	32517.5	12695.5	
+13051	pond	pondre	VER				163.0	33296.5	13037.0	
+13294	grimes	grimer	VER				157.0	33936.5	13307.0	
+13555	fais	faire	VER				152.0	34504.5	13556.5	
+13697	river	river	VER				149.0	34850.5	13710.5	
+13699	paniquée	paniquer	VER		f	s	149.0	34850.5	13710.5	
+13776	monte	monte	VER	imp:pre:2s;ind:pre:1s;ind:pre:3s;sub:pre:3s;			148.0	34970.5	13755.5	
+13912	kiffer	kiffer	VER				145.0	35324.0	13889.0	
+14216	oseraient	oser	VER				139.0	36095.0	14222.0	
+14235	marquez	marquer	VER				139.0	36095.0	14222.0	
+14252	allons	aller	VER				138.0	36232.0	14275.0	
+14725	devine	deviner	VER				130.0	37374.5	14745.5	
+14798	met	mettre	VER				129.0	37511.0	14808.0	
+14908	rendez	rendre	VER				127.0	37803.0	14925.0	
+14919	flippé	flipper	VER		m	s	127.0	37803.0	14925.0	
+15007	unit	unir	VER				125.0	38073.0	15030.5	
+15013	lace	lacer	VER				125.0	38073.0	15030.5	
+15047	avéré	avérer	VER		m	s	125.0	38073.0	15030.5	
+15450	accélérant	accélérer	VER		m	s	119.0	39039.5	15432.5	
+15464	éclosent	éclore	VER				119.0	39039.5	15432.5	
+16676	aime	aimer	VER				102.0	41979.0	16700.0	
+17024	appelle	appeler	VER				98.0	42749.0	17039.5	
+17315	tais	taire	VER				95.0	43381.0	17316.0	
+17642	bouboule	boubouler	VER				92.0	44078.5	17624.0	
+17698	mette	mettre	VER				91.0	44299.5	17719.5	
+17827	donnez	donner	VER				90.0	44529.0	17816.0	
+18073	laissez	laisser	VER				88.0	45008.0	18030.0	
+18147	moisie	moisir	VER		f	s	87.0	45227.0	18130.0	
+18229	veux	vouloir	VER				86.0	45463.0	18234.5	
+18399	lancerons	lancer	VER		m	p	84.0	45932.5	18452.0	
+18551	chu	choir	VER				83.0	46185.0	18565.0	
+18580	rider	rider	VER				83.0	46185.0	18565.0	
+18680	bitter	bitter	VER		m	s	82.0	46448.5	18674.0	
+18717	survenant	survenir	VER		m	s	82.0	46448.5	18674.0	
+18820	japonnais	japonner	VER				81.0	46704.5	18781.5	
+18857	accroupi	accroupir	VER		m	s	80.0	46953.0	18888.0	
+18880	viens	venir	VER				80.0	46953.0	18888.0	
+18890	computer	computer	VER		m	s	80.0	46953.0	18888.0	
+18968	bridger	bridger	VER				79.0	47204.5	18996.0	
+19065	mange	manger	VER				78.0	47475.5	19109.5	
+19109	doubler	doubler	VER		m	s	78.0	47475.5	19109.5	
+19603	force	forcer	VER	imp:pre:3		s	74.0	48619.0	19629.0	pI3S
+19697	kiffent	kiffer	VER				74.0	48619.0	19629.0	
+20122	jase	jaser	VER				70.0	49844.5	20177.5	
+20377	prends	prendre	VER				69.0	50179.5	20335.5	
+20464	rejoignez	rejoindre	VER				68.0	50517.0	20494.5	
+20986	imagine	imaginer	VER				65.0	51530.5	20965.0	
+20987	paniqués	paniquer	VER		m	p	65.0	51530.5	20965.0	
+21093	parle	parler	VER				64.0	51905.0	21143.0	
+21105	viola	violer	VER				64.0	51905.0	21143.0	
+21131	have	haver	VER				64.0	51905.0	21143.0	
+21433	peux	pouvoir	VER				62.0	52626.0	21472.0	
+21772	baisser	baisser	VER		m	s	60.0	53386.5	21804.0	
+21778	contra	contrer	VER		m	s	60.0	53386.5	21804.0	
+21901	sis	seoir	VER		m		59.0	53770.5	21974.0	
+22042	dois	devoir	VER				59.0	53770.5	21974.0	
+22057	regardez	regarder	VER				59.0	53770.5	21974.0	
+22141	venez	venir	VER				58.0	54169.0	22150.0	
+22576	chante	chanter	VER				56.0	55000.5	22511.5	
+22633	contras	contrer	VER		m	p	55.0	55427.0	22711.0	
+22919	officia	officier	VER				54.0	55870.5	22912.0	
+23091	flippé	flipper	VER		m	s	53.0	56303.0	23109.5	
+23215	excusez	excuser	VER				52.0	56733.0	23310.0	
+23356	skies	skier	VER				52.0	56733.0	23310.0	
+23547	raye	rayer	VER				51.0	57175.0	23512.0	
+23654	jardine	jardiner	VER				50.0	57641.0	23722.5	
+23810	mita	miter	VER		f	s	50.0	57641.0	23722.5	
+24111	trouve	trouver	VER				48.0	58631.5	24160.0	
+24325	indispose	indisposer	VER		f	s	47.0	59167.5	24401.5	
+24376	titra	titrer	VER				47.0	59167.5	24401.5	
+24473	dégage	dégager	VER				47.0	59167.5	24401.5	
+24591	pense	penser	VER				46.0	59693.5	24637.0	
+24616	rebondi	rebondir	VER		m	s	46.0	59693.5	24637.0	
+24714	attends	attendre	VER				46.0	59693.5	24637.0	
+24878	mesurons	mesurer	VER		m	p	45.0	60235.0	24874.5	
+25190	palmer	palmer	VER		m	s	44.0	60811.5	25136.0	
+25869	tenez	tenir	VER				41.0	62595.0	25976.5	
+26149	emmène	emmener	VER				40.0	63230.0	26277.5	
+26399	crois	croire	VER				40.0	63230.0	26277.5	
+26615	appelez	appeler	VER				39.0	63882.5	26580.0	
+26718	vas	aller	VER				39.0	63882.5	26580.0	
+26732	essaie	essayer	VER				38.0	64549.0	26882.0	
+26848	aimes	aimer	VER				38.0	64549.0	26882.0	
+27113	pardonne	pardonner	VER				37.0	65235.0	27201.5	
+27125	avérés	avérer	VER		m	p	37.0	65235.0	27201.5	
+27176	suivez	suivre	VER				37.0	65235.0	27201.5	
+27272	prenez	prendre	VER				37.0	65235.0	27201.5	
+27443	avérée	avérer	VER		f	s	36.0	65944.5	27550.0	
+27841	pourrais	pouvoir	VER				35.0	66680.5	27906.5	
+27927	sentant	sentir	VER		m	s	35.0	66680.5	27906.5	
+28019	sautons	sauter	VER		m	p	35.0	66680.5	27906.5	
+28197	reverse	reverser	VER				34.0	67447.0	28275.5	
+28343	souviens	souvenir	VER				34.0	67447.0	28275.5	
+28500	blottis	blottir	VER		m	p	33.0	68211.5	28657.0	
+28553	mettez	mettre	VER				33.0	68211.5	28657.0	
+28661	peut	pouvoir	VER				33.0	68211.5	28657.0	
+28695	parlez	parler	VER				33.0	68211.5	28657.0	
+29033	veut	vouloir	VER				32.0	68993.5	29044.0	
+29194	fit	faire	VER				32.0	68993.5	29044.0	
+29301	sortez	sortir	VER				31.0	69850.0	29444.5	
+29361	roulons	rouler	VER		m	p	31.0	69850.0	29444.5	
+29589	rappelle	rappeler	VER				31.0	69850.0	29444.5	
+29607	accroupis	accroupir	VER		m	p	31.0	69850.0	29444.5	
+29682	volette	voleter	VER		f	s	30.0	70751.5	29852.0	
+29697	menez	mener	VER				30.0	70751.5	29852.0	
+29754	rebondis	rebondir	VER		m	p	30.0	70751.5	29852.0	
+29885	ramène	ramener	VER				30.0	70751.5	29852.0	
+29958	suce	sucer	VER				30.0	70751.5	29852.0	
+30073	voila	voiler	VER				29.0	71669.0	30270.5	
+30096	kiffais	kiffer	VER				29.0	71669.0	30270.5	
+30465	réveille	réveiller	VER				29.0	71669.0	30270.5	
+30505	accroupie	accroupir	VER		f	s	28.0	72628.0	30717.0	
+30597	domine	dominer	VER				28.0	72628.0	30717.0	
+30628	lover	lover	VER				28.0	72628.0	30717.0	
+30650	arrêtez	arrêter	VER				28.0	72628.0	30717.0	
+30901	terra	terrer	VER				28.0	72628.0	30717.0	
+31005	ri	rire	VER				27.0	73637.5	31193.0	
+31138	tut	taire	VER				27.0	73637.5	31193.0	
+31256	repointe	repointer	VER		f	s	27.0	73637.5	31193.0	
+31408	écoutez	écouter	VER				27.0	73637.5	31193.0	
+31454	grimper	grimper	VER		m	s	26.0	74672.0	31683.0	
+31515	regardes	regarder	VER				26.0	74672.0	31683.0	
+31612	schlingue	schlinguer	VER				26.0	74672.0	31683.0	
+31640	rentre	rentrer	VER				26.0	74672.0	31683.0	
+31719	essaye	essayer	VER				26.0	74672.0	31683.0	
+31939	mit	mettre	VER				25.0	75767.0	32206.0	
+32094	pouffe	pouffer	VER				25.0	75767.0	32206.0	
+32269	tale	taler	VER				25.0	75767.0	32206.0	
+32277	reviens	revenir	VER				25.0	75767.0	32206.0	
+32354	cranes	craner	VER				25.0	75767.0	32206.0	
+32397	coud	coudre	VER				25.0	75767.0	32206.0	
+32619	restez	rester	VER				24.0	76975.5	32784.0	
+32684	rote	roter	VER		f	s	24.0	76975.5	32784.0	
+32959	renaude	renauder	VER				24.0	76975.5	32784.0	
+33190	calmez	calmer	VER				23.0	78243.0	33385.0	
+33259	pensez	penser	VER				23.0	78243.0	33385.0	
+33305	fonce	foncer	VER				23.0	78243.0	33385.0	
+33451	croyez	croire	VER				23.0	78243.0	33385.0	
+33469	aidez	aider	VER				23.0	78243.0	33385.0	
+33486	clive	cliver	VER				23.0	78243.0	33385.0	
+33554	rends	rendre	VER				23.0	78243.0	33385.0	
+33557	pinta	pinter	VER		f	s	23.0	78243.0	33385.0	
+33558	gerber	gerber	VER				23.0	78243.0	33385.0	
+33818	attendez	attendre	VER				22.0	79523.0	33986.0	
+33876	buvant	boire	VER		m	s	22.0	79523.0	33986.0	
+33949	sait	savoir	VER				22.0	79523.0	33986.0	
+34029	suit	suivre	VER				22.0	79523.0	33986.0	
+34079	chie	chier	VER				22.0	79523.0	33986.0	
+34138	penses	penser	VER				22.0	79523.0	33986.0	
+34206	croque	croquer	VER				22.0	79523.0	33986.0	
+34296	voyez	voir	VER				21.0	80870.5	34639.0	
+34325	kiffait	kiffer	VER				21.0	80870.5	34639.0	
+34382	sonne	sonner	VER				21.0	80870.5	34639.0	
+34452	arrive	arriver	VER				21.0	80870.5	34639.0	
+34455	jouasse	jouer	VER			s	21.0	80870.5	34639.0	
+34466	commence	commencer	VER				21.0	80870.5	34639.0	
+34545	barra	barrer	VER				21.0	80870.5	34639.0	
+34569	soupire	soupirer	VER				21.0	80870.5	34639.0	
+34772	trouvez	trouver	VER				21.0	80870.5	34639.0	
+35041	sauvez	sauver	VER				20.0	82341.0	35354.0	
+35264	répare	réparer	VER				20.0	82341.0	35354.0	
+35284	externaliser	externaliser	VER				20.0	82341.0	35354.0	
+35702	jure	jurer	VER				20.0	82341.0	35354.0	
+35731	priez	prier	VER				19.0	83875.5	36099.5	
+35746	rebondies	rebondir	VER		f	p	19.0	83875.5	36099.5	
+35944	font	faire	VER				19.0	83875.5	36099.5	
+36151	vérifie	vérifier	VER				19.0	83875.5	36099.5	
+36200	kiffant	kiffer	VER				19.0	83875.5	36099.5	
+36245	délia	délier	VER				19.0	83875.5	36099.5	
+36352	respire	respirer	VER				19.0	83875.5	36099.5	
+36369	reniflant	renifler	VER		m	s	19.0	83875.5	36099.5	
+36441	promets	promettre	VER				19.0	83875.5	36099.5	
+36510	rimant	rimer	VER		m	s	18.0	85482.0	36903.0	
+36527	demandez	demander	VER				18.0	85482.0	36903.0	
+36629	avérées	avérer	VER		f	p	18.0	85482.0	36903.0	
+36695	honore	honorer	VER				18.0	85482.0	36903.0	
+36806	doivent	devoir	VER				18.0	85482.0	36903.0	
+36820	piper	piper	VER				18.0	85482.0	36903.0	
+36922	préparez	préparer	VER				18.0	85482.0	36903.0	
+36984	moisies	moisir	VER		f	p	18.0	85482.0	36903.0	
+37154	vomissant	vomir	VER		m	s	18.0	85482.0	36903.0	
+37174	amuse	amuser	VER				18.0	85482.0	36903.0	
+37263	envoie	envoyer	VER				18.0	85482.0	36903.0	
+37340	rappelez	rappeler	VER				17.0	87264.0	37783.5	
+37474	envoyez	envoyer	VER				17.0	87264.0	37783.5	
+37737	poque	poquer	VER		f	s	17.0	87264.0	37783.5	
+37806	occupe	occuper	VER				17.0	87264.0	37783.5	
+37838	allier	allier	VER		m	s	17.0	87264.0	37783.5	
+38029	amusez	amuser	VER				17.0	87264.0	37783.5	
+38139	coupez	couper	VER				17.0	87264.0	37783.5	
+38318	dort	dormir	VER				16.0	89185.0	38725.5	
+38437	attire	attirer	VER				16.0	89185.0	38725.5	
+38443	brime	brimer	VER				16.0	89185.0	38725.5	
+38500	pue	puer	VER				16.0	89185.0	38725.5	
+38590	brille	briller	VER				16.0	89185.0	38725.5	
+38657	luise	luire	VER				16.0	89185.0	38725.5	
+38841	travaillant	travailler	VER		m	s	16.0	89185.0	38725.5	
+39019	borde	border	VER		f	s	16.0	89185.0	38725.5	
+39273	emmenez	emmener	VER				15.0	91229.5	39741.0	
+39281	entrez	entrer	VER				15.0	91229.5	39741.0	
+39317	vienne	venir	VER				15.0	91229.5	39741.0	
+39431	toues	touer	VER		f	p	15.0	91229.5	39741.0	
+39522	assure	assurer	VER				15.0	91229.5	39741.0	
+39530	importe	importer	VER				15.0	91229.5	39741.0	
+39614	refroidissant	refroidir	VER		m	s	15.0	91229.5	39741.0	
+39630	kifferais	kiffer	VER				15.0	91229.5	39741.0	
+39704	vont	aller	VER				15.0	91229.5	39741.0	
+39724	assurez	assurer	VER				15.0	91229.5	39741.0	
+39745	lisant	lire	VER		m	s	15.0	91229.5	39741.0	
+39767	nia	nier	VER				15.0	91229.5	39741.0	
+39854	apporte	apporter	VER				15.0	91229.5	39741.0	
+40063	taillons	tailler	VER		m	p	15.0	91229.5	39741.0	
+40261	cryogéniser	cryogéniser	VER				15.0	91229.5	39741.0	
+40479	gardez	garder	VER				14.0	93440.0	40843.0	
+40497	mettons	mettre	VER				14.0	93440.0	40843.0	
+40522	badger	badger	VER				14.0	93440.0	40843.0	
+40680	éclate	éclater	VER				14.0	93440.0	40843.0	
+40721	passez	passer	VER				14.0	93440.0	40843.0	
+40789	vient	venir	VER				14.0	93440.0	40843.0	
+40801	viennent	venir	VER				14.0	93440.0	40843.0	
+40827	présentent	présenter	VER				14.0	93440.0	40843.0	
+40852	répète	répéter	VER				14.0	93440.0	40843.0	
+40889	sis	seoir	VER		m	s	14.0	93440.0	40843.0	
+40902	souhaite	souhaiter	VER				14.0	93440.0	40843.0	
+40929	layer	layer	VER				14.0	93440.0	40843.0	
+41026	sautant	sauter	VER		m	s	14.0	93440.0	40843.0	
+41054	kiffez	kiffer	VER				14.0	93440.0	40843.0	
+41063	levez	lever	VER				14.0	93440.0	40843.0	
+41084	blastes	blaster	VER		m	p	14.0	93440.0	40843.0	
+41111	pardonnez	pardonner	VER				14.0	93440.0	40843.0	
+41231	ravageant	ravager	VER		m	s	14.0	93440.0	40843.0	
+41319	tuez	tuer	VER				14.0	93440.0	40843.0	
+41330	brûle	brûler	VER				14.0	93440.0	40843.0	
+41347	détendez	détendre	VER				14.0	93440.0	40843.0	
+41378	péchons	pécher	VER		m	p	14.0	93440.0	40843.0	
+41603	disent	dire	VER				13.0	95827.0	42055.0	
+41632	vallonné	vallonner	VER		m	s	13.0	95827.0	42055.0	
+41720	tapa	taper	VER		m	s	13.0	95827.0	42055.0	
+41749	prépare	préparer	VER				13.0	95827.0	42055.0	
+41806	montrez	montrer	VER				13.0	95827.0	42055.0	
+41821	arrêtes	arrêter	VER				13.0	95827.0	42055.0	
+41841	taisez	taire	VER				13.0	95827.0	42055.0	
+41908	protège	protéger	VER				13.0	95827.0	42055.0	
+41909	tapi	tapir	VER		m	s	13.0	95827.0	42055.0	
+42018	borde	border	VER		f	s	13.0	95827.0	42055.0	
+42277	apportez	apporter	VER				13.0	95827.0	42055.0	
+42407	répondez	répondre	VER				13.0	95827.0	42055.0	
+42436	souvenez	souvenir	VER				13.0	95827.0	42055.0	
+42507	butter	butter	VER				13.0	95827.0	42055.0	
+42513	bourdonnais	bourdonner	VER				13.0	95827.0	42055.0	
+42516	parles	parler	VER				13.0	95827.0	42055.0	
+42600	oriente	orienter	VER				13.0	95827.0	42055.0	
+42654	utilise	utiliser	VER				13.0	95827.0	42055.0	
+42718	déteste	détester	VER				12.0	98442.0	43369.0	
+42737	impulse	impulser	VER				12.0	98442.0	43369.0	
+42880	toue	touer	VER		f	s	12.0	98442.0	43369.0	
+42913	travaille	travailler	VER				12.0	98442.0	43369.0	
+42952	vivent	vivre	VER				12.0	98442.0	43369.0	
+43069	réponds	répondre	VER				12.0	98442.0	43369.0	
+43141	emporte	emporter	VER				12.0	98442.0	43369.0	
+43149	faisons	faire	VER				12.0	98442.0	43369.0	
+43284	donnons	donner	VER				12.0	98442.0	43369.0	
+43460	goûterons	goûter	VER		m	p	12.0	98442.0	43369.0	
+43488	permettez	permettre	VER				12.0	98442.0	43369.0	
+43489	retrouve	retrouver	VER				12.0	98442.0	43369.0	
+43511	jouent	jouer	VER				12.0	98442.0	43369.0	
+43569	sauvons	sauver	VER				12.0	98442.0	43369.0	
+43681	ressemble	ressembler	VER				12.0	98442.0	43369.0	
+43894	parant	parer	VER				12.0	98442.0	43369.0	
+44083	fermez	fermer	VER				11.0	101341.5	44818.0	
+44235	efface	effacer	VER				11.0	101341.5	44818.0	
+44317	palmas	palmer	VER		f	p	11.0	101341.5	44818.0	
+44319	obtenez	obtenir	VER				11.0	101341.5	44818.0	
+44334	procrastiner	procrastiner	VER				11.0	101341.5	44818.0	
+44362	fore	forer	VER				11.0	101341.5	44818.0	
+44402	associes	associer	VER				11.0	101341.5	44818.0	
+44570	chantonnant	chantonner	VER		m	s	11.0	101341.5	44818.0	
+44610	voudrais	vouloir	VER				11.0	101341.5	44818.0	
+44624	pouvez	pouvoir	VER				11.0	101341.5	44818.0	
+44629	arrache	arracher	VER				11.0	101341.5	44818.0	
+44738	abuse	abuser	VER				11.0	101341.5	44818.0	
+44750	détends	détendre	VER				11.0	101341.5	44818.0	
+44758	raconte	raconter	VER				11.0	101341.5	44818.0	
+44786	maria	marier	VER				11.0	101341.5	44818.0	
+44868	essayez	essayer	VER				11.0	101341.5	44818.0	
+45041	repointes	repointer	VER		f	p	11.0	101341.5	44818.0	
+45346	achetez	acheter	VER				11.0	101341.5	44818.0	
+45370	tournez	tourner	VER				11.0	101341.5	44818.0	
+45454	clapper	clapper	VER				11.0	101341.5	44818.0	
+45458	caillera	cailler	VER		f	s	11.0	101341.5	44818.0	
+45466	attrapez	attraper	VER				11.0	101341.5	44818.0	
+45470	vantes	vanter	VER				11.0	101341.5	44818.0	
+45526	crie	crier	VER				11.0	101341.5	44818.0	
+45664	parlons	parler	VER				10.0	104497.5	46405.0	
+45902	corder	corder	VER				10.0	104497.5	46405.0	
+45941	remets	remettre	VER				10.0	104497.5	46405.0	
+46123	salue	saluer	VER				10.0	104497.5	46405.0	
+46152	misa	miser	VER				10.0	104497.5	46405.0	
+46273	excitons	exciton	VER	imp:pre:1p;ind:pre:1p;	m	p	10.0	104497.5	46405.0	
+46483	bafouillant	bafouiller	VER		m	s	10.0	104497.5	46405.0	
+46519	revenez	revenir	VER				10.0	104497.5	46405.0	
+46525	revînmes	revenir	VER				10.0	104497.5	46405.0	
+46639	nettoie	nettoyer	VER				10.0	104497.5	46405.0	
+46659	semble	sembler	VER				10.0	104497.5	46405.0	
+46731	smasher	smasher	VER				10.0	104497.5	46405.0	
+46760	nageant	nager	VER		m	s	10.0	104497.5	46405.0	
+46836	signifie	signifier	VER				10.0	104497.5	46405.0	
+47096	accrochez	accrocher	VER				10.0	104497.5	46405.0	
+47155	gère	gérer	VER				10.0	104497.5	46405.0	
+47162	schtroumpfer	schtroumpfer	VER				10.0	104497.5	46405.0	
+47224	amenez	amener	VER				9.0	108023.5	48179.5	
+47231	dépêchez	dépêcher	VER				9.0	108023.5	48179.5	
+47304	vois	voir	VER				9.0	108023.5	48179.5	
+47314	lâchez	lâcher	VER				9.0	108023.5	48179.5	
+47358	dénonçons	dénoncer	VER				9.0	108023.5	48179.5	
+47383	ira	aller	VER				9.0	108023.5	48179.5	
+47490	dura	durer	VER				9.0	108023.5	48179.5	
+47572	couinant	couiner	VER		m	s	9.0	108023.5	48179.5	
+47582	décroche	décrocher	VER				9.0	108023.5	48179.5	
+47615	voulez	vouloir	VER				9.0	108023.5	48179.5	
+47723	jappe	japper	VER				9.0	108023.5	48179.5	
+47796	débouche	déboucher	VER				9.0	108023.5	48179.5	
+47933	considère	considérer	VER				9.0	108023.5	48179.5	
+48271	terras	terrer	VER		f	p	9.0	108023.5	48179.5	
+48342	rebondie	rebondir	VER		f	s	9.0	108023.5	48179.5	
+48439	cite	citer	VER				9.0	108023.5	48179.5	
+48488	rapporte	rapporter	VER				9.0	108023.5	48179.5	
+48737	fia	fier	VER				9.0	108023.5	48179.5	
+48764	adore	adorer	VER				9.0	108023.5	48179.5	
+49082	couvre	couvrir	VER				9.0	108023.5	48179.5	
+49122	soulageant	soulager	VER		m	s	9.0	108023.5	48179.5	
+49234	cessez	cesser	VER				8.0	112145.5	50269.5	
+49293	rapproche	rapprocher	VER				8.0	112145.5	50269.5	
+49320	irisa	iriser	VER				8.0	112145.5	50269.5	
+49321	reposez	reposer	VER				8.0	112145.5	50269.5	
+49338	ratatine	ratatiner	VER				8.0	112145.5	50269.5	
+49339	servez	servir	VER				8.0	112145.5	50269.5	
+49562	souhaitez	souhaiter	VER				8.0	112145.5	50269.5	
+49580	sent	sentir	VER				8.0	112145.5	50269.5	
+49598	sache	savoir	VER				8.0	112145.5	50269.5	
+49611	refuse	refuser	VER				8.0	112145.5	50269.5	
+49618	libérez	libérer	VER				8.0	112145.5	50269.5	
+49620	supplies	supplier	VER				8.0	112145.5	50269.5	
+49777	voletant	voleter	VER		m	s	8.0	112145.5	50269.5	
+49915	aimez	aimer	VER				8.0	112145.5	50269.5	
+50072	gavons	gaver	VER		m	p	8.0	112145.5	50269.5	
+50097	mène	mener	VER				8.0	112145.5	50269.5	
+50163	loves	lover	VER				8.0	112145.5	50269.5	
+50225	bayes	bayer	VER				8.0	112145.5	50269.5	
+50308	gagnez	gagner	VER				8.0	112145.5	50269.5	
+50341	poussez	pousser	VER				8.0	112145.5	50269.5	
+50379	pourrait	pouvoir	VER				8.0	112145.5	50269.5	
+50402	puisse	pouvoir	VER				8.0	112145.5	50269.5	
+50412	contra	contrer	VER				8.0	112145.5	50269.5	
+50431	plussoie	plussoyer	VER				8.0	112145.5	50269.5	
+50449	colores	colorer	VER				8.0	112145.5	50269.5	
+50514	tapie	tapir	VER		f	s	8.0	112145.5	50269.5	
+50578	comprenez	comprendre	VER				8.0	112145.5	50269.5	
+50704	profite	profiter	VER				8.0	112145.5	50269.5	
+50706	computer	computer	VER				8.0	112145.5	50269.5	
+50721	profile	profiler	VER				8.0	112145.5	50269.5	
+50756	patientez	patienter	VER				8.0	112145.5	50269.5	
+50766	pave	paver	VER				8.0	112145.5	50269.5	
+50801	crache	cracher	VER				8.0	112145.5	50269.5	
+50802	osa	oser	VER				8.0	112145.5	50269.5	
+50932	arrange	arranger	VER				8.0	112145.5	50269.5	
+50993	devinez	deviner	VER				8.0	112145.5	50269.5	
+51131	murai	murer	VER				8.0	112145.5	50269.5	
+51137	gis	gésir	VER				8.0	112145.5	50269.5	
+51159	habille	habiller	VER				8.0	112145.5	50269.5	
+51258	attaquent	attaquer	VER				8.0	112145.5	50269.5	
+51385	détoxifier	détoxifier	VER				8.0	112145.5	50269.5	
+51425	drapes	draper	VER				7.0	116949.5	52684.5	
+51515	barrera	barrer	VER				7.0	116949.5	52684.5	
+51627	basa	baser	VER				7.0	116949.5	52684.5	
+51674	battis	battre	VER				7.0	116949.5	52684.5	
+51808	buvez	boire	VER				7.0	116949.5	52684.5	
+51836	désole	désoler	VER				7.0	116949.5	52684.5	
+51920	siffle	siffler	VER				7.0	116949.5	52684.5	
+51976	démerde	démerder	VER		f	s	7.0	116949.5	52684.5	
+51992	meurt	mourir	VER				7.0	116949.5	52684.5	
+52061	démarre	démarrer	VER				7.0	116949.5	52684.5	
+52162	tournent	tourner	VER				7.0	116949.5	52684.5	
+52228	bossons	bosser	VER		m	p	7.0	116949.5	52684.5	
+52296	rejoins	rejoindre	VER				7.0	116949.5	52684.5	
+52385	valez	valoir	VER				7.0	116949.5	52684.5	
+52388	marmonne	marmonner	VER				7.0	116949.5	52684.5	
+52432	prend	prendre	VER				7.0	116949.5	52684.5	
+52660	tamise	tamiser	VER		f	s	7.0	116949.5	52684.5	
+52678	rentrez	rentrer	VER				7.0	116949.5	52684.5	
+52699	vautré	vautrer	VER		m	s	7.0	116949.5	52684.5	
+52717	bénisse	bénir	VER				7.0	116949.5	52684.5	
+52778	occupez	occuper	VER				7.0	116949.5	52684.5	
+52900	veuillez	vouloir	VER				7.0	116949.5	52684.5	
+52916	pleure	pleurer	VER				7.0	116949.5	52684.5	
+53063	poursuit	poursuivre	VER				7.0	116949.5	52684.5	
+53083	recule	reculer	VER				7.0	116949.5	52684.5	
+53089	cherchez	chercher	VER				7.0	116949.5	52684.5	
+53095	rode	roder	VER				7.0	116949.5	52684.5	
+53163	porta	porter	VER				7.0	116949.5	52684.5	
+53240	externalise	externaliser	VER				7.0	116949.5	52684.5	
+53280	halète	haleter	VER				7.0	116949.5	52684.5	
+53547	explique	expliquer	VER				7.0	116949.5	52684.5	
+53570	aggrave	aggraver	VER		f	s	7.0	116949.5	52684.5	
+53643	accepte	accepter	VER				7.0	116949.5	52684.5	
+53805	votez	voter	VER				7.0	116949.5	52684.5	
+53968	goûte	goûter	VER				7.0	116949.5	52684.5	
+53977	vapote	vapoter	VER				6.0	122618.5	55588.0	
+53996	cailleras	cailler	VER		f	p	6.0	122618.5	55588.0	
+54003	fume	fumer	VER				6.0	122618.5	55588.0	
+54110	commencez	commencer	VER				6.0	122618.5	55588.0	
+54122	éloigne	éloigner	VER				6.0	122618.5	55588.0	
+54148	vapoter	vapoter	VER				6.0	122618.5	55588.0	
+54177	mitas	miter	VER		f	p	6.0	122618.5	55588.0	
+54297	minaudant	minauder	VER		m	s	6.0	122618.5	55588.0	
+54305	soulève	soulever	VER				6.0	122618.5	55588.0	
+54335	entendons	entendre	VER				6.0	122618.5	55588.0	
+54465	mariner	mariner	VER				6.0	122618.5	55588.0	
+54567	comprimant	comprimer	VER		m	s	6.0	122618.5	55588.0	
+54630	présentez	présenter	VER				6.0	122618.5	55588.0	
+54657	concentre	concentrer	VER				6.0	122618.5	55588.0	
+54658	écloront	éclore	VER				6.0	122618.5	55588.0	
+54707	cries	crier	VER				6.0	122618.5	55588.0	
+54771	tambourine	tambouriner	VER				6.0	122618.5	55588.0	
+54797	aida	aider	VER				6.0	122618.5	55588.0	
+54827	ment	mentir	VER				6.0	122618.5	55588.0	
+54905	occupons	occuper	VER				6.0	122618.5	55588.0	
+54945	nagent	nager	VER				6.0	122618.5	55588.0	
+54985	ramenez	ramener	VER				6.0	122618.5	55588.0	
+54988	glousse	glousser	VER				6.0	122618.5	55588.0	
+55256	trisse	trisser	VER				6.0	122618.5	55588.0	
+55261	chantons	chanter	VER				6.0	122618.5	55588.0	
+55267	chantent	chanter	VER				6.0	122618.5	55588.0	
+55282	accrochant	accrocher	VER		m	s	6.0	122618.5	55588.0	
+55441	profites	profiter	VER				6.0	122618.5	55588.0	
+55614	exhale	exhaler	VER				6.0	122618.5	55588.0	
+55731	attend	attendre	VER				6.0	122618.5	55588.0	
+55740	entiché	enticher	VER		m	s	6.0	122618.5	55588.0	
+55762	cantonnais	cantonner	VER				6.0	122618.5	55588.0	
+55765	retrouvez	retrouver	VER				6.0	122618.5	55588.0	
+55786	retombe	retomber	VER		f	s	6.0	122618.5	55588.0	
+55860	ignore	ignorer	VER				6.0	122618.5	55588.0	
+56008	remercie	remercier	VER				6.0	122618.5	55588.0	
+56015	clavardant	clavarder	VER				6.0	122618.5	55588.0	
+56047	acceptez	accepter	VER				6.0	122618.5	55588.0	
+56062	claudique	claudiquer	VER				6.0	122618.5	55588.0	
+56108	pète	péter	VER				6.0	122618.5	55588.0	
+56162	renifle	renifler	VER				6.0	122618.5	55588.0	
+56259	posa	poser	VER				6.0	122618.5	55588.0	
+56262	sise	seoir	VER		f	s	6.0	122618.5	55588.0	
+56385	serrons	serrer	VER				6.0	122618.5	55588.0	
+56389	volent	voler	VER				6.0	122618.5	55588.0	
+56432	peuvent	pouvoir	VER				6.0	122618.5	55588.0	
+56440	allé	aller	VER				6.0	122618.5	55588.0	
+56558	sautez	sauter	VER				6.0	122618.5	55588.0	
+56632	aiment	aimer	VER				6.0	122618.5	55588.0	
+56691	démoniser	démoniser	VER				6.0	122618.5	55588.0	
+56768	fonctionne	fonctionner	VER				6.0	122618.5	55588.0	
+56793	brait	braire	VER				6.0	122618.5	55588.0	
+56916	dépasse	dépasser	VER				6.0	122618.5	55588.0	
+57023	vise	viser	VER				6.0	122618.5	55588.0	
+57111	va	aller	VER		m	s	6.0	122618.5	55588.0	
+57275	indique	indiquer	VER				5.0	129421.0	59149.5	
+57383	catcher	catcher	VER				5.0	129421.0	59149.5	
+57430	quittent	quitter	VER				5.0	129421.0	59149.5	
+57550	abandonne	abandonner	VER				5.0	129421.0	59149.5	
+57559	tua	tuer	VER				5.0	129421.0	59149.5	
+57563	stocker	stocker	VER				5.0	129421.0	59149.5	
+57592	mottons	motter	VER		m	p	5.0	129421.0	59149.5	
+57622	gargouillant	gargouiller	VER		m	s	5.0	129421.0	59149.5	
+57680	reprenez	reprendre	VER				5.0	129421.0	59149.5	
+57770	annule	annuler	VER				5.0	129421.0	59149.5	
+57797	tombent	tomber	VER				5.0	129421.0	59149.5	
+57865	étouffe	étouffer	VER				5.0	129421.0	59149.5	
+57914	lisant	lire	VER		m	s	5.0	129421.0	59149.5	
+57942	gainer	gainer	VER				5.0	129421.0	59149.5	
+57954	kiffaient	kiffer	VER				5.0	129421.0	59149.5	
+57956	gara	garer	VER				5.0	129421.0	59149.5	
+57970	godons	goder	VER		m	p	5.0	129421.0	59149.5	
+58018	savez	savoir	VER				5.0	129421.0	59149.5	
+58116	tirez	tirer	VER				5.0	129421.0	59149.5	
+58206	envole	envoler	VER				5.0	129421.0	59149.5	
+58214	sirote	siroter	VER				5.0	129421.0	59149.5	
+58268	nieraient	nier	VER				5.0	129421.0	59149.5	
+58286	trotter	trotter	VER				5.0	129421.0	59149.5	
+58308	cherchent	chercher	VER				5.0	129421.0	59149.5	
+58354	zombifier	zombifier	VER				5.0	129421.0	59149.5	
+58358	essayons	essayer	VER				5.0	129421.0	59149.5	
+58514	fie	fier	VER				5.0	129421.0	59149.5	
+58542	surveille	surveiller	VER				5.0	129421.0	59149.5	
+58553	rasa	raser	VER				5.0	129421.0	59149.5	
+58568	envoies	envoyer	VER				5.0	129421.0	59149.5	
+58628	accouche	accoucher	VER				5.0	129421.0	59149.5	
+58666	reliant	relier	VER				5.0	129421.0	59149.5	
+58726	nomme	nommer	VER				5.0	129421.0	59149.5	
+58740	dormez	dormir	VER				5.0	129421.0	59149.5	
+58749	méfiez	méfier	VER				5.0	129421.0	59149.5	
+58794	allume	allumer	VER				5.0	129421.0	59149.5	
+58892	changez	changer	VER				5.0	129421.0	59149.5	
+58900	arrivez	arriver	VER				5.0	129421.0	59149.5	
+59010	claves	claver	VER		m	p	5.0	129421.0	59149.5	
+59019	descend	descendre	VER				5.0	129421.0	59149.5	
+59029	desserre	desserrer	VER		f	s	5.0	129421.0	59149.5	
+59034	blotti	blottir	VER		m	s	5.0	129421.0	59149.5	
+59047	devez	devoir	VER				5.0	129421.0	59149.5	
+59052	devrait	devoir	VER				5.0	129421.0	59149.5	
+59264	ferre	ferrer	VER				5.0	129421.0	59149.5	
+59274	rager	rager	VER				5.0	129421.0	59149.5	
+59278	semblent	sembler	VER				5.0	129421.0	59149.5	
+59282	deviennent	devenir	VER				5.0	129421.0	59149.5	
+59299	blinder	blinder	VER				5.0	129421.0	59149.5	
+59413	baptise	baptiser	VER				5.0	129421.0	59149.5	
+59427	crée	créer	VER				5.0	129421.0	59149.5	
+59512	maudissons	maudire	VER			p	5.0	129421.0	59149.5	
+59642	bénissez	bénir	VER				5.0	129421.0	59149.5	
+59707	rotes	roter	VER		f	p	5.0	129421.0	59149.5	
+59731	déchire	déchirer	VER				5.0	129421.0	59149.5	
+59760	écosse	écosser	VER				5.0	129421.0	59149.5	
+59909	pare	parer	VER				5.0	129421.0	59149.5	
+60060	souhaites	souhaiter	VER				5.0	129421.0	59149.5	
+60062	prennent	prendre	VER				5.0	129421.0	59149.5	
+60064	prenons	prendre	VER				5.0	129421.0	59149.5	
+60092	jette	jeter	VER				5.0	129421.0	59149.5	
+60120	appuie	appuyer	VER				5.0	129421.0	59149.5	
+60132	aboie	aboyer	VER				5.0	129421.0	59149.5	
+60139	mangez	manger	VER				5.0	129421.0	59149.5	
+60181	penche	pencher	VER				5.0	129421.0	59149.5	
+60316	jouasse	jouer	VER		m	s	5.0	129421.0	59149.5	
+60357	comprends	comprendre	VER				5.0	129421.0	59149.5	
+60365	empêche	empêcher	VER				5.0	129421.0	59149.5	
+60554	voient	voir	VER				5.0	129421.0	59149.5	
+60660	approchez	approcher	VER				5.0	129421.0	59149.5	
+60704	versa	verser	VER				5.0	129421.0	59149.5	
+60890	bourlingue	bourlinguer	VER		f	s	5.0	129421.0	59149.5	
+60891	déboussolant	déboussoler	VER		m	s	5.0	129421.0	59149.5	
+60909	conspirant	conspirer	VER		m	s	5.0	129421.0	59149.5	
+60923	sommer	sommer	VER				5.0	129421.0	59149.5	
+60928	entichée	enticher	VER		f	s	5.0	129421.0	59149.5	
+60999	éloignez	éloigner	VER				5.0	129421.0	59149.5	
+61027	achève	achever	VER				5.0	129421.0	59149.5	
+61052	entends	entendre	VER				5.0	129421.0	59149.5	
+61056	paniquées	paniquer	VER		f	p	5.0	129421.0	59149.5	
+61120	tournons	tourner	VER				4.0	137986.5	63674.5	
+61197	rappelles	rappeler	VER				4.0	137986.5	63674.5	
+61199	put	pouvoir	VER				4.0	137986.5	63674.5	
+61228	émergeant	émerger	VER		m	s	4.0	137986.5	63674.5	
+61231	infiltrant	infiltrer	VER		m	s	4.0	137986.5	63674.5	
+61252	portait	porter	VER				4.0	137986.5	63674.5	
+61272	ignorez	ignorer	VER				4.0	137986.5	63674.5	
+61278	comptez	compter	VER				4.0	137986.5	63674.5	
+61384	endors	endormir	VER				4.0	137986.5	63674.5	
+61461	craner	craner	VER				4.0	137986.5	63674.5	
+61478	ponds	pondre	VER				4.0	137986.5	63674.5	
+61557	tabasse	tabasser	VER				4.0	137986.5	63674.5	
+61626	obéis	obéir	VER				4.0	137986.5	63674.5	
+61629	coûte	coûter	VER				4.0	137986.5	63674.5	
+61639	pendit	pendre	VER				4.0	137986.5	63674.5	
+61922	pensent	penser	VER				4.0	137986.5	63674.5	
+61960	rassemble	rassembler	VER				4.0	137986.5	63674.5	
+62065	descends	descendre	VER				4.0	137986.5	63674.5	
+62136	continuez	continuer	VER				4.0	137986.5	63674.5	
+62151	travaillent	travailler	VER				4.0	137986.5	63674.5	
+62289	raccroche	raccrocher	VER				4.0	137986.5	63674.5	
+62305	parlent	parler	VER				4.0	137986.5	63674.5	
+62345	papote	papoter	VER				4.0	137986.5	63674.5	
+62348	tordons	tordre	VER		m	p	4.0	137986.5	63674.5	
+62434	quarre	quarrer	VER		f	s	4.0	137986.5	63674.5	
+62454	enfile	enfiler	VER				4.0	137986.5	63674.5	
+62509	administrant	administrer	VER		m	s	4.0	137986.5	63674.5	
+62536	poins	poindre	VER				4.0	137986.5	63674.5	
+62673	raina	rainer	VER				4.0	137986.5	63674.5	
+62755	propose	proposer	VER				4.0	137986.5	63674.5	
+62765	toussant	tousser	VER				4.0	137986.5	63674.5	
+62771	passons	passer	VER				4.0	137986.5	63674.5	
+62772	occultant	occulter	VER		m	s	4.0	137986.5	63674.5	
+62851	devrais	devoir	VER				4.0	137986.5	63674.5	
+62885	oubliez	oublier	VER				4.0	137986.5	63674.5	
+62887	permets	permettre	VER				4.0	137986.5	63674.5	
+62922	dessine	dessiner	VER				4.0	137986.5	63674.5	
+62944	admets	admettre	VER				4.0	137986.5	63674.5	
+62976	arque	arquer	VER				4.0	137986.5	63674.5	
+63006	arrivent	arriver	VER				4.0	137986.5	63674.5	
+63039	énamourée	énamourer	VER		f	s	4.0	137986.5	63674.5	
+63117	écrase	écraser	VER				4.0	137986.5	63674.5	
+63147	posez	poser	VER				4.0	137986.5	63674.5	
+63178	énamouré	énamourer	VER		m	s	4.0	137986.5	63674.5	
+63181	symbolisant	symboliser	VER		m	s	4.0	137986.5	63674.5	
+63243	conduisez	conduire	VER				4.0	137986.5	63674.5	
+63328	menons	mener	VER		m	p	4.0	137986.5	63674.5	
+63385	use	user	VER				4.0	137986.5	63674.5	
+63400	soutenez	soutenir	VER				4.0	137986.5	63674.5	
+63437	vallonnées	vallonner	VER		f	p	4.0	137986.5	63674.5	
+63459	vaut	valoir	VER				4.0	137986.5	63674.5	
+63479	exprime	exprimer	VER				4.0	137986.5	63674.5	
+63498	marions	marier	VER				4.0	137986.5	63674.5	
+63514	voyager	voyager	VER				4.0	137986.5	63674.5	
+63549	aident	aider	VER				4.0	137986.5	63674.5	
+63625	réchauffe	réchauffer	VER				4.0	137986.5	63674.5	
+63678	vaincra	vaincre	VER				4.0	137986.5	63674.5	
+63701	frappez	frapper	VER				4.0	137986.5	63674.5	
+63814	retirez	retirer	VER				4.0	137986.5	63674.5	
+63991	existe	exister	VER				4.0	137986.5	63674.5	
+64011	camera	camer	VER				4.0	137986.5	63674.5	
+64024	expire	expirer	VER				4.0	137986.5	63674.5	
+64112	rivera	river	VER				4.0	137986.5	63674.5	
+64227	mita	miter	VER				4.0	137986.5	63674.5	
+64286	bomber	bomber	VER				4.0	137986.5	63674.5	
+64300	kifferait	kiffer	VER				4.0	137986.5	63674.5	
+64301	kiffera	kiffer	VER				4.0	137986.5	63674.5	
+64302	kifferai	kiffer	VER				4.0	137986.5	63674.5	
+64303	kifferaient	kiffer	VER				4.0	137986.5	63674.5	
+64472	flotterons	flotter	VER		m	p	4.0	137986.5	63674.5	
+64499	vais	aller	VER				4.0	137986.5	63674.5	
+64568	signez	signer	VER				4.0	137986.5	63674.5	
+64589	évite	éviter	VER				4.0	137986.5	63674.5	
+64604	laissons	laisser	VER				4.0	137986.5	63674.5	
+64627	ôta	ôter	VER				4.0	137986.5	63674.5	
+64632	ôte	ôter	VER				4.0	137986.5	63674.5	
+64690	secoue	secouer	VER				4.0	137986.5	63674.5	
+64722	boudine	boudiner	VER		f	s	4.0	137986.5	63674.5	
+64736	lavez	laver	VER				4.0	137986.5	63674.5	
+64750	sèment	semer	VER				4.0	137986.5	63674.5	
+64786	dégagez	dégager	VER				4.0	137986.5	63674.5	
+64789	dégages	dégager	VER				4.0	137986.5	63674.5	
+64798	fis	faire	VER				4.0	137986.5	63674.5	
+64891	ferait	faire	VER				4.0	137986.5	63674.5	
+64936	fourrez	fourrer	VER				4.0	137986.5	63674.5	
+64966	fumes	fumer	VER				4.0	137986.5	63674.5	
+65055	bougeant	bouger	VER		m	s	4.0	137986.5	63674.5	
+65084	voit	voir	VER				4.0	137986.5	63674.5	
+65116	déracinant	déraciner	VER		m	s	4.0	137986.5	63674.5	
+65118	saigne	saigner	VER				4.0	137986.5	63674.5	
+65124	réveilles	réveiller	VER				4.0	137986.5	63674.5	
+65142	dépucèle	dépuceler	VER				4.0	137986.5	63674.5	
+65169	saluons	saluer	VER				4.0	137986.5	63674.5	
+65231	réveillez	réveiller	VER				4.0	137986.5	63674.5	
+65233	jouez	jouer	VER				4.0	137986.5	63674.5	
+65295	gigote	gigoter	VER				4.0	137986.5	63674.5	
+65449	mâchonne	mâchonner	VER				4.0	137986.5	63674.5	
+65472	trouves	trouver	VER				4.0	137986.5	63674.5	
+65494	sacrifiant	sacrifier	VER		m	s	4.0	137986.5	63674.5	
+65521	sombra	sombrer	VER				4.0	137986.5	63674.5	
+65627	épousez	épouser	VER				4.0	137986.5	63674.5	
+65703	doublant	doubler	VER		m	s	4.0	137986.5	63674.5	
+65722	injecte	injecter	VER				4.0	137986.5	63674.5	
+65755	china	chiner	VER				4.0	137986.5	63674.5	
+65776	gondolé	gondoler	VER		m	s	4.0	137986.5	63674.5	
+65794	accouchant	accoucher	VER		m	s	4.0	137986.5	63674.5	
+65813	dirige	diriger	VER				4.0	137986.5	63674.5	
+65928	avancez	avancer	VER				4.0	137986.5	63674.5	
+65929	déversant	déverser	VER		m	s	4.0	137986.5	63674.5	
+65954	redécouvrons	redécouvrir	VER				4.0	137986.5	63674.5	
+65973	essayes	essayer	VER				4.0	137986.5	63674.5	
+66140	renvoie	renvoyer	VER				4.0	137986.5	63674.5	
+66144	casais	caser	VER				4.0	137986.5	63674.5	
+66224	meurent	mourir	VER				4.0	137986.5	63674.5	
+66294	possède	posséder	VER				3.0	149592.5	69924.0	
+66303	farfouille	farfouiller	VER				3.0	149592.5	69924.0	
+66336	recrute	recruter	VER				3.0	149592.5	69924.0	
+66398	rampons	ramper	VER		m	p	3.0	149592.5	69924.0	
+66472	pouvait	pouvoir	VER				3.0	149592.5	69924.0	
+66494	bourlingues	bourlinguer	VER		f	p	3.0	149592.5	69924.0	
+66541	bougez	bouger	VER				3.0	149592.5	69924.0	
+66570	coder	coder	VER				3.0	149592.5	69924.0	
+66588	envolez	envoler	VER				3.0	149592.5	69924.0	
+66597	espérons	espérer	VER				3.0	149592.5	69924.0	
+66697	portez	porter	VER				3.0	149592.5	69924.0	
+66768	fallait	falloir	VER				3.0	149592.5	69924.0	
+66806	cassez	casser	VER				3.0	149592.5	69924.0	
+66865	explose	exploser	VER				3.0	149592.5	69924.0	
+66904	réjouissez	réjouir	VER				3.0	149592.5	69924.0	
+66934	conduisant	conduire	VER				3.0	149592.5	69924.0	
+66981	redis	redire	VER				3.0	149592.5	69924.0	
+67080	sortent	sortir	VER				3.0	149592.5	69924.0	
+67098	avancent	avancer	VER				3.0	149592.5	69924.0	
+67141	pourrit	pourrir	VER				3.0	149592.5	69924.0	
+67178	savais	savoir	VER				3.0	149592.5	69924.0	
+67237	choque	choquer	VER				3.0	149592.5	69924.0	
+67252	blesse	blesser	VER				3.0	149592.5	69924.0	
+67267	sers	servir	VER				3.0	149592.5	69924.0	
+67348	reconsidère	reconsidérer	VER				3.0	149592.5	69924.0	
+67370	bordais	border	VER				3.0	149592.5	69924.0	
+67379	chuchote	chuchoter	VER				3.0	149592.5	69924.0	
+67442	reprends	reprendre	VER				3.0	149592.5	69924.0	
+67460	ôteraient	ôter	VER				3.0	149592.5	69924.0	
+67515	sentez	sentir	VER				3.0	149592.5	69924.0	
+67578	hoquette	hoqueter	VER				3.0	149592.5	69924.0	
+67579	sonnent	sonner	VER				3.0	149592.5	69924.0	
+67582	rêvez	rêver	VER				3.0	149592.5	69924.0	
+67754	sapa	saper	VER				3.0	149592.5	69924.0	
+67857	savoure	savourer	VER				3.0	149592.5	69924.0	
+67960	blotties	blottir	VER		f	p	3.0	149592.5	69924.0	
+68068	convenant	convenir	VER		m	s	3.0	149592.5	69924.0	
+68158	sciant	scier	VER		m	s	3.0	149592.5	69924.0	
+68166	schtroumpfes	schtroumpfer	VER				3.0	149592.5	69924.0	
+68181	recommence	recommencer	VER				3.0	149592.5	69924.0	
+68245	rient	rire	VER				3.0	149592.5	69924.0	
+68323	rueraient	ruer	VER				3.0	149592.5	69924.0	
+68368	extasie	extasier	VER				3.0	149592.5	69924.0	
+68375	précipitant	précipiter	VER		m	s	3.0	149592.5	69924.0	
+68414	éteignez	éteindre	VER				3.0	149592.5	69924.0	
+68427	préférez	préférer	VER				3.0	149592.5	69924.0	
+68515	renter	renter	VER				3.0	149592.5	69924.0	
+68695	puent	puer	VER				3.0	149592.5	69924.0	
+68733	exauce	exaucer	VER				3.0	149592.5	69924.0	
+68776	protégez	protéger	VER				3.0	149592.5	69924.0	
+68780	préviens	prévenir	VER				3.0	149592.5	69924.0	
+68799	rendent	rendre	VER				3.0	149592.5	69924.0	
+68921	réalisent	réaliser	VER				3.0	149592.5	69924.0	
+68927	réalise	réaliser	VER				3.0	149592.5	69924.0	
+68929	réagissant	réagir	VER		m	s	3.0	149592.5	69924.0	
+69083	clavarder	clavarder	VER				3.0	149592.5	69924.0	
+69102	commandent	commander	VER				3.0	149592.5	69924.0	
+69139	babille	babiller	VER				3.0	149592.5	69924.0	
+69155	hisse	hisser	VER				3.0	149592.5	69924.0	
+69202	remplace	remplacer	VER				3.0	149592.5	69924.0	
+69221	foutez	foutre	VER				3.0	149592.5	69924.0	
+69235	sucerais	sucer	VER				3.0	149592.5	69924.0	
+69299	grouille	grouiller	VER				3.0	149592.5	69924.0	
+69308	examiner	examiner	VER				3.0	149592.5	69924.0	
+69348	restent	rester	VER				3.0	149592.5	69924.0	
+69373	préparons	préparer	VER				3.0	149592.5	69924.0	
+69579	caquette	caqueter	VER		f	s	3.0	149592.5	69924.0	
+69581	résonne	résonner	VER				3.0	149592.5	69924.0	
+69597	faibli	faiblir	VER		m	s	3.0	149592.5	69924.0	
+69616	ferez	faire	VER				3.0	149592.5	69924.0	
+69620	faisaient	faire	VER				3.0	149592.5	69924.0	
+69634	faibli	faiblir	VER				3.0	149592.5	69924.0	
+69638	chassez	chasser	VER				3.0	149592.5	69924.0	
+69750	chantes	chanter	VER				3.0	149592.5	69924.0	
+69833	caracolant	caracoler	VER		m	s	3.0	149592.5	69924.0	
+69847	brillent	briller	VER				3.0	149592.5	69924.0	
+69989	rentres	rentrer	VER				3.0	149592.5	69924.0	
+70019	prosternez	prosterner	VER				3.0	149592.5	69924.0	
+70107	profiles	profiler	VER				3.0	149592.5	69924.0	
+70111	rader	rader	VER				3.0	149592.5	69924.0	
+70128	réglez	régler	VER				3.0	149592.5	69924.0	
+70195	stimule	stimuler	VER				3.0	149592.5	69924.0	
+70288	déconne	déconner	VER				3.0	149592.5	69924.0	
+70300	déshabille	déshabiller	VER				3.0	149592.5	69924.0	
+70306	énamourés	énamourer	VER		m	p	3.0	149592.5	69924.0	
+70347	exige	exiger	VER				3.0	149592.5	69924.0	
+70436	useraient	user	VER				3.0	149592.5	69924.0	
+70488	cuise	cuire	VER				3.0	149592.5	69924.0	
+70525	découvre	découvrir	VER				3.0	149592.5	69924.0	
+70541	approuve	approuver	VER				3.0	149592.5	69924.0	
+70720	oit	ouïr	VER				3.0	149592.5	69924.0	
+70791	décide	décider	VER				3.0	149592.5	69924.0	
+70810	désire	désirer	VER				3.0	149592.5	69924.0	
+70846	unissent	unir	VER				3.0	149592.5	69924.0	
+70974	joignez	joindre	VER				3.0	149592.5	69924.0	
+70994	maillant	mailler	VER		m	s	3.0	149592.5	69924.0	
+70997	jettes	jeter	VER				3.0	149592.5	69924.0	
+71088	venait	venir	VER				3.0	149592.5	69924.0	
+71096	vîntes	venir	VER				3.0	149592.5	69924.0	
+71099	aimait	aimer	VER				3.0	149592.5	69924.0	
+71135	viendra	venir	VER				3.0	149592.5	69924.0	
+71161	magnez	magner	VER				3.0	149592.5	69924.0	
+71178	pelant	peler	VER				3.0	149592.5	69924.0	
+71282	crucifie	crucifier	VER				3.0	149592.5	69924.0	
+71288	partez	partir	VER				3.0	149592.5	69924.0	
+71294	marinez	mariner	VER				3.0	149592.5	69924.0	
+71295	partagez	partager	VER				3.0	149592.5	69924.0	
+71308	parlait	parler	VER				3.0	149592.5	69924.0	
+71315	advenues	advenir	VER		f	p	3.0	149592.5	69924.0	
+71331	décroches	décrocher	VER				3.0	149592.5	69924.0	
+71348	marmonnant	marmonner	VER				3.0	149592.5	69924.0	
+71365	amortissant	amortir	VER		m	s	3.0	149592.5	69924.0	
+71425	crisse	crisser	VER				3.0	149592.5	69924.0	
+71462	tousse	tousser	VER				3.0	149592.5	69924.0	
+71531	détoxifie	détoxifier	VER				3.0	149592.5	69924.0	
+71555	effondre	effondrer	VER				3.0	149592.5	69924.0	
+71581	diminue	diminuer	VER				3.0	149592.5	69924.0	
+71587	méfie	méfier	VER				3.0	149592.5	69924.0	
+71589	dors	dormir	VER				3.0	149592.5	69924.0	
+71703	drape	draper	VER				3.0	149592.5	69924.0	
+71735	donna	donner	VER				3.0	149592.5	69924.0	
+71800	inscrivez	inscrire	VER				3.0	149592.5	69924.0	
+71803	zoné	zoner	VER		m	s	3.0	149592.5	69924.0	
+71821	dévore	dévorer	VER				3.0	149592.5	69924.0	
+71825	dissolve	dissoudre	VER				3.0	149592.5	69924.0	
+71915	mords	mordre	VER				3.0	149592.5	69924.0	
+71960	devines	deviner	VER				3.0	149592.5	69924.0	
+71978	devienne	devenir	VER				3.0	149592.5	69924.0	
+72048	installez	installer	VER				3.0	149592.5	69924.0	
+72177	téléphonez	téléphoner	VER				3.0	149592.5	69924.0	
+72178	transposons	transposon	VER	imp:pre:1p;ind:pre:1p;	m	p	3.0	149592.5	69924.0	
+72247	simule	simuler	VER				3.0	149592.5	69924.0	
+72262	casa	caser	VER				3.0	149592.5	69924.0	
+72284	dansent	danser	VER				3.0	149592.5	69924.0	
+72303	débrouillez	débrouiller	VER				3.0	149592.5	69924.0	
+72492	montrons	montrer	VER				3.0	149592.5	69924.0	
+72565	dansez	danser	VER				3.0	149592.5	69924.0	
+72621	débarquent	débarquer	VER				3.0	149592.5	69924.0	
+72622	débarque	débarquer	VER				3.0	149592.5	69924.0	
+72627	mordillent	mordiller	VER				3.0	149592.5	69924.0	
+72675	trouvons	trouver	VER				3.0	149592.5	69924.0	
+72735	love	lover	VER				3.0	149592.5	69924.0	
+72802	illumine	illuminer	VER				3.0	149592.5	69924.0	
+72816	piller	piller	VER				3.0	149592.5	69924.0	
+72918	lutine	lutiner	VER		f	s	3.0	149592.5	69924.0	
+72925	copulant	copuler	VER				3.0	149592.5	69924.0	
+72932	picote	picoter	VER		f	s	3.0	149592.5	69924.0	
+72933	tomba	tomber	VER				3.0	149592.5	69924.0	
+72971	luis	luire	VER				3.0	149592.5	69924.0	
+72976	arrangez	arranger	VER				3.0	149592.5	69924.0	
+72980	libère	libérer	VER				3.0	149592.5	69924.0	
+73107	imaginez	imaginer	VER				3.0	149592.5	69924.0	
+73127	visser	visser	VER				3.0	149592.5	69924.0	
+73185	endosses	endosser	VER		f	p	3.0	149592.5	69924.0	
+73259	insistent	insister	VER				3.0	149592.5	69924.0	
+73338	délie	délier	VER				3.0	149592.5	69924.0	
+73421	démerdes	démerder	VER		f	p	3.0	149592.5	69924.0	
+73447	immobilisant	immobiliser	VER		m	s	3.0	149592.5	69924.0	
+73503	copiez	copier	VER				3.0	149592.5	69924.0	
+73533	déplacez	déplacer	VER				3.0	149592.5	69924.0	
+73540	lancez	lancer	VER				3.0	149592.5	69924.0	
+73547	perd	perdre	VER				3.0	149592.5	69924.0	
+73642	blaste	blaster	VER		m	s	2.0	167125.0	79453.0	
+73662	catches	catcher	VER				2.0	167125.0	79453.0	
+73720	duper	duper	VER				2.0	167125.0	79453.0	
+73781	baisons	baiser	VER				2.0	167125.0	79453.0	
+73822	représentent	représenter	VER				2.0	167125.0	79453.0	
+73876	exclame	exclamer	VER				2.0	167125.0	79453.0	
+73903	blesses	blesser	VER				2.0	167125.0	79453.0	
+73924	moira	moirer	VER				2.0	167125.0	79453.0	
+74024	vérifiez	vérifier	VER				2.0	167125.0	79453.0	
+74030	débarrassez	débarrasser	VER				2.0	167125.0	79453.0	
+74052	babillant	babiller	VER		m	s	2.0	167125.0	79453.0	
+74102	renoncez	renoncer	VER				2.0	167125.0	79453.0	
+74111	flaire	flairer	VER				2.0	167125.0	79453.0	
+74140	meurs	mourir	VER				2.0	167125.0	79453.0	
+74150	meure	mourir	VER				2.0	167125.0	79453.0	
+74164	démonte	démonter	VER				2.0	167125.0	79453.0	
+74213	levons	lever	VER				2.0	167125.0	79453.0	
+74265	resté	rester	VER				2.0	167125.0	79453.0	
+74372	retire	retirer	VER				2.0	167125.0	79453.0	
+74462	gagna	gagner	VER				2.0	167125.0	79453.0	
+74464	gagnent	gagner	VER				2.0	167125.0	79453.0	
+74495	respirez	respirer	VER				2.0	167125.0	79453.0	
+74568	finisse	finir	VER				2.0	167125.0	79453.0	
+74582	désirerait	désirer	VER				2.0	167125.0	79453.0	
+74611	restons	rester	VER				2.0	167125.0	79453.0	
+74638	débloque	débloquer	VER				2.0	167125.0	79453.0	
+74738	accordant	accorder	VER		m	s	2.0	167125.0	79453.0	
+74808	baisent	baiser	VER				2.0	167125.0	79453.0	
+74834	détache	détacher	VER				2.0	167125.0	79453.0	
+74842	déambulant	déambuler	VER		m	s	2.0	167125.0	79453.0	
+74845	baisant	baiser	VER				2.0	167125.0	79453.0	
+74877	montez	monter	VER				2.0	167125.0	79453.0	
+74885	montez	monter	VER		m	s	2.0	167125.0	79453.0	
+74891	ressuscitant	ressusciter	VER				2.0	167125.0	79453.0	
+74892	exhalant	exhaler	VER		m	s	2.0	167125.0	79453.0	
+74930	exerce	exercer	VER				2.0	167125.0	79453.0	
+74947	montais	monter	VER				2.0	167125.0	79453.0	
+74960	lieraient	lier	VER				2.0	167125.0	79453.0	
+75002	supplie	supplier	VER				2.0	167125.0	79453.0	
+75073	installe	installer	VER				2.0	167125.0	79453.0	
+75114	reculez	reculer	VER				2.0	167125.0	79453.0	
+75116	reculant	reculer	VER		m	s	2.0	167125.0	79453.0	
+75140	dévoilant	dévoiler	VER		m	s	2.0	167125.0	79453.0	
+75185	accompagne	accompagner	VER				2.0	167125.0	79453.0	
+75191	cherchons	chercher	VER				2.0	167125.0	79453.0	
+75250	fila	filer	VER				2.0	167125.0	79453.0	
+75307	filmes	filmer	VER				2.0	167125.0	79453.0	
+75378	fiances	fiancer	VER				2.0	167125.0	79453.0	
+75390	mêle	mêler	VER				2.0	167125.0	79453.0	
+75402	inspire	inspirer	VER				2.0	167125.0	79453.0	
+75466	dépensez	dépenser	VER				2.0	167125.0	79453.0	
+75468	visez	viser	VER				2.0	167125.0	79453.0	
+75556	chevauche	chevaucher	VER				2.0	167125.0	79453.0	
+75577	sifflent	siffler	VER				2.0	167125.0	79453.0	
+75639	simulant	simuler	VER				2.0	167125.0	79453.0	
+75643	lancent	lancer	VER				2.0	167125.0	79453.0	
+75708	gloussent	glousser	VER				2.0	167125.0	79453.0	
+75734	suppose	supposer	VER				2.0	167125.0	79453.0	
+75757	remplissez	remplir	VER				2.0	167125.0	79453.0	
+75795	remodèle	remodeler	VER				2.0	167125.0	79453.0	
+75823	doublez	doubler	VER				2.0	167125.0	79453.0	
+75920	gava	gaver	VER				2.0	167125.0	79453.0	
+75936	douteriez	douter	VER				2.0	167125.0	79453.0	
+75938	remplit	remplir	VER				2.0	167125.0	79453.0	
+75951	remontons	remonter	VER				2.0	167125.0	79453.0	
+75953	dénonce	dénoncer	VER				2.0	167125.0	79453.0	
+75974	intercepte	intercepter	VER				2.0	167125.0	79453.0	
+76018	acceptes	accepter	VER				2.0	167125.0	79453.0	
+76029	existent	exister	VER				2.0	167125.0	79453.0	
+76065	rend	rendre	VER				2.0	167125.0	79453.0	
+76102	mute	muter	VER				2.0	167125.0	79453.0	
+76153	remettons	remettre	VER				2.0	167125.0	79453.0	
+76239	remettez	remettre	VER				2.0	167125.0	79453.0	
+76250	donnera	donner	VER				2.0	167125.0	79453.0	
+76299	rencontrez	rencontrer	VER				2.0	167125.0	79453.0	
+76300	donnent	donner	VER				2.0	167125.0	79453.0	
+76325	cava	caver	VER				2.0	167125.0	79453.0	
+76326	rencontrent	rencontrer	VER				2.0	167125.0	79453.0	
+76361	germant	germer	VER		m	s	2.0	167125.0	79453.0	
+76364	serrez	serrer	VER				2.0	167125.0	79453.0	
+76400	alla	aller	VER				2.0	167125.0	79453.0	
+76408	allait	aller	VER				2.0	167125.0	79453.0	
+76457	avoue	avouer	VER				2.0	167125.0	79453.0	
+76496	changent	changer	VER				2.0	167125.0	79453.0	
+76547	avouez	avouer	VER				2.0	167125.0	79453.0	
+76561	mangent	manger	VER				2.0	167125.0	79453.0	
+76568	réjouissons	réjouir	VER				2.0	167125.0	79453.0	
+76584	mandez	mander	VER				2.0	167125.0	79453.0	
+76615	dorment	dormir	VER				2.0	167125.0	79453.0	
+76618	dorme	dormir	VER				2.0	167125.0	79453.0	
+76667	suffoquant	suffoquer	VER				2.0	167125.0	79453.0	
+76696	filmez	filmer	VER				2.0	167125.0	79453.0	
+76700	détourne	détourner	VER				2.0	167125.0	79453.0	
+76776	aimerait	aimer	VER				2.0	167125.0	79453.0	
+76787	dégringole	dégringoler	VER				2.0	167125.0	79453.0	
+76863	régalons	régaler	VER				2.0	167125.0	79453.0	
+77007	bourdais	bourder	VER				2.0	167125.0	79453.0	
+77052	fabriquant	fabriquer	VER				2.0	167125.0	79453.0	
+77081	règnent	régner	VER				2.0	167125.0	79453.0	
+77087	barrez	barrer	VER				2.0	167125.0	79453.0	
+77139	manquent	manquer	VER				2.0	167125.0	79453.0	
+77161	butez	buter	VER				2.0	167125.0	79453.0	
+77165	isole	isoler	VER				2.0	167125.0	79453.0	
+77214	récupérez	récupérer	VER				2.0	167125.0	79453.0	
+77291	voulons	vouloir	VER				2.0	167125.0	79453.0	
+77384	fraiser	fraiser	VER				2.0	167125.0	79453.0	
+77419	vallonnée	vallonner	VER		f	s	2.0	167125.0	79453.0	
+77442	vallonnés	vallonner	VER		m	p	2.0	167125.0	79453.0	
+77522	sortons	sortir	VER				2.0	167125.0	79453.0	
+77614	faudra	falloir	VER				2.0	167125.0	79453.0	
+77667	aimons	aimer	VER				2.0	167125.0	79453.0	
+77670	jetez	jeter	VER				2.0	167125.0	79453.0	
+77714	venons	venir	VER				2.0	167125.0	79453.0	
+77723	légitimant	légitimer	VER		m	s	2.0	167125.0	79453.0	
+77738	jouasses	jouer	VER			p	2.0	167125.0	79453.0	
+77743	fonctionnent	fonctionner	VER				2.0	167125.0	79453.0	
+77824	vînmes	venir	VER				2.0	167125.0	79453.0	
+77928	brisez	briser	VER				2.0	167125.0	79453.0	
+78007	souffre	souffrir	VER				2.0	167125.0	79453.0	
+78036	calment	calmer	VER				2.0	167125.0	79453.0	
+78040	veillez	veiller	VER				2.0	167125.0	79453.0	
+78067	savait	savoir	VER				2.0	167125.0	79453.0	
+78144	répandent	répandre	VER				2.0	167125.0	79453.0	
+78146	dépêchons	dépêcher	VER				2.0	167125.0	79453.0	
+78222	réagis	réagir	VER				2.0	167125.0	79453.0	
+78293	déglingue	déglinguer	VER		f	s	2.0	167125.0	79453.0	
+78306	résonnent	résonner	VER				2.0	167125.0	79453.0	
+78311	vautrée	vautrer	VER		f	s	2.0	167125.0	79453.0	
+78382	expliquez	expliquer	VER				2.0	167125.0	79453.0	
+78391	sachez	savoir	VER				2.0	167125.0	79453.0	
+78451	bondis	bondir	VER				2.0	167125.0	79453.0	
+78516	fuma	fumer	VER				2.0	167125.0	79453.0	
+78531	intéresse	intéresser	VER				2.0	167125.0	79453.0	
+78536	déchaîne	déchaîner	VER				2.0	167125.0	79453.0	
+78564	faisant	faire	VER				2.0	167125.0	79453.0	
+78613	soufflent	souffler	VER				2.0	167125.0	79453.0	
+78709	déchut	déchoir	VER				2.0	167125.0	79453.0	
+78804	décampe	décamper	VER				2.0	167125.0	79453.0	
+78853	abatte	abattre	VER				2.0	167125.0	79453.0	
+78864	désirez	désirer	VER				2.0	167125.0	79453.0	
+78877	revenons	revenir	VER				2.0	167125.0	79453.0	
+78983	frappera	frapper	VER		m	s	2.0	167125.0	79453.0	
+79035	reviendra	revenir	VER				2.0	167125.0	79453.0	
+79059	défie	défier	VER				2.0	167125.0	79453.0	
+79061	ricanes	ricaner	VER				2.0	167125.0	79453.0	
+79156	externalisant	externaliser	VER				2.0	167125.0	79453.0	
+79177	scandant	scander	VER				2.0	167125.0	79453.0	
+79222	balaye	balayer	VER				2.0	167125.0	79453.0	
+79279	schtroumpfe	schtroumpfer	VER				2.0	167125.0	79453.0	
+79280	schtroumpfez	schtroumpfer	VER				2.0	167125.0	79453.0	
+79290	schtroumpfant	schtroumpfer	VER				2.0	167125.0	79453.0	
+79434	externalisent	externaliser	VER				2.0	167125.0	79453.0	
+79471	utilisez	utiliser	VER				2.0	167125.0	79453.0	
+79472	mettent	mettre	VER				2.0	167125.0	79453.0	
+79487	vivait	vivre	VER				2.0	167125.0	79453.0	
+79524	déclare	déclarer	VER				2.0	167125.0	79453.0	
+79555	réalisez	réaliser	VER				2.0	167125.0	79453.0	
+79560	réalisant	réaliser	VER		m	s	2.0	167125.0	79453.0	
+79586	fredonne	fredonner	VER				2.0	167125.0	79453.0	
+79627	réanalyse	réanalyser	VER		f	s	2.0	167125.0	79453.0	
+79639	tapions	taper	VER		m	p	2.0	167125.0	79453.0	
+79679	complu	complaire	VER		m	s	2.0	167125.0	79453.0	
+79728	roser	roser	VER				2.0	167125.0	79453.0	
+79761	usai	user	VER				2.0	167125.0	79453.0	
+79792	concentrons	concentrer	VER				2.0	167125.0	79453.0	
+79822	compares	comparer	VER				2.0	167125.0	79453.0	
+79849	paraît	paraître	VER				2.0	167125.0	79453.0	
+79878	soigne	soigner	VER				2.0	167125.0	79453.0	
+79889	traduis	traduire	VER				2.0	167125.0	79453.0	
+79893	élimine	éliminer	VER				2.0	167125.0	79453.0	
+79911	menons	mener	VER				2.0	167125.0	79453.0	
+80049	justifie	justifier	VER				2.0	167125.0	79453.0	
+80051	voyageant	voyager	VER				2.0	167125.0	79453.0	
+80106	pardonnes	pardonner	VER				2.0	167125.0	79453.0	
+80147	freine	freiner	VER				2.0	167125.0	79453.0	
+80252	tardons	tarder	VER		m	p	2.0	167125.0	79453.0	
+80281	enseignez	enseigner	VER				2.0	167125.0	79453.0	
+80306	échoient	échoir	VER				2.0	167125.0	79453.0	
+80308	attachez	attacher	VER				2.0	167125.0	79453.0	
+80314	prévenir	prévenir	VER		m	s	2.0	167125.0	79453.0	
+80366	apprends	apprendre	VER				2.0	167125.0	79453.0	
+80386	gracie	gracier	VER				2.0	167125.0	79453.0	
+80457	habite	habiter	VER				2.0	167125.0	79453.0	
+80483	assures	assurer	VER				2.0	167125.0	79453.0	
+80489	comptait	compter	VER				2.0	167125.0	79453.0	
+80509	habillez	habiller	VER				2.0	167125.0	79453.0	
+80555	composez	composer	VER				2.0	167125.0	79453.0	
+80607	advenue	advenir	VER		f	s	2.0	167125.0	79453.0	
+80667	havez	haver	VER				2.0	167125.0	79453.0	
+80674	enregistrez	enregistrer	VER				2.0	167125.0	79453.0	
+80684	enregistre	enregistrer	VER				2.0	167125.0	79453.0	
+80693	promenons	promener	VER				2.0	167125.0	79453.0	
+80694	écloraient	éclore	VER				2.0	167125.0	79453.0	
+80696	hait	haïr	VER				2.0	167125.0	79453.0	
+80828	prouvez	prouver	VER				2.0	167125.0	79453.0	
+80831	complique	compliquer	VER				2.0	167125.0	79453.0	
+80848	prouvent	prouver	VER				2.0	167125.0	79453.0	
+80857	hantant	hanter	VER				2.0	167125.0	79453.0	
+80868	prouve	prouver	VER				2.0	167125.0	79453.0	
+80874	créez	créer	VER				2.0	167125.0	79453.0	
+80883	précharge	précharger	VER		f	s	2.0	167125.0	79453.0	
+80891	appuyez	appuyer	VER				2.0	167125.0	79453.0	
+80895	hante	hanter	VER				2.0	167125.0	79453.0	
+80956	participons	participer	VER				2.0	167125.0	79453.0	
+80957	cryogénisant	cryogéniser	VER				2.0	167125.0	79453.0	
+80959	cryogénise	cryogéniser	VER				2.0	167125.0	79453.0	
+81005	accélère	accélérer	VER				2.0	167125.0	79453.0	
+81023	entraîne	entraîner	VER				2.0	167125.0	79453.0	
+81046	dansons	danser	VER				2.0	167125.0	79453.0	
+81073	appartient	appartenir	VER				2.0	167125.0	79453.0	
+81085	appellent	appeler	VER				2.0	167125.0	79453.0	
+81140	cliquez	cliquer	VER				2.0	167125.0	79453.0	
+81147	contacte	contacter	VER				2.0	167125.0	79453.0	
+81157	contamine	contaminer	VER				2.0	167125.0	79453.0	
+81178	engagez	engager	VER				2.0	167125.0	79453.0	
+81194	transpose	transposer	VER				2.0	167125.0	79453.0	
+81198	embrassez	embrasser	VER				2.0	167125.0	79453.0	
+81207	demandons	demander	VER				2.0	167125.0	79453.0	
+81215	quarre	quarrer	VER				2.0	167125.0	79453.0	
+81240	incruste	incruster	VER				2.0	167125.0	79453.0	
+81258	osent	oser	VER				2.0	167125.0	79453.0	
+81260	osez	oser	VER				2.0	167125.0	79453.0	
+81285	pagent	pager	VER				2.0	167125.0	79453.0	
+81290	organise	organiser	VER				2.0	167125.0	79453.0	
+81302	demandent	demander	VER				2.0	167125.0	79453.0	
+81369	séduis	séduire	VER				2.0	167125.0	79453.0	
+81375	échangent	échanger	VER				2.0	167125.0	79453.0	
+81406	incline	incliner	VER				2.0	167125.0	79453.0	
+81443	collectionne	collectionner	VER				2.0	167125.0	79453.0	
+81482	entend	entendre	VER				2.0	167125.0	79453.0	
+81495	attendant	attendre	VER				2.0	167125.0	79453.0	
+81506	pua	puer	VER				2.0	167125.0	79453.0	
+81509	enterre	enterrer	VER				2.0	167125.0	79453.0	
+81521	pètes	péter	VER				2.0	167125.0	79453.0	
+81536	pana	paner	VER				2.0	167125.0	79453.0	
+81541	attaquez	attaquer	VER				2.0	167125.0	79453.0	
+81567	célébrez	célébrer	VER				2.0	167125.0	79453.0	
+81623	attendent	attendre	VER				2.0	167125.0	79453.0	
+81648	entendez	entendre	VER				2.0	167125.0	79453.0	
+81679	terrorise	terroriser	VER				2.0	167125.0	79453.0	
+81688	hurle	hurler	VER				2.0	167125.0	79453.0	
+81748	codirigeant	codiriger	VER		m	s	2.0	167125.0	79453.0	
+81769	punissez	punir	VER				2.0	167125.0	79453.0	
+81905	extasiant	extasier	VER		m	s	2.0	167125.0	79453.0	
+81946	piaillant	piailler	VER		m	s	2.0	167125.0	79453.0	
+81947	transforme	transformer	VER				2.0	167125.0	79453.0	
+82013	agrippe	agripper	VER				2.0	167125.0	79453.0	
+82060	contient	contenir	VER				2.0	167125.0	79453.0	
+82069	articule	articuler	VER				2.0	167125.0	79453.0	
+82076	planta	planter	VER				2.0	167125.0	79453.0	
+82084	converge	converger	VER				2.0	167125.0	79453.0	
+82106	adapte	adapter	VER				2.0	167125.0	79453.0	
+82109	hua	huer	VER				2.0	167125.0	79453.0	
+82111	termine	terminer	VER				2.0	167125.0	79453.0	
+82112	construisez	construire	VER				2.0	167125.0	79453.0	
+82133	consulta	consulter	VER				2.0	167125.0	79453.0	
+82139	engage	engager	VER				2.0	167125.0	79453.0	
+82148	terminez	terminer	VER				2.0	167125.0	79453.0	
+82209	transformez	transformer	VER				2.0	167125.0	79453.0	
+82267	gémissent	gémir	VER				2.0	167125.0	79453.0	
+82334	terrifie	terrifier	VER				2.0	167125.0	79453.0	
+82422	tisse	tisser	VER				2.0	167125.0	79453.0	
+82435	pleurniche	pleurnicher	VER				2.0	167125.0	79453.0	
+82437	pleurnichant	pleurnicher	VER				2.0	167125.0	79453.0	
+82502	hâtez	hâter	VER				2.0	167125.0	79453.0	
+82548	ploie	ployer	VER				2.0	167125.0	79453.0	
+82550	correspond	correspondre	VER				2.0	167125.0	79453.0	
+82668	piochons	piocher	VER		m	p	2.0	167125.0	79453.0	
+82686	pleurent	pleurer	VER				2.0	167125.0	79453.0	
+82693	enfermez	enfermer	VER				2.0	167125.0	79453.0	
+82698	enferme	enfermer	VER				2.0	167125.0	79453.0	
+82746	admettons	admettre	VER				2.0	167125.0	79453.0	
+82804	confirme	confirmer	VER				2.0	167125.0	79453.0	
+82838	touchez	toucher	VER				2.0	167125.0	79453.0	
+82881	confessez	confesser	VER				2.0	167125.0	79453.0	
+82892	prive	priver	VER				2.0	167125.0	79453.0	
+82903	touchent	toucher	VER				2.0	167125.0	79453.0	
+82918	prit	prendre	VER				2.0	167125.0	79453.0	
+82947	profitons	profiter	VER				2.0	167125.0	79453.0	
+82961	pendez	pendre	VER				2.0	167125.0	79453.0	
+82977	profitez	profiter	VER				2.0	167125.0	79453.0	
+82982	pressa	presser	VER				2.0	167125.0	79453.0	
+82998	argente	argenter	VER				2.0	167125.0	79453.0	
+83001	crains	craindre	VER				2.0	167125.0	79453.0	
+83020	pressez	presser	VER				2.0	167125.0	79453.0	
+83051	implore	implorer	VER				2.0	167125.0	79453.0	
+83117	payent	payer	VER				2.0	167125.0	79453.0	
+83126	criez	crier	VER				2.0	167125.0	79453.0	
+83150	procrastiné	procrastiner	VER		m	s	2.0	167125.0	79453.0	
+83151	procrastinais	procrastiner	VER				2.0	167125.0	79453.0	
+83152	procrastinent	procrastiner	VER				2.0	167125.0	79453.0	
+83171	persévère	persévérer	VER				2.0	167125.0	79453.0	
+83227	payez	payer	VER				2.0	167125.0	79453.0	
+83241	acta	acter	VER				2.0	167125.0	79453.0	
+83322	considérez	considérer	VER				2.0	167125.0	79453.0	
+83345	pèse	peser	VER				2.0	167125.0	79453.0	
+83412	portent	porter	VER				2.0	167125.0	79453.0	
+83465	couvrez	couvrir	VER				2.0	167125.0	79453.0	
+83467	couvres	couvrir	VER				2.0	167125.0	79453.0	
+83497	percent	percer	VER				2.0	167125.0	79453.0	
+83562	pouvons	pouvoir	VER				2.0	167125.0	79453.0	
+83589	poulines	pouliner	VER		f	p	2.0	167125.0	79453.0	
+83605	connaît	connaître	VER				2.0	167125.0	79453.0	
+83610	connectez	connecter	VER				2.0	167125.0	79453.0	
+83612	poursuis	poursuivre	VER				2.0	167125.0	79453.0	
+83643	connecte	connecter	VER				2.0	167125.0	79453.0	
+83652	poussent	pousser	VER				2.0	167125.0	79453.0	
+83653	perdez	perdre	VER				2.0	167125.0	79453.0	
+83655	perds	perdre	VER				2.0	167125.0	79453.0	
+83664	épargnez	épargner	VER				2.0	167125.0	79453.0	
+83731	ranime	ranimer	VER				2.0	167125.0	79453.0	
+83771	disloquant	disloquer	VER		m	s	2.0	167125.0	79453.0	
+83777	augmentent	augmenter	VER				2.0	167125.0	79453.0	
+83891	rangez	ranger	VER				2.0	167125.0	79453.0	
+83934	recherchant	rechercher	VER				2.0	167125.0	79453.0	
+83939	disparaît	disparaître	VER				2.0	167125.0	79453.0	
+83946	raclons	racler	VER		m	p	2.0	167125.0	79453.0	
+83947	rattrape	rattraper	VER				2.0	167125.0	79453.0	
+83975	racontes	raconter	VER				2.0	167125.0	79453.0	
+83979	surprends	surprendre	VER				2.0	167125.0	79453.0	
+83986	raclant	racler	VER		m	s	2.0	167125.0	79453.0	
+83987	racontez	raconter	VER				2.0	167125.0	79453.0	
+84050	offusquant	offusquer	VER		m	s	2.0	167125.0	79453.0	
+84145	tripote	tripoter	VER				2.0	167125.0	79453.0	
+84189	nommez	nommer	VER				2.0	167125.0	79453.0	
+84196	trempez	tremper	VER				2.0	167125.0	79453.0	
+84200	oblige	obliger	VER				2.0	167125.0	79453.0	
+84204	ravale	ravaler	VER				2.0	167125.0	79453.0	
+84227	anéantissant	anéantir	VER		m	s	2.0	167125.0	79453.0	
+84235	devait	devoir	VER				2.0	167125.0	79453.0	
+84273	devient	devenir	VER				2.0	167125.0	79453.0	
+84299	grime	grimer	VER		m	s	2.0	167125.0	79453.0	
+84301	rancie	rancir	VER		f	s	2.0	167125.0	79453.0	
+84368	choisissez	choisir	VER				2.0	167125.0	79453.0	
+84396	devenez	devenir	VER				2.0	167125.0	79453.0	
+84405	embarquez	embarquer	VER				2.0	167125.0	79453.0	
+84412	inhalant	inhaler	VER		m	s	2.0	167125.0	79453.0	
+84423	chûtes	choir	VER				2.0	167125.0	79453.0	
+84439	surinterprète	surinterpréter	VER			s	2.0	167125.0	79453.0	
+84460	surprenez	surprendre	VER				2.0	167125.0	79453.0	
+84481	devenu	devenir	VER				2.0	167125.0	79453.0	
+84483	deviens	devenir	VER				2.0	167125.0	79453.0	
+84519	swingue	swinguer	VER				2.0	167125.0	79453.0	
+84663	esclaffe	esclaffer	VER				2.0	167125.0	79453.0	
+84698	descendit	descendre	VER				2.0	167125.0	79453.0	
+84703	clarifiant	clarifier	VER		m	s	2.0	167125.0	79453.0	
+84799	grattez	gratter	VER				2.0	167125.0	79453.0	
+84817	surveillez	surveiller	VER				2.0	167125.0	79453.0	
+84944	descendez	descendre	VER				2.0	167125.0	79453.0	
+84952	écarte	écarter	VER				2.0	167125.0	79453.0	
+84964	gondolés	gondoler	VER		m	p	2.0	167125.0	79453.0	
+84977	indisposes	indisposer	VER		f	p	2.0	167125.0	79453.0	
+85062	espère	espérer	VER				2.0	167125.0	79453.0	
+85073	envoyons	envoyer	VER				2.0	167125.0	79453.0	
+85158	opprime	opprimer	VER				2.0	167125.0	79453.0	
+85226	raccroches	raccrocher	VER				2.0	167125.0	79453.0	
+85272	rassemblez	rassembler	VER				2.0	167125.0	79453.0	
+85315	étudies	étudier	VER				1.0	201519.0	98864.5	
+85327	adoptez	adopter	VER				1.0	201519.0	98864.5	
+85339	accompagnez	accompagner	VER				1.0	201519.0	98864.5	
+85362	vendez	vendre	VER				1.0	201519.0	98864.5	
+85366	verrouille	verrouiller	VER				1.0	201519.0	98864.5	
+85380	vissa	visser	VER				1.0	201519.0	98864.5	
+85430	tentons	tenter	VER				1.0	201519.0	98864.5	
+85455	tentent	tenter	VER				1.0	201519.0	98864.5	
+85485	étudiez	étudier	VER				1.0	201519.0	98864.5	
+85503	ajoutez	ajouter	VER				1.0	201519.0	98864.5	
+85534	skier	skier	VER				1.0	201519.0	98864.5	
+85547	allaient	aller	VER				1.0	201519.0	98864.5	
+85600	supprime	supprimer	VER				1.0	201519.0	98864.5	
+85675	éduque	éduquer	VER				1.0	201519.0	98864.5	
+85678	allumez	allumer	VER				1.0	201519.0	98864.5	
+85681	thématisée	thématiser	VER		f	s	1.0	201519.0	98864.5	
+85686	viner	viner	VER				1.0	201519.0	98864.5	
+85709	slalome	slalomer	VER				1.0	201519.0	98864.5	
+85726	supprimez	supprimer	VER				1.0	201519.0	98864.5	
+85730	bidonne	bidonner	VER				1.0	201519.0	98864.5	
+85775	amenons	amener	VER				1.0	201519.0	98864.5	
+85812	aimerais	aimer	VER				1.0	201519.0	98864.5	
+85817	évade	évader	VER				1.0	201519.0	98864.5	
+85835	viendras	venir	VER				1.0	201519.0	98864.5	
+85847	sonnera	sonner	VER				1.0	201519.0	98864.5	
+85856	venter	venter	VER				1.0	201519.0	98864.5	
+85866	abomine	abominer	VER				1.0	201519.0	98864.5	
+85904	viendraient	venir	VER				1.0	201519.0	98864.5	
+85906	venez	venir	VER				1.0	201519.0	98864.5	
+85908	venais	venir	VER				1.0	201519.0	98864.5	
+85926	trie	trier	VER				1.0	201519.0	98864.5	
+85929	suivent	suivre	VER				1.0	201519.0	98864.5	
+85990	étudierais	étudier	VER				1.0	201519.0	98864.5	
+86002	assigne	assigner	VER				1.0	201519.0	98864.5	
+86021	tient	tenir	VER				1.0	201519.0	98864.5	
+86023	sombrera	sombrer	VER				1.0	201519.0	98864.5	
+86026	étudie	étudier	VER				1.0	201519.0	98864.5	
+86036	adora	adorer	VER				1.0	201519.0	98864.5	
+86055	adorez	adorer	VER				1.0	201519.0	98864.5	
+86060	adorons	adorer	VER				1.0	201519.0	98864.5	
+86095	bataillant	batailler	VER		m	s	1.0	201519.0	98864.5	
+86133	vendent	vendre	VER				1.0	201519.0	98864.5	
+86160	suffit	suffire	VER				1.0	201519.0	98864.5	
+86221	avérez	avérer	VER				1.0	201519.0	98864.5	
+86225	sueraient	suer	VER				1.0	201519.0	98864.5	
+86227	surveilles	surveiller	VER				1.0	201519.0	98864.5	
+86242	veillons	veiller	VER				1.0	201519.0	98864.5	
+86259	aboule	abouler	VER				1.0	201519.0	98864.5	
+86289	trébuché	trébucher	VER				1.0	201519.0	98864.5	
+86298	battez	battre	VER				1.0	201519.0	98864.5	
+86397	axons	axer	VER				1.0	201519.0	98864.5	
+86428	agenouillez	agenouiller	VER				1.0	201519.0	98864.5	
+86445	soulevez	soulever	VER				1.0	201519.0	98864.5	
+86562	basions	baser	VER		m	p	1.0	201519.0	98864.5	
+86583	verras	voir	VER				1.0	201519.0	98864.5	
+86595	voyions	voir	VER				1.0	201519.0	98864.5	
+86616	tendez	tendre	VER				1.0	201519.0	98864.5	
+86625	tord	tordre	VER				1.0	201519.0	98864.5	
+86626	abonnes	abonner	VER				1.0	201519.0	98864.5	
+86634	sonder	sonder	VER		m	s	1.0	201519.0	98864.5	
+86645	verra	voir	VER				1.0	201519.0	98864.5	
+86666	avortez	avorter	VER				1.0	201519.0	98864.5	
+86681	évacuez	évacuer	VER				1.0	201519.0	98864.5	
+86696	supposons	supposer	VER				1.0	201519.0	98864.5	
+86710	thermaliser	thermaliser	VER				1.0	201519.0	98864.5	
+86732	abaissez	abaisser	VER				1.0	201519.0	98864.5	
+86741	zozotant	zozoter	VER				1.0	201519.0	98864.5	
+86742	admettez	admettre	VER				1.0	201519.0	98864.5	
+86751	avalez	avaler	VER				1.0	201519.0	98864.5	
+86756	suiviez	suivre	VER				1.0	201519.0	98864.5	
+86768	arriverai	arriver	VER				1.0	201519.0	98864.5	
+86774	supprimer	supprimer	VER		m	s	1.0	201519.0	98864.5	
+86797	adorent	adorer	VER				1.0	201519.0	98864.5	
+86818	battent	battre	VER				1.0	201519.0	98864.5	
+86872	allies	allier	VER				1.0	201519.0	98864.5	
+86882	arriva	arriver	VER				1.0	201519.0	98864.5	
+86921	sommeille	sommeiller	VER				1.0	201519.0	98864.5	
+86966	vola	voler	VER				1.0	201519.0	98864.5	
+86981	tends	tendre	VER				1.0	201519.0	98864.5	
+86992	soucie	soucier	VER				1.0	201519.0	98864.5	
+86998	voyons	voir	VER				1.0	201519.0	98864.5	
+87010	tirons	tirer	VER				1.0	201519.0	98864.5	
+87060	tissez	tisser	VER				1.0	201519.0	98864.5	
+87076	va	aller	VER		m	s	1.0	201519.0	98864.5	
+87079	allais	aller	VER				1.0	201519.0	98864.5	
+87098	visita	visiter	VER				1.0	201519.0	98864.5	
+87110	visitez	visiter	VER				1.0	201519.0	98864.5	
+87117	bigler	bigler	VER				1.0	201519.0	98864.5	
+87157	zonés	zoner	VER		m	p	1.0	201519.0	98864.5	
+87188	virez	virer	VER				1.0	201519.0	98864.5	
+87200	aliène	aliéner	VER				1.0	201519.0	98864.5	
+87225	tomber	tomber	VER				1.0	201519.0	98864.5	
+87232	socialiser	socialiser	VER				1.0	201519.0	98864.5	
+87281	unissez	unir	VER				1.0	201519.0	98864.5	
+87295	écrasons	écraser	VER				1.0	201519.0	98864.5	
+87301	aspire	aspirer	VER				1.0	201519.0	98864.5	
+87309	évitons	éviter	VER				1.0	201519.0	98864.5	
+87325	théorisant	théoriser	VER		m	s	1.0	201519.0	98864.5	
+87351	alerter	alerter	VER				1.0	201519.0	98864.5	
+87388	attendras	attendre	VER				1.0	201519.0	98864.5	
+87390	attendons	attendre	VER				1.0	201519.0	98864.5	
+87423	stérilise	stériliser	VER				1.0	201519.0	98864.5	
+87469	écoutent	écouter	VER				1.0	201519.0	98864.5	
+87470	avertissez	avertir	VER				1.0	201519.0	98864.5	
+87523	trouvera	trouver	VER				1.0	201519.0	98864.5	
+87581	assaisonnent	assaisonner	VER				1.0	201519.0	98864.5	
+87606	trouviez	trouver	VER				1.0	201519.0	98864.5	
+87650	arrêtons	arrêter	VER				1.0	201519.0	98864.5	
+87664	tintinnabule	tintinnabuler	VER				1.0	201519.0	98864.5	
+87694	adhèrent	adhérer	VER				1.0	201519.0	98864.5	
+87718	ôtes	ôter	VER				1.0	201519.0	98864.5	
+87719	trompez	tromper	VER				1.0	201519.0	98864.5	
+87744	accompagnes	accompagner	VER				1.0	201519.0	98864.5	
+87789	terrassons	terrasser	VER		m	p	1.0	201519.0	98864.5	
+87903	vivons	vivre	VER				1.0	201519.0	98864.5	
+87927	aime	aimer	VER				1.0	201519.0	98864.5	
+87939	autorisez	autoriser	VER				1.0	201519.0	98864.5	
+87953	sortais	sortir	VER				1.0	201519.0	98864.5	
+87967	écrasez	écraser	VER				1.0	201519.0	98864.5	
+88048	vivra	vivre	VER				1.0	201519.0	98864.5	
+88065	torchez	torcher	VER				1.0	201519.0	98864.5	
+88113	argentais	argenter	VER		m		1.0	201519.0	98864.5	
+88125	suffoque	suffoquer	VER				1.0	201519.0	98864.5	
+88133	songez	songer	VER				1.0	201519.0	98864.5	
+88153	vengent	venger	VER				1.0	201519.0	98864.5	
+88156	assomme	assommer	VER				1.0	201519.0	98864.5	
+88175	battons	battre	VER				1.0	201519.0	98864.5	
+88211	aimaient	aimer	VER				1.0	201519.0	98864.5	
+88244	tiennent	tenir	VER				1.0	201519.0	98864.5	
+88288	énamourées	énamourer	VER		f	p	1.0	201519.0	98864.5	
+88321	abstenue	abstenir	VER		f	s	1.0	201519.0	98864.5	
+88339	attendes	attendre	VER				1.0	201519.0	98864.5	
+88358	attendrai	attendre	VER				1.0	201519.0	98864.5	
+88455	baller	baller	VER				1.0	201519.0	98864.5	
+88463	applaudissent	applaudir	VER				1.0	201519.0	98864.5	
+88475	ballonnant	ballonner	VER		m	s	1.0	201519.0	98864.5	
+88503	testez	tester	VER				1.0	201519.0	98864.5	
+88528	terminent	terminer	VER				1.0	201519.0	98864.5	
+88569	videz	vider	VER				1.0	201519.0	98864.5	
+88607	arrachez	arracher	VER				1.0	201519.0	98864.5	
+88622	accorde	accorder	VER				1.0	201519.0	98864.5	
+88623	tester	tester	VER				1.0	201519.0	98864.5	
+88628	abandonnez	abandonner	VER				1.0	201519.0	98864.5	
+88716	séparons	séparer	VER				1.0	201519.0	98864.5	
+88723	séparant	séparer	VER		m	s	1.0	201519.0	98864.5	
+88730	appelais	appeler	VER				1.0	201519.0	98864.5	
+88733	balayant	balayer	VER				1.0	201519.0	98864.5	
+88736	appartenez	appartenir	VER				1.0	201519.0	98864.5	
+88808	utilisait	utiliser	VER				1.0	201519.0	98864.5	
+88831	éternuent	éternuer	VER				1.0	201519.0	98864.5	
+88843	acceptent	accepter	VER				1.0	201519.0	98864.5	
+88846	utilises	utiliser	VER				1.0	201519.0	98864.5	
+88873	écarteler	écarteler	VER				1.0	201519.0	98864.5	
+88874	appelait	appeler	VER				1.0	201519.0	98864.5	
+88881	sélectionne	sélectionner	VER				1.0	201519.0	98864.5	
+88884	séjourne	séjourner	VER				1.0	201519.0	98864.5	
+88895	tète	téter	VER				1.0	201519.0	98864.5	
+88905	balayant	balayer	VER		m	s	1.0	201519.0	98864.5	
+88940	assèche	assécher	VER				1.0	201519.0	98864.5	
+88954	soupires	soupirer	VER				1.0	201519.0	98864.5	
+88970	balayez	balayer	VER				1.0	201519.0	98864.5	
+88992	balaie	balayer	VER				1.0	201519.0	98864.5	
+89001	agis	agir	VER				1.0	201519.0	98864.5	
+89008	stagner	stagner	VER				1.0	201519.0	98864.5	
+89036	vomit	vomir	VER				1.0	201519.0	98864.5	
+89041	transmettez	transmettre	VER				1.0	201519.0	98864.5	
+89079	tardes	tarder	VER				1.0	201519.0	98864.5	
+89111	sucent	sucer	VER				1.0	201519.0	98864.5	
+89124	apprend	apprendre	VER				1.0	201519.0	98864.5	
+89168	échurent	échoir	VER				1.0	201519.0	98864.5	
+89175	aggraves	aggraver	VER		f	p	1.0	201519.0	98864.5	
+89188	transformer	transformer	VER				1.0	201519.0	98864.5	
+89191	applaudissez	applaudir	VER				1.0	201519.0	98864.5	
+89311	traversent	traverser	VER				1.0	201519.0	98864.5	
+89315	unifiant	unifier	VER		m	s	1.0	201519.0	98864.5	
+89341	échoiront	échoir	VER				1.0	201519.0	98864.5	
+89364	acheter	acheter	VER		m	s	1.0	201519.0	98864.5	
+89369	éternue	éternuer	VER				1.0	201519.0	98864.5	
+89373	apprenez	apprendre	VER				1.0	201519.0	98864.5	
+89376	utilisant	utiliser	VER				1.0	201519.0	98864.5	
+89386	bandai	bander	VER				1.0	201519.0	98864.5	
+89392	échoue	échouer	VER				1.0	201519.0	98864.5	
+89408	échoues	échouer	VER				1.0	201519.0	98864.5	
+89409	traitez	traiter	VER				1.0	201519.0	98864.5	
+89412	éloignes	éloigner	VER				1.0	201519.0	98864.5	
+89504	taillader	taillader	VER				1.0	201519.0	98864.5	
+89527	apprendrai	apprendre	VER				1.0	201519.0	98864.5	
+89601	craignant	craindre	VER				1.0	201519.0	98864.5	
+89603	craignez	craindre	VER				1.0	201519.0	98864.5	
+89609	pensait	penser	VER				1.0	201519.0	98864.5	
+89638	croisent	croiser	VER				1.0	201519.0	98864.5	
+89644	pensais	penser	VER				1.0	201519.0	98864.5	
+89646	penserais	penser	VER				1.0	201519.0	98864.5	
+89668	cranait	craner	VER				1.0	201519.0	98864.5	
+89672	pendent	pendre	VER				1.0	201519.0	98864.5	
+89680	appelles	appeler	VER				1.0	201519.0	98864.5	
+89686	travaillons	travailler	VER				1.0	201519.0	98864.5	
+89754	cramponne	cramponner	VER				1.0	201519.0	98864.5	
+89779	plaignez	plaindre	VER				1.0	201519.0	98864.5	
+89816	convoque	convoquer	VER				1.0	201519.0	98864.5	
+89824	coorganise	coorganiser	VER				1.0	201519.0	98864.5	
+89830	convoite	convoiter	VER				1.0	201519.0	98864.5	
+89861	échappe	échapper	VER				1.0	201519.0	98864.5	
+90001	accuse	accuser	VER				1.0	201519.0	98864.5	
+90007	sécurise	sécuriser	VER				1.0	201519.0	98864.5	
+90039	baignes	baigner	VER				1.0	201519.0	98864.5	
+90041	agite	agiter	VER				1.0	201519.0	98864.5	
+90053	stoppe	stopper	VER				1.0	201519.0	98864.5	
+90063	affichant	afficher	VER				1.0	201519.0	98864.5	
+90125	baisait	baiser	VER				1.0	201519.0	98864.5	
+90135	transporte	transporter	VER				1.0	201519.0	98864.5	
+90144	stimulez	stimuler	VER				1.0	201519.0	98864.5	
+90159	séchez	sécher	VER				1.0	201519.0	98864.5	
+90167	stoppez	stopper	VER				1.0	201519.0	98864.5	
+90176	sécherons	sécher	VER		m	p	1.0	201519.0	98864.5	
+90183	travaillait	travailler	VER				1.0	201519.0	98864.5	
+90200	stocke	stocker	VER				1.0	201519.0	98864.5	
+90219	annulez	annuler	VER				1.0	201519.0	98864.5	
+90220	transférer	transférer	VER		m	s	1.0	201519.0	98864.5	
+90235	séparez	séparer	VER				1.0	201519.0	98864.5	
+90241	sépare	séparer	VER				1.0	201519.0	98864.5	
+90247	agissent	agir	VER				1.0	201519.0	98864.5	
+90272	agira	agir	VER				1.0	201519.0	98864.5	
+90286	stabilise	stabiliser	VER				1.0	201519.0	98864.5	
+90313	échappons	échapper	VER				1.0	201519.0	98864.5	
+90396	étouffent	étouffer	VER				1.0	201519.0	98864.5	
+90404	tapies	tapir	VER		f	p	1.0	201519.0	98864.5	
+90431	appuies	appuyer	VER				1.0	201519.0	98864.5	
+90442	voulait	vouloir	VER				1.0	201519.0	98864.5	
+90449	voudriez	vouloir	VER				1.0	201519.0	98864.5	
+90510	tuerai	tuer	VER				1.0	201519.0	98864.5	
+90516	asséchant	assécher	VER		m	s	1.0	201519.0	98864.5	
+90519	toussotant	toussoter	VER				1.0	201519.0	98864.5	
+90550	barrons	barrer	VER				1.0	201519.0	98864.5	
+90553	acclamant	acclamer	VER				1.0	201519.0	98864.5	
+90555	amusa	amuser	VER				1.0	201519.0	98864.5	
+90560	amuses	amuser	VER				1.0	201519.0	98864.5	
+90563	élevèrent	élever	VER				1.0	201519.0	98864.5	
+90566	voudrait	vouloir	VER				1.0	201519.0	98864.5	
+90570	veuille	vouloir	VER				1.0	201519.0	98864.5	
+90572	voulaient	vouloir	VER				1.0	201519.0	98864.5	
+90573	sous-estimer	sous-estimer	VER				1.0	201519.0	98864.5	
+90590	vanna	vanner	VER				1.0	201519.0	98864.5	
+90597	amusons	amuser	VER				1.0	201519.0	98864.5	
+90647	appréciez	apprécier	VER				1.0	201519.0	98864.5	
+90661	élevez	élever	VER				1.0	201519.0	98864.5	
+90691	apprécie	apprécier	VER				1.0	201519.0	98864.5	
+90692	améliorez	améliorer	VER				1.0	201519.0	98864.5	
+90705	valait	valoir	VER				1.0	201519.0	98864.5	
+90720	astiquent	astiquer	VER				1.0	201519.0	98864.5	
+90736	tapez	taper	VER				1.0	201519.0	98864.5	
+90762	voudraient	vouloir	VER				1.0	201519.0	98864.5	
+90781	accroupies	accroupir	VER		f	p	1.0	201519.0	98864.5	
+90793	voudra	vouloir	VER				1.0	201519.0	98864.5	
+90821	taquinant	taquiner	VER		m	s	1.0	201519.0	98864.5	
+90828	tuera	tuer	VER				1.0	201519.0	98864.5	
+90838	aèrent	aérer	VER				1.0	201519.0	98864.5	
+90846	aboient	aboyer	VER				1.0	201519.0	98864.5	
+90848	acclame	acclamer	VER				1.0	201519.0	98864.5	
+90869	aères	aérer	VER				1.0	201519.0	98864.5	
+90880	tournais	tourner	VER				1.0	201519.0	98864.5	
+90883	sucez	sucer	VER				1.0	201519.0	98864.5	
+90944	assume	assumer	VER				1.0	201519.0	98864.5	
+90953	trichions	tricher	VER		m	p	1.0	201519.0	98864.5	
+90988	soumets	soumettre	VER				1.0	201519.0	98864.5	
+90997	vapotent	vapoter	VER				1.0	201519.0	98864.5	
+91011	arbore	arborer	VER				1.0	201519.0	98864.5	
+91040	vautrés	vautrer	VER		m	p	1.0	201519.0	98864.5	
+91046	surveillent	surveiller	VER				1.0	201519.0	98864.5	
+91063	souffrent	souffrir	VER				1.0	201519.0	98864.5	
+91065	adressez	adresser	VER				1.0	201519.0	98864.5	
+91082	succombe	succomber	VER				1.0	201519.0	98864.5	
+91113	vautres	vautrer	VER		m	p	1.0	201519.0	98864.5	
+91145	tournoient	tournoyer	VER				1.0	201519.0	98864.5	
+91147	survivent	survivre	VER				1.0	201519.0	98864.5	
+91167	vomissez	vomir	VER				1.0	201519.0	98864.5	
+91172	acquérez	acquérir	VER				1.0	201519.0	98864.5	
+91211	vautre	vautrer	VER		m	s	1.0	201519.0	98864.5	
+91220	survécurent	survivre	VER				1.0	201519.0	98864.5	
+91222	abritant	abriter	VER				1.0	201519.0	98864.5	
+91250	attaquerait	attaquer	VER				1.0	201519.0	98864.5	
+91284	apportes	apporter	VER				1.0	201519.0	98864.5	
+91290	accueillent	accueillir	VER				1.0	201519.0	98864.5	
+91310	étendez	étendre	VER				1.0	201519.0	98864.5	
+91319	éteignons	éteindre	VER				1.0	201519.0	98864.5	
+91322	accueille	accueillir	VER				1.0	201519.0	98864.5	
+91330	acharne	acharner	VER				1.0	201519.0	98864.5	
+91334	accueillons	accueillir	VER				1.0	201519.0	98864.5	
+91402	apportent	apporter	VER				1.0	201519.0	98864.5	
+91405	usa	user	VER				1.0	201519.0	98864.5	
+91457	agitez	agiter	VER				1.0	201519.0	98864.5	
+91502	affichez	afficher	VER				1.0	201519.0	98864.5	
+91512	vérifies	vérifier	VER				1.0	201519.0	98864.5	
+91540	baissez	baisser	VER				1.0	201519.0	98864.5	
+91541	transpire	transpirer	VER				1.0	201519.0	98864.5	
+91551	accable	accabler	VER				1.0	201519.0	98864.5	
+91562	atteins	atteindre	VER				1.0	201519.0	98864.5	
+91568	absolvant	absoudre	VER		m	s	1.0	201519.0	98864.5	
+91599	atteignez	atteindre	VER				1.0	201519.0	98864.5	
+91601	augmente	augmenter	VER				1.0	201519.0	98864.5	
+91636	synthétisant	synthétiser	VER		m	s	1.0	201519.0	98864.5	
+91641	affichant	afficher	VER		m	s	1.0	201519.0	98864.5	
+91673	approuvez	approuver	VER				1.0	201519.0	98864.5	
+91725	vagabondant	vagabonder	VER		m	s	1.0	201519.0	98864.5	
+91789	vaincront	vaincre	VER				1.0	201519.0	98864.5	
+91805	advenu	advenir	VER		m	s	1.0	201519.0	98864.5	
+91849	veulent	vouloir	VER				1.0	201519.0	98864.5	
+91978	vacille	vaciller	VER				1.0	201519.0	98864.5	
+92012	éclaircir	éclaircir	VER				1.0	201519.0	98864.5	
+92041	souvenons	souvenir	VER				1.0	201519.0	98864.5	
+92045	soutient	soutenir	VER				1.0	201519.0	98864.5	
+92058	appropriez	approprier	VER				1.0	201519.0	98864.5	
+92079	ébroue	ébrouer	VER				1.0	201519.0	98864.5	
+92252	voulais	vouloir	VER				1.0	201519.0	98864.5	
+92296	démentent	démentir	VER				1.0	201519.0	98864.5	
+92320	jouait	jouer	VER				1.0	201519.0	98864.5	
+92349	love	lover	VER		m	s	1.0	201519.0	98864.5	
+92366	joignent	joindre	VER				1.0	201519.0	98864.5	
+92374	joignant	joindre	VER				1.0	201519.0	98864.5	
+92379	jouasses	jouer	VER		f	p	1.0	201519.0	98864.5	
+92385	jouons	jouer	VER				1.0	201519.0	98864.5	
+92397	jouant	jouer	VER				1.0	201519.0	98864.5	
+92454	délaye	délayer	VER				1.0	201519.0	98864.5	
+92471	délaisse	délaisser	VER				1.0	201519.0	98864.5	
+92486	loupions	louper	VER		m	p	1.0	201519.0	98864.5	
+92549	mariez	marier	VER				1.0	201519.0	98864.5	
+92621	linéariser	linéariser	VER				1.0	201519.0	98864.5	
+92664	lira	lire	VER				1.0	201519.0	98864.5	
+92665	lisez	lire	VER				1.0	201519.0	98864.5	
+92690	limitez	limiter	VER				1.0	201519.0	98864.5	
+92752	marchent	marcher	VER				1.0	201519.0	98864.5	
+92753	marcha	marcher	VER				1.0	201519.0	98864.5	
+92764	livrait	livrer	VER				1.0	201519.0	98864.5	
+92770	livrez	livrer	VER				1.0	201519.0	98864.5	
+92772	dégénérant	dégénérer	VER		m	s	1.0	201519.0	98864.5	
+92796	louez	louer	VER				1.0	201519.0	98864.5	
+92812	déjeune	déjeuner	VER				1.0	201519.0	98864.5	
+92828	marcher	marcher	VER				1.0	201519.0	98864.5	
+92865	défendons	défendre	VER				1.0	201519.0	98864.5	
+92869	défendez	défendre	VER				1.0	201519.0	98864.5	
+92879	marchons	marcher	VER				1.0	201519.0	98864.5	
+92883	lites	liter	VER		m	p	1.0	201519.0	98864.5	
+92892	délivrez	délivrer	VER				1.0	201519.0	98864.5	
+92955	décèdes	décéder	VER				1.0	201519.0	98864.5	
+92988	masturbe	masturber	VER				1.0	201519.0	98864.5	
+92989	découvrez	découvrir	VER				1.0	201519.0	98864.5	
+93032	découpent	découper	VER				1.0	201519.0	98864.5	
+93122	marronnasses	marronner	VER		m	p	1.0	201519.0	98864.5	
+93138	marrions	marrer	VER				1.0	201519.0	98864.5	
+93156	mangerez	manger	VER				1.0	201519.0	98864.5	
+93164	mandate	mandater	VER				1.0	201519.0	98864.5	
+93179	mangeons	manger	VER				1.0	201519.0	98864.5	
+93191	mande	mander	VER				1.0	201519.0	98864.5	
+93200	mailler	mailler	VER				1.0	201519.0	98864.5	
+93241	majore	majorer	VER				1.0	201519.0	98864.5	
+93276	décrivez	décrire	VER				1.0	201519.0	98864.5	
+93281	massera	masser	VER				1.0	201519.0	98864.5	
+93360	déroules	dérouler	VER				1.0	201519.0	98864.5	
+93373	déforeste	déforester	VER				1.0	201519.0	98864.5	
+93377	maltraitent	maltraiter	VER				1.0	201519.0	98864.5	
+93403	défoule	défouler	VER				1.0	201519.0	98864.5	
+93415	joui	jouir	VER				1.0	201519.0	98864.5	
+93552	joignant	joindre	VER		m	s	1.0	201519.0	98864.5	
+93583	justifient	justifier	VER				1.0	201519.0	98864.5	
+93596	javellisant	javelliser	VER				1.0	201519.0	98864.5	
+93611	désacralisant	désacraliser	VER		m	s	1.0	201519.0	98864.5	
+93648	dépucèles	dépuceler	VER				1.0	201519.0	98864.5	
+93671	jurez	jurer	VER				1.0	201519.0	98864.5	
+93675	jures	jurer	VER				1.0	201519.0	98864.5	
+93717	dérangent	déranger	VER				1.0	201519.0	98864.5	
+93721	dérangez	déranger	VER				1.0	201519.0	98864.5	
+93765	jugeront	juger	VER				1.0	201519.0	98864.5	
+93781	lisent	lire	VER				1.0	201519.0	98864.5	
+93800	irises	iriser	VER				1.0	201519.0	98864.5	
+93825	désenliser	désenliser	VER				1.0	201519.0	98864.5	
+93845	irradie	irradier	VER				1.0	201519.0	98864.5	
+93857	invente	inventer	VER				1.0	201519.0	98864.5	
+93909	investissez	investir	VER				1.0	201519.0	98864.5	
+93916	invitent	inviter	VER				1.0	201519.0	98864.5	
+94099	dénie	dénier	VER				1.0	201519.0	98864.5	
+94114	larde	larder	VER				1.0	201519.0	98864.5	
+94155	dépasserait	dépasser	VER				1.0	201519.0	98864.5	
+94171	dépassent	dépasser	VER				1.0	201519.0	98864.5	
+94176	lançant	lancer	VER		m	s	1.0	201519.0	98864.5	
+94244	lapant	laper	VER				1.0	201519.0	98864.5	
+94277	déployez	déployer	VER				1.0	201519.0	98864.5	
+94287	démonisant	démoniser	VER				1.0	201519.0	98864.5	
+94404	déploie	déployer	VER				1.0	201519.0	98864.5	
+94437	klaxonne	klaxonner	VER				1.0	201519.0	98864.5	
+94519	klaxonnez	klaxonner	VER				1.0	201519.0	98864.5	
+94550	kifferas	kiffer	VER				1.0	201519.0	98864.5	
+94554	kiffons	kiffer	VER				1.0	201519.0	98864.5	
+94556	kiffiez	kiffer	VER				1.0	201519.0	98864.5	
+94557	kifferez	kiffer	VER				1.0	201519.0	98864.5	
+94558	kifferiez	kiffer	VER				1.0	201519.0	98864.5	
+94619	dépend	dépendre	VER				1.0	201519.0	98864.5	
+94691	draguez	draguer	VER				1.0	201519.0	98864.5	
+94754	laisserais	laisser	VER				1.0	201519.0	98864.5	
+94778	méritez	mériter	VER				1.0	201519.0	98864.5	
+94780	méritent	mériter	VER				1.0	201519.0	98864.5	
+94871	démissionne	démissionner	VER				1.0	201519.0	98864.5	
+94877	logez	loger	VER				1.0	201519.0	98864.5	
+94888	démarrez	démarrer	VER				1.0	201519.0	98864.5	
+94914	démasque	démasquer	VER				1.0	201519.0	98864.5	
+94922	logeaient	loger	VER				1.0	201519.0	98864.5	
+94978	divisent	diviser	VER				1.0	201519.0	98864.5	
+95039	nettoyez	nettoyer	VER				1.0	201519.0	98864.5	
+95044	nettoyons	nettoyer	VER				1.0	201519.0	98864.5	
+95074	doutait	douter	VER				1.0	201519.0	98864.5	
+95096	mâte	mâter	VER				1.0	201519.0	98864.5	
+95103	dressez	dresser	VER				1.0	201519.0	98864.5	
+95137	dresser	dresser	VER				1.0	201519.0	98864.5	
+95156	ménagez	ménager	VER				1.0	201519.0	98864.5	
+95183	dores	dorer	VER				1.0	201519.0	98864.5	
+95203	mélangez	mélanger	VER				1.0	201519.0	98864.5	
+95275	nageant	nager	VER				1.0	201519.0	98864.5	
+95310	médis	médire	VER				1.0	201519.0	98864.5	
+95399	négligez	négliger	VER				1.0	201519.0	98864.5	
+95407	dirais	dire	VER				1.0	201519.0	98864.5	
+95409	disais	dire	VER				1.0	201519.0	98864.5	
+95411	dissent	dire	VER				1.0	201519.0	98864.5	
+95412	nuis	nuire	VER				1.0	201519.0	98864.5	
+95416	nuisit	nuire	VER				1.0	201519.0	98864.5	
+95427	doublera	doubler	VER				1.0	201519.0	98864.5	
+95452	dormir	dormir	VER				1.0	201519.0	98864.5	
+95454	méfies	méfier	VER				1.0	201519.0	98864.5	
+95456	dors	dormir	VER		m	s	1.0	201519.0	98864.5	
+95457	dormis	dormir	VER				1.0	201519.0	98864.5	
+95459	dota	doter	VER				1.0	201519.0	98864.5	
+95500	obvie	obvier	VER		f	s	1.0	201519.0	98864.5	
+95514	observer	observer	VER				1.0	201519.0	98864.5	
+95524	observe	observer	VER				1.0	201519.0	98864.5	
+95557	nourrissez	nourrir	VER				1.0	201519.0	98864.5	
+95587	oblitérant	oblitérer	VER		m	s	1.0	201519.0	98864.5	
+95598	diffusera	diffuser	VER				1.0	201519.0	98864.5	
+95636	obtenons	obtenir	VER				1.0	201519.0	98864.5	
+95651	obtient	obtenir	VER				1.0	201519.0	98864.5	
+95652	obtiens	obtenir	VER				1.0	201519.0	98864.5	
+95667	observons	observer	VER				1.0	201519.0	98864.5	
+95674	nécessite	nécessiter	VER				1.0	201519.0	98864.5	
+95704	meus	mouvoir	VER				1.0	201519.0	98864.5	
+95710	neutralise	neutraliser	VER				1.0	201519.0	98864.5	
+95758	mua	muer	VER				1.0	201519.0	98864.5	
+95775	mut	mouvoir	VER				1.0	201519.0	98864.5	
+95800	dirigez	diriger	VER				1.0	201519.0	98864.5	
+95844	disputez	disputer	VER				1.0	201519.0	98864.5	
+95845	nommes	nommer	VER				1.0	201519.0	98864.5	
+95883	disposez	disposer	VER				1.0	201519.0	98864.5	
+95895	disperse	disperser	VER				1.0	201519.0	98864.5	
+95911	notez	noter	VER				1.0	201519.0	98864.5	
+95940	déchaînent	déchaîner	VER				1.0	201519.0	98864.5	
+95991	minions	miner	VER				1.0	201519.0	98864.5	
+95999	miner	miner	VER				1.0	201519.0	98864.5	
+96023	mima	mimer	VER				1.0	201519.0	98864.5	
+96050	déchantent	déchanter	VER				1.0	201519.0	98864.5	
+96070	discute	discuter	VER				1.0	201519.0	98864.5	
+96076	notera	noter	VER				1.0	201519.0	98864.5	
+96101	décides	décider	VER				1.0	201519.0	98864.5	
+96102	miaulait	miauler	VER				1.0	201519.0	98864.5	
+96118	miser	miser	VER				1.0	201519.0	98864.5	
+96124	misez	miser	VER				1.0	201519.0	98864.5	
+96170	objectivant	objectiver	VER		m	s	1.0	201519.0	98864.5	
+96212	obscurcit	obscurcir	VER				1.0	201519.0	98864.5	
+96282	miter	miter	VER		m	s	1.0	201519.0	98864.5	
+96376	mourut	mourir	VER				1.0	201519.0	98864.5	
+96412	dupez	duper	VER				1.0	201519.0	98864.5	
+96469	mettes	mettre	VER				1.0	201519.0	98864.5	
+96484	mènes	mener	VER				1.0	201519.0	98864.5	
+96547	vivez	vivre	VER				1.0	201519.0	98864.5	
+96556	vibre	vibrer	VER				1.0	201519.0	98864.5	
+96601	affronte	affronter	VER				1.0	201519.0	98864.5	
+96622	trouvent	trouver	VER				1.0	201519.0	98864.5	
+96654	décline	décliner	VER				1.0	201519.0	98864.5	
+96678	morfler	morfler	VER				1.0	201519.0	98864.5	
+96719	mente	mentir	VER				1.0	201519.0	98864.5	
+96721	mentis	mentir	VER				1.0	201519.0	98864.5	
+96725	décolle	décoller	VER				1.0	201519.0	98864.5	
+96726	mens	mentir	VER			s	1.0	201519.0	98864.5	
+96728	menti	mentir	VER				1.0	201519.0	98864.5	
+96730	mentionne	mentionner	VER				1.0	201519.0	98864.5	
+96800	mordent	mordre	VER				1.0	201519.0	98864.5	
+96855	motive	motiver	VER				1.0	201519.0	98864.5	
+96858	multipliez	multiplier	VER				1.0	201519.0	98864.5	
+96880	mord	mordre	VER				1.0	201519.0	98864.5	
+96888	multipliant	multiplier	VER		m	s	1.0	201519.0	98864.5	
+96912	montrent	montrer	VER				1.0	201519.0	98864.5	
+96928	monétarise	monétariser	VER				1.0	201519.0	98864.5	
+96963	mettrait	mettre	VER				1.0	201519.0	98864.5	
+97005	mesurant	mesurer	VER				1.0	201519.0	98864.5	
+97085	débranche	débrancher	VER				1.0	201519.0	98864.5	
+97125	modifier	modifier	VER		m	s	1.0	201519.0	98864.5	
+97203	débites	débiter	VER		f	p	1.0	201519.0	98864.5	
+97208	montons	monter	VER				1.0	201519.0	98864.5	
+97227	espèrent	espérer	VER				1.0	201519.0	98864.5	
+97306	essayent	essayer	VER				1.0	201519.0	98864.5	
+97308	essaies	essayer	VER				1.0	201519.0	98864.5	
+97500	excite	exciter	VER				1.0	201519.0	98864.5	
+97501	garantissez	garantir	VER				1.0	201519.0	98864.5	
+97529	gommez	gommer	VER				1.0	201519.0	98864.5	
+97532	gardent	garder	VER				1.0	201519.0	98864.5	
+97610	garda	garder	VER				1.0	201519.0	98864.5	
+97647	ganter	ganter	VER				1.0	201519.0	98864.5	
+97670	exclament	exclamer	VER				1.0	201519.0	98864.5	
+97692	gangrénait	gangréner	VER				1.0	201519.0	98864.5	
+97693	gangréner	gangréner	VER				1.0	201519.0	98864.5	
+97779	gambadent	gambader	VER				1.0	201519.0	98864.5	
+97812	examinent	examiner	VER				1.0	201519.0	98864.5	
+97814	gausse	gausser	VER				1.0	201519.0	98864.5	
+97830	exalte	exalter	VER				1.0	201519.0	98864.5	
+97851	gazouillez	gazouiller	VER				1.0	201519.0	98864.5	
+97853	gazouillent	gazouiller	VER				1.0	201519.0	98864.5	
+97854	examineront	examiner	VER				1.0	201519.0	98864.5	
+97856	entraînera	entraîner	VER				1.0	201519.0	98864.5	
+97857	guérissez	guérir	VER				1.0	201519.0	98864.5	
+97888	guérir	guérir	VER		m	s	1.0	201519.0	98864.5	
+97917	gâtent	gâter	VER				1.0	201519.0	98864.5	
+97920	gâtons	gâter	VER				1.0	201519.0	98864.5	
+97923	entraînez	entraîner	VER				1.0	201519.0	98864.5	
+97928	gâtez	gâter	VER				1.0	201519.0	98864.5	
+97987	guidera	guider	VER				1.0	201519.0	98864.5	
+98016	fonctionnait	fonctionner	VER				1.0	201519.0	98864.5	
+98027	entament	entamer	VER				1.0	201519.0	98864.5	
+98062	entende	entendre	VER				1.0	201519.0	98864.5	
+98077	habitues	habituer	VER				1.0	201519.0	98864.5	
+98095	entonne	entonner	VER				1.0	201519.0	98864.5	
+98132	entoure	entourer	VER				1.0	201519.0	98864.5	
+98178	entichées	enticher	VER		f	p	1.0	201519.0	98864.5	
+98179	entichés	enticher	VER		m	p	1.0	201519.0	98864.5	
+98227	habitue	habituer	VER				1.0	201519.0	98864.5	
+98234	envisage	envisager	VER				1.0	201519.0	98864.5	
+98235	gravit	gravir	VER				1.0	201519.0	98864.5	
+98274	groupons	grouper	VER				1.0	201519.0	98864.5	
+98279	entrent	entrer	VER				1.0	201519.0	98864.5	
+98305	grandit	grandir	VER				1.0	201519.0	98864.5	
+98311	envolons	envoler	VER				1.0	201519.0	98864.5	
+98328	grandissent	grandir	VER				1.0	201519.0	98864.5	
+98346	erra	errer	VER				1.0	201519.0	98864.5	
+98376	grignote	grignoter	VER				1.0	201519.0	98864.5	
+98404	grouillons	grouiller	VER				1.0	201519.0	98864.5	
+98406	grouillez	grouiller	VER				1.0	201519.0	98864.5	
+98423	grossissent	grossir	VER				1.0	201519.0	98864.5	
+98446	fascinent	fasciner	VER				1.0	201519.0	98864.5	
+98514	ferais	faire	VER				1.0	201519.0	98864.5	
+98515	fasse	faire	VER				1.0	201519.0	98864.5	
+98519	fornique	forniquer	VER				1.0	201519.0	98864.5	
+98525	fonces	foncer	VER				1.0	201519.0	98864.5	
+98528	foncez	foncer	VER				1.0	201519.0	98864.5	
+98556	fluoriser	fluoriser	VER				1.0	201519.0	98864.5	
+98583	focalise	focaliser	VER				1.0	201519.0	98864.5	
+98633	grimpa	grimper	VER				1.0	201519.0	98864.5	
+98647	envahissent	envahir	VER				1.0	201519.0	98864.5	
+98652	fera	faire	VER				1.0	201519.0	98864.5	
+98654	faibli	faiblir	VER		m	p	1.0	201519.0	98864.5	
+98676	faiblir	faiblir	VER		m	s	1.0	201519.0	98864.5	
+98702	fadai	fader	VER				1.0	201519.0	98864.5	
+98709	fouillent	fouiller	VER				1.0	201519.0	98864.5	
+98727	enterrez	enterrer	VER				1.0	201519.0	98864.5	
+98738	forer	forer	VER				1.0	201519.0	98864.5	
+98740	fader	fader	VER				1.0	201519.0	98864.5	
+98756	ferons	faire	VER				1.0	201519.0	98864.5	
+98821	fouettons	fouetter	VER				1.0	201519.0	98864.5	
+98826	faibli	faiblir	VER		f	s	1.0	201519.0	98864.5	
+98853	flottent	flotter	VER				1.0	201519.0	98864.5	
+98864	plaise	plaire	VER				1.0	201519.0	98864.5	
+98937	embrouillent	embrouiller	VER				1.0	201519.0	98864.5	
+98941	interromps	interrompre	VER				1.0	201519.0	98864.5	
+98986	détachez	détacher	VER				1.0	201519.0	98864.5	
+99013	interdisons	interdire	VER				1.0	201519.0	98864.5	
+99014	interdis	interdire	VER				1.0	201519.0	98864.5	
+99136	embarque	embarquer	VER				1.0	201519.0	98864.5	
+99152	emballe	emballer	VER				1.0	201519.0	98864.5	
+99223	emmènes	emmener	VER				1.0	201519.0	98864.5	
+99278	embaument	embaumer	VER				1.0	201519.0	98864.5	
+99287	empaquète	empaqueter	VER				1.0	201519.0	98864.5	
+99318	flasher	flasher	VER				1.0	201519.0	98864.5	
+99337	flageller	flageller	VER		m	s	1.0	201519.0	98864.5	
+99342	expliques	expliquer	VER				1.0	201519.0	98864.5	
+99351	explore	explorer	VER				1.0	201519.0	98864.5	
+99364	fument	fumer	VER				1.0	201519.0	98864.5	
+99402	fuyons	fuir	VER				1.0	201519.0	98864.5	
+99413	fuit	fuir	VER				1.0	201519.0	98864.5	
+99456	expulse	expulser	VER				1.0	201519.0	98864.5	
+99458	expulsons	expulser	VER				1.0	201519.0	98864.5	
+99479	expose	exposer	VER				1.0	201519.0	98864.5	
+99501	inaugurant	inaugurer	VER				1.0	201519.0	98864.5	
+99535	indiquez	indiquer	VER				1.0	201519.0	98864.5	
+99540	emmerdons	emmerder	VER				1.0	201519.0	98864.5	
+99564	empare	emparer	VER				1.0	201519.0	98864.5	
+99587	empale	empaler	VER				1.0	201519.0	98864.5	
+99689	embrassons	embrasser	VER				1.0	201519.0	98864.5	
+99700	incorpore	incorporer	VER				1.0	201519.0	98864.5	
+99733	chercheraient	chercher	VER				1.0	201519.0	98864.5	
+99764	redonnes	redonner	VER				1.0	201519.0	98864.5	
+99778	recueille	recueillir	VER				1.0	201519.0	98864.5	
+99786	recueillit	recueillir	VER				1.0	201519.0	98864.5	
+99806	recules	reculer	VER				1.0	201519.0	98864.5	
+99822	regardons	regarder	VER				1.0	201519.0	98864.5	
+99833	relaxez	relaxer	VER				1.0	201519.0	98864.5	
+99843	charger	charger	VER				1.0	201519.0	98864.5	
+99853	regarda	regarder	VER				1.0	201519.0	98864.5	
+99867	cherchant	chercher	VER				1.0	201519.0	98864.5	
+99888	redonne	redonner	VER				1.0	201519.0	98864.5	
+99897	regardent	regarder	VER				1.0	201519.0	98864.5	
+99920	redivise	rediviser	VER		f	s	1.0	201519.0	98864.5	
+99940	ratatines	ratatiner	VER				1.0	201519.0	98864.5	
+99974	rassurez	rassurer	VER				1.0	201519.0	98864.5	
+99975	rassure	rassurer	VER				1.0	201519.0	98864.5	
+99995	châtie	châtier	VER				1.0	201519.0	98864.5	
+100046	recrache	recracher	VER				1.0	201519.0	98864.5	
+100073	reconcentrent	reconcentrer	VER				1.0	201519.0	98864.5	
+100095	redistribue	redistribuer	VER				1.0	201519.0	98864.5	
+100134	chantaient	chanter	VER				1.0	201519.0	98864.5	
+100185	incitent	inciter	VER				1.0	201519.0	98864.5	
+100226	initiant	initier	VER		m	s	1.0	201519.0	98864.5	
+100274	effectue	effectuer	VER				1.0	201519.0	98864.5	
+100288	efforcez	efforcer	VER				1.0	201519.0	98864.5	
+100313	incluait	inclure	VER				1.0	201519.0	98864.5	
+100316	inclinons	incliner	VER				1.0	201519.0	98864.5	
+100331	emmènent	emmener	VER				1.0	201519.0	98864.5	
+100371	recourez	recourir	VER				1.0	201519.0	98864.5	
+100419	chanterez	chanter	VER				1.0	201519.0	98864.5	
+100434	relevons	relever	VER				1.0	201519.0	98864.5	
+100441	chantonnez	chantonner	VER				1.0	201519.0	98864.5	
+100455	redécoupe	redécouper	VER		f	s	1.0	201519.0	98864.5	
+100468	chiale	chialer	VER				1.0	201519.0	98864.5	
+100501	regroupez	regrouper	VER				1.0	201519.0	98864.5	
+100532	rejetez	rejeter	VER				1.0	201519.0	98864.5	
+100551	regrette	regretter	VER				1.0	201519.0	98864.5	
+100611	imprégnant	imprégner	VER		m	s	1.0	201519.0	98864.5	
+100635	hélant	héler	VER				1.0	201519.0	98864.5	
+100662	endure	endurer	VER				1.0	201519.0	98864.5	
+100664	imagines	imaginer	VER				1.0	201519.0	98864.5	
+100674	imagina	imaginer	VER				1.0	201519.0	98864.5	
+100679	encourage	encourager	VER				1.0	201519.0	98864.5	
+100698	encorne	encorner	VER				1.0	201519.0	98864.5	
+100712	imaginons	imaginer	VER				1.0	201519.0	98864.5	
+100749	identifie	identifier	VER				1.0	201519.0	98864.5	
+100755	identifiez	identifier	VER				1.0	201519.0	98864.5	
+100770	enrichissez	enrichir	VER				1.0	201519.0	98864.5	
+100834	imite	imiter	VER				1.0	201519.0	98864.5	
+100840	imitant	imiter	VER				1.0	201519.0	98864.5	
+100841	enchante	enchanter	VER				1.0	201519.0	98864.5	
+100881	enracinez	enraciner	VER				1.0	201519.0	98864.5	
+100882	haves	haver	VER				1.0	201519.0	98864.5	
+100889	hais	haïr	VER				1.0	201519.0	98864.5	
+100932	halètent	haleter	VER				1.0	201519.0	98864.5	
+100936	haler	haler	VER				1.0	201519.0	98864.5	
+100975	enlevez	enlever	VER				1.0	201519.0	98864.5	
+101015	dévores	dévorer	VER				1.0	201519.0	98864.5	
+101029	insiste	insister	VER				1.0	201519.0	98864.5	
+101049	inquiètent	inquiéter	VER				1.0	201519.0	98864.5	
+101068	inquiétons	inquiéter	VER				1.0	201519.0	98864.5	
+101149	intensifie	intensifier	VER				1.0	201519.0	98864.5	
+101151	détestons	détester	VER				1.0	201519.0	98864.5	
+101153	détestez	détester	VER				1.0	201519.0	98864.5	
+101169	détrompe	détromper	VER				1.0	201519.0	98864.5	
+101171	détrompez	détromper	VER				1.0	201519.0	98864.5	
+101182	insérer	insérer	VER		m	s	1.0	201519.0	98864.5	
+101224	imprégnant	imprégner	VER				1.0	201519.0	98864.5	
+101243	empresse	empresser	VER				1.0	201519.0	98864.5	
+101254	empiètent	empiéter	VER				1.0	201519.0	98864.5	
+101303	emportez	emporter	VER				1.0	201519.0	98864.5	
+101307	imprime	imprimer	VER				1.0	201519.0	98864.5	
+101323	imposera	imposer	VER				1.0	201519.0	98864.5	
+101337	emportes	emporter	VER				1.0	201519.0	98864.5	
+101349	emprunte	emprunter	VER				1.0	201519.0	98864.5	
+101364	endormons	endormir	VER				1.0	201519.0	98864.5	
+101374	hérite	hériter	VER				1.0	201519.0	98864.5	
+101393	empoisonne	empoisonner	VER				1.0	201519.0	98864.5	
+101399	hésite	hésiter	VER				1.0	201519.0	98864.5	
+101421	exécutez	exécuter	VER				1.0	201519.0	98864.5	
+101427	foutons	foutre	VER				1.0	201519.0	98864.5	
+101437	frappent	frapper	VER				1.0	201519.0	98864.5	
+101460	flatte	flatter	VER				1.0	201519.0	98864.5	
+101485	fourmille	fourmiller	VER				1.0	201519.0	98864.5	
+101495	fout	foutre	VER				1.0	201519.0	98864.5	
+101616	fixons	fixer	VER				1.0	201519.0	98864.5	
+101617	finissent	finir	VER				1.0	201519.0	98864.5	
+101641	finissons	finir	VER				1.0	201519.0	98864.5	
+101642	finissez	finir	VER				1.0	201519.0	98864.5	
+101645	figurez	figurer	VER				1.0	201519.0	98864.5	
+101671	expirez	expirer	VER				1.0	201519.0	98864.5	
+101694	exposes	exposer	VER				1.0	201519.0	98864.5	
+101713	fieraient	fier	VER				1.0	201519.0	98864.5	
+101714	fias	fier	VER				1.0	201519.0	98864.5	
+101754	filent	filer	VER				1.0	201519.0	98864.5	
+101790	flirtant	flirter	VER				1.0	201519.0	98864.5	
+101791	flirtez	flirter	VER				1.0	201519.0	98864.5	
+101798	flippe	flipper	VER				1.0	201519.0	98864.5	
+101820	fausseraient	fausser	VER				1.0	201519.0	98864.5	
+101870	enquêtez	enquêter	VER				1.0	201519.0	98864.5	
+101872	enrage	enrager	VER				1.0	201519.0	98864.5	
+101950	immobilise	immobiliser	VER				1.0	201519.0	98864.5	
+101990	immortalise	immortaliser	VER				1.0	201519.0	98864.5	
+102012	encercle	encercler	VER				1.0	201519.0	98864.5	
+102029	encerclent	encercler	VER				1.0	201519.0	98864.5	
+102095	extermine	exterminer	VER				1.0	201519.0	98864.5	
+102096	externalisaient	externaliser	VER				1.0	201519.0	98864.5	
+102098	externalisons	externaliser	VER				1.0	201519.0	98864.5	
+102117	fris	frire	VER				1.0	201519.0	98864.5	
+102128	gagnes	gagner	VER				1.0	201519.0	98864.5	
+102168	exister	exister	VER				1.0	201519.0	98864.5	
+102235	fêtez	fêter	VER				1.0	201519.0	98864.5	
+102236	fêtons	fêter	VER				1.0	201519.0	98864.5	
+102283	remariez	remarier	VER				1.0	201519.0	98864.5	
+102300	replante	replanter	VER				1.0	201519.0	98864.5	
+102338	repentez	repentir	VER				1.0	201519.0	98864.5	
+102347	rependre	rependre	VER				1.0	201519.0	98864.5	
+102368	cassa	casser	VER				1.0	201519.0	98864.5	
+102385	repart	repartir	VER				1.0	201519.0	98864.5	
+102396	repasserai	repasser	VER				1.0	201519.0	98864.5	
+102441	remarquez	remarquer	VER				1.0	201519.0	98864.5	
+102603	renvoies	renvoyer	VER				1.0	201519.0	98864.5	
+102643	rebaptisant	rebaptiser	VER		m	s	1.0	201519.0	98864.5	
+102677	capitulent	capituler	VER				1.0	201519.0	98864.5	
+102695	rendons	rendre	VER				1.0	201519.0	98864.5	
+102700	retombe	retomber	VER				1.0	201519.0	98864.5	
+102707	retrace	retracer	VER				1.0	201519.0	98864.5	
+102711	retournons	retourner	VER				1.0	201519.0	98864.5	
+102720	retombez	retomber	VER				1.0	201519.0	98864.5	
+102722	retombent	retomber	VER				1.0	201519.0	98864.5	
+102735	rendrai	rendre	VER				1.0	201519.0	98864.5	
+102745	renseigne	renseigner	VER				1.0	201519.0	98864.5	
+102758	rencontrerais	rencontrer	VER				1.0	201519.0	98864.5	
+102767	rencontrerai	rencontrer	VER				1.0	201519.0	98864.5	
+102768	rendors	rendormir	VER				1.0	201519.0	98864.5	
+102787	remontent	remonter	VER				1.0	201519.0	98864.5	
+102820	remotivant	remotiver	VER		m	s	1.0	201519.0	98864.5	
+102822	remontez	remonter	VER				1.0	201519.0	98864.5	
+102824	retournent	retourner	VER				1.0	201519.0	98864.5	
+102872	remplacent	remplacer	VER				1.0	201519.0	98864.5	
+102889	renoue	renouer	VER				1.0	201519.0	98864.5	
+102924	ignorent	ignorer	VER				1.0	201519.0	98864.5	
+102985	renifles	renifler	VER				1.0	201519.0	98864.5	
+102996	rende	rendre	VER				1.0	201519.0	98864.5	
+103041	rencontrons	rencontrer	VER				1.0	201519.0	98864.5	
+103111	rhabille	rhabiller	VER				1.0	201519.0	98864.5	
+103112	rhabillez	rhabiller	VER				1.0	201519.0	98864.5	
+103133	canner	canner	VER				1.0	201519.0	98864.5	
+103226	représente	représenter	VER				1.0	201519.0	98864.5	
+103271	reverrais	revoir	VER				1.0	201519.0	98864.5	
+103319	reposent	reposer	VER				1.0	201519.0	98864.5	
+103332	reprenons	reprendre	VER				1.0	201519.0	98864.5	
+103346	reposons	reposer	VER				1.0	201519.0	98864.5	
+103398	reprennent	reprendre	VER				1.0	201519.0	98864.5	
+103435	respecte	respecter	VER				1.0	201519.0	98864.5	
+103445	ressuscitez	ressusciter	VER				1.0	201519.0	98864.5	
+103446	ressuscite	ressusciter	VER				1.0	201519.0	98864.5	
+103457	ressentez	ressentir	VER				1.0	201519.0	98864.5	
+103458	ressentent	ressentir	VER				1.0	201519.0	98864.5	
+103468	respires	respirer	VER				1.0	201519.0	98864.5	
+103477	ressentirais	ressentir	VER				1.0	201519.0	98864.5	
+103519	respirons	respirer	VER				1.0	201519.0	98864.5	
+103600	chérir	chérir	VER				1.0	201519.0	98864.5	
+103620	chérissez	chérir	VER				1.0	201519.0	98864.5	
+103634	ressemblent	ressembler	VER				1.0	201519.0	98864.5	
+103641	churent	choir	VER				1.0	201519.0	98864.5	
+103647	chus	choir	VER				1.0	201519.0	98864.5	
+103650	choit	choir	VER				1.0	201519.0	98864.5	
+103654	ressemblera	ressembler	VER				1.0	201519.0	98864.5	
+103687	rayonnent	rayonner	VER				1.0	201519.0	98864.5	
+103732	rayes	rayer	VER				1.0	201519.0	98864.5	
+103734	rancies	rancir	VER		f	p	1.0	201519.0	98864.5	
+103790	chamboule	chambouler	VER				1.0	201519.0	98864.5	
+103791	revenait	revenir	VER				1.0	201519.0	98864.5	
+103817	ramifiant	ramifier	VER		m	s	1.0	201519.0	98864.5	
+103825	revîntes	revenir	VER				1.0	201519.0	98864.5	
+103828	reviendrait	revenir	VER				1.0	201519.0	98864.5	
+103847	rechargez	recharger	VER				1.0	201519.0	98864.5	
+103920	reçoivent	recevoir	VER				1.0	201519.0	98864.5	
+103935	reçoit	recevoir	VER				1.0	201519.0	98864.5	
+103978	boute	bouter	VER				1.0	201519.0	98864.5	
+103980	brade	brader	VER				1.0	201519.0	98864.5	
+103983	révèlent	révéler	VER				1.0	201519.0	98864.5	
+103989	révère	révérer	VER				1.0	201519.0	98864.5	
+103997	résolvez	résoudre	VER				1.0	201519.0	98864.5	
+104023	rétablissez	rétablir	VER				1.0	201519.0	98864.5	
+104071	rêvassant	rêvasser	VER		m	s	1.0	201519.0	98864.5	
+104116	réépouse	réépouser	VER		f	s	1.0	201519.0	98864.5	
+104145	révèle	révéler	VER				1.0	201519.0	98864.5	
+104147	braillent	brailler	VER				1.0	201519.0	98864.5	
+104197	bittons	bitter	VER		m		1.0	201519.0	98864.5	
+104212	sert	servir	VER		m	s	1.0	201519.0	98864.5	
+104214	servent	servir	VER				1.0	201519.0	98864.5	
+104295	boutonnant	boutonner	VER		m	s	1.0	201519.0	98864.5	
+104323	signalait	signaler	VER				1.0	201519.0	98864.5	
+104326	signale	signaler	VER				1.0	201519.0	98864.5	
+104337	signalez	signaler	VER				1.0	201519.0	98864.5	
+104346	blaguez	blaguer	VER				1.0	201519.0	98864.5	
+104361	semez	semer	VER				1.0	201519.0	98864.5	
+104379	cille	ciller	VER				1.0	201519.0	98864.5	
+104414	ramenons	ramener	VER				1.0	201519.0	98864.5	
+104415	ramènes	ramener	VER				1.0	201519.0	98864.5	
+104427	refais	refaire	VER				1.0	201519.0	98864.5	
+104451	chatouillant	chatouiller	VER		m	s	1.0	201519.0	98864.5	
+104502	rapiéçais	rapiécer	VER				1.0	201519.0	98864.5	
+104509	rapiéçait	rapiécer	VER				1.0	201519.0	98864.5	
+104570	rajoute	rajouter	VER				1.0	201519.0	98864.5	
+104593	chuchotent	chuchoter	VER				1.0	201519.0	98864.5	
+104598	chargez	charger	VER				1.0	201519.0	98864.5	
+104610	charrient	charrier	VER				1.0	201519.0	98864.5	
+104614	refoulant	refouler	VER		m	s	1.0	201519.0	98864.5	
+104621	rapprochez	rapprocher	VER				1.0	201519.0	98864.5	
+104630	chuchotait	chuchoter	VER				1.0	201519.0	98864.5	
+104631	regagne	regagner	VER				1.0	201519.0	98864.5	
+104774	chassent	chasser	VER				1.0	201519.0	98864.5	
+104788	referme	refermer	VER				1.0	201519.0	98864.5	
+104863	rembourse	rembourser	VER				1.0	201519.0	98864.5	
+104865	rembourserait	rembourser	VER				1.0	201519.0	98864.5	
+104877	relie	relier	VER				1.0	201519.0	98864.5	
+104891	rembourserai	rembourser	VER				1.0	201519.0	98864.5	
+104927	bostonnais	bostonner	VER				1.0	201519.0	98864.5	
+104931	bouffera	bouffer	VER				1.0	201519.0	98864.5	
+104980	remporte	remporter	VER				1.0	201519.0	98864.5	
+105003	relis	relire	VER				1.0	201519.0	98864.5	
+105018	retint	retenir	VER				1.0	201519.0	98864.5	
+105027	retiens	retenir	VER				1.0	201519.0	98864.5	
+105047	retapez	retaper	VER				1.0	201519.0	98864.5	
+105083	capte	capter	VER				1.0	201519.0	98864.5	
+105093	retenez	retenir	VER				1.0	201519.0	98864.5	
+105114	relègue	reléguer	VER				1.0	201519.0	98864.5	
+105146	relâchant	relâcher	VER		m	s	1.0	201519.0	98864.5	
+105252	chemine	cheminer	VER				1.0	201519.0	98864.5	
+105295	boume	boumer	VER				1.0	201519.0	98864.5	
+105301	saluant	saluer	VER				1.0	201519.0	98864.5	
+105314	saluez	saluer	VER				1.0	201519.0	98864.5	
+105331	bousculez	bousculer	VER				1.0	201519.0	98864.5	
+105376	satana	sataner	VER				1.0	201519.0	98864.5	
+105377	satanas	sataner	VER				1.0	201519.0	98864.5	
+105383	saisissez	saisir	VER				1.0	201519.0	98864.5	
+105387	saisissent	saisir	VER				1.0	201519.0	98864.5	
+105394	bourrelle	bourreler	VER		f	s	1.0	201519.0	98864.5	
+105398	bourdonnent	bourdonner	VER				1.0	201519.0	98864.5	
+105401	bourgeonne	bourgeonner	VER				1.0	201519.0	98864.5	
+105450	bouchez	boucher	VER				1.0	201519.0	98864.5	
+105491	bougent	bouger	VER				1.0	201519.0	98864.5	
+105525	bougeons	bouger	VER				1.0	201519.0	98864.5	
+105527	sanctifie	sanctifier	VER				1.0	201519.0	98864.5	
+105540	boucha	boucher	VER				1.0	201519.0	98864.5	
+105557	sapa	saper	VER		m	s	1.0	201519.0	98864.5	
+105572	réunissons	réunir	VER				1.0	201519.0	98864.5	
+105582	réussissez	réussir	VER				1.0	201519.0	98864.5	
+105587	bouclez	boucler	VER				1.0	201519.0	98864.5	
+105613	réveilleras	réveiller	VER				1.0	201519.0	98864.5	
+105618	brairas	braire	VER				1.0	201519.0	98864.5	
+105630	bramer	bramer	VER				1.0	201519.0	98864.5	
+105634	branchez	brancher	VER				1.0	201519.0	98864.5	
+105666	brûlera	brûler	VER				1.0	201519.0	98864.5	
+105736	réessaye	réessayer	VER				1.0	201519.0	98864.5	
+105771	brident	brider	VER				1.0	201519.0	98864.5	
+105781	répétez	répéter	VER				1.0	201519.0	98864.5	
+105788	répètes	répéter	VER				1.0	201519.0	98864.5	
+105803	répondirent	répondre	VER				1.0	201519.0	98864.5	
+105822	brode	broder	VER				1.0	201519.0	98864.5	
+105832	réparent	réparer	VER				1.0	201519.0	98864.5	
+105834	répond	répondre	VER				1.0	201519.0	98864.5	
+105842	répliquant	répliquer	VER				1.0	201519.0	98864.5	
+105847	répandez	répandre	VER				1.0	201519.0	98864.5	
+105852	récite	réciter	VER				1.0	201519.0	98864.5	
+105859	rossa	rosser	VER				1.0	201519.0	98864.5	
+105870	rota	roter	VER				1.0	201519.0	98864.5	
+105891	bâillant	bâiller	VER		m	s	1.0	201519.0	98864.5	
+105899	réclament	réclamer	VER				1.0	201519.0	98864.5	
+105903	rote	roter	VER				1.0	201519.0	98864.5	
+105907	rotas	roter	VER				1.0	201519.0	98864.5	
+105968	récoltent	récolter	VER				1.0	201519.0	98864.5	
+106064	scintillent	scintiller	VER				1.0	201519.0	98864.5	
+106071	scintille	scintiller	VER				1.0	201519.0	98864.5	
+106099	boivent	boire	VER				1.0	201519.0	98864.5	
+106130	bordes	border	VER		f	p	1.0	201519.0	98864.5	
+106142	sautant	sauter	VER				1.0	201519.0	98864.5	
+106144	saupoudrent	saupoudrer	VER				1.0	201519.0	98864.5	
+106147	sauner	sauner	VER				1.0	201519.0	98864.5	
+106159	schtroumpfa	schtroumpfer	VER				1.0	201519.0	98864.5	
+106163	savent	savoir	VER				1.0	201519.0	98864.5	
+106167	sautillons	sautiller	VER		m	p	1.0	201519.0	98864.5	
+106174	sifflez	siffler	VER				1.0	201519.0	98864.5	
+106185	shoote	shooter	VER				1.0	201519.0	98864.5	
+106273	rompez	rompre	VER				1.0	201519.0	98864.5	
+106275	borna	borner	VER				1.0	201519.0	98864.5	
+106306	briserai	briser	VER				1.0	201519.0	98864.5	
+106317	réprimant	réprimer	VER		m	s	1.0	201519.0	98864.5	
+106354	répudie	répudier	VER				1.0	201519.0	98864.5	
+106371	rédige	rédiger	VER				1.0	201519.0	98864.5	
+106373	réduisent	réduire	VER				1.0	201519.0	98864.5	
+106387	sut	savoir	VER				1.0	201519.0	98864.5	
+106401	sais	savoir	VER				1.0	201519.0	98864.5	
+106411	secoues	secouer	VER				1.0	201519.0	98864.5	
+106417	bloque	bloquer	VER				1.0	201519.0	98864.5	
+106418	secouez	secouer	VER				1.0	201519.0	98864.5	
+106421	schtroumpfons	schtroumpfer	VER				1.0	201519.0	98864.5	
+106423	sauvent	sauver	VER				1.0	201519.0	98864.5	
+106444	récupère	récupérer	VER				1.0	201519.0	98864.5	
+106487	romps	rompre	VER				1.0	201519.0	98864.5	
+106510	consomme	consommer	VER				1.0	201519.0	98864.5	
+106557	contre-attaquent	contre-attaquer	VER				1.0	201519.0	98864.5	
+106611	pouponne	pouponner	VER		f	s	1.0	201519.0	98864.5	
+106657	construisons	construire	VER				1.0	201519.0	98864.5	
+106663	porter	porter	VER			s	1.0	201519.0	98864.5	
+106665	constitue	constituer	VER				1.0	201519.0	98864.5	
+106683	consumer	consumer	VER				1.0	201519.0	98864.5	
+106693	construis	construire	VER				1.0	201519.0	98864.5	
+106713	possédera	posséder	VER				1.0	201519.0	98864.5	
+106716	consolide	consolider	VER				1.0	201519.0	98864.5	
+106727	conquiert	conquérir	VER				1.0	201519.0	98864.5	
+106737	pourchassait	pourchasser	VER				1.0	201519.0	98864.5	
+106739	posséderai	posséder	VER				1.0	201519.0	98864.5	
+106743	considères	considérer	VER				1.0	201519.0	98864.5	
+106747	consent	consentir	VER				1.0	201519.0	98864.5	
+106843	poignardant	poignarder	VER		m	s	1.0	201519.0	98864.5	
+106844	plombait	plomber	VER				1.0	201519.0	98864.5	
+106855	poursuivons	poursuivre	VER				1.0	201519.0	98864.5	
+106860	posta	poster	VER				1.0	201519.0	98864.5	
+106880	poursuivent	poursuivre	VER				1.0	201519.0	98864.5	
+106906	consiste	consister	VER				1.0	201519.0	98864.5	
+106909	possèdes	posséder	VER				1.0	201519.0	98864.5	
+106954	broute	brouter	VER				1.0	201519.0	98864.5	
+106981	réservez	réserver	VER				1.0	201519.0	98864.5	
+107016	ridiculise	ridiculiser	VER				1.0	201519.0	98864.5	
+107017	ricane	ricaner	VER				1.0	201519.0	98864.5	
+107022	campons	camper	VER				1.0	201519.0	98864.5	
+107024	ricanent	ricaner	VER				1.0	201519.0	98864.5	
+107084	rima	rimer	VER				1.0	201519.0	98864.5	
+107117	ronfle	ronfler	VER				1.0	201519.0	98864.5	
+107189	pommer	pommer	VER				1.0	201519.0	98864.5	
+107206	contactez	contacter	VER				1.0	201519.0	98864.5	
+107338	organisant	organiser	VER		m	s	1.0	201519.0	98864.5	
+107339	organisez	organiser	VER				1.0	201519.0	98864.5	
+107361	organisent	organiser	VER				1.0	201519.0	98864.5	
+107368	corrige	corriger	VER				1.0	201519.0	98864.5	
+107370	correspondent	correspondre	VER				1.0	201519.0	98864.5	
+107407	offrent	offrir	VER				1.0	201519.0	98864.5	
+107408	deviendra	devenir	VER				1.0	201519.0	98864.5	
+107475	coupera	couper	VER				1.0	201519.0	98864.5	
+107502	demandant	demander	VER				1.0	201519.0	98864.5	
+107542	oublierais	oublier	VER				1.0	201519.0	98864.5	
+107571	dama	damer	VER				1.0	201519.0	98864.5	
+107585	oublions	oublier	VER				1.0	201519.0	98864.5	
+107598	plantez	planter	VER				1.0	201519.0	98864.5	
+107601	picore	picorer	VER				1.0	201519.0	98864.5	
+107626	convenez	convenir	VER				1.0	201519.0	98864.5	
+107642	picorer	picorer	VER		m	s	1.0	201519.0	98864.5	
+107668	offrez	offrir	VER				1.0	201519.0	98864.5	
+107670	offrira	offrir	VER				1.0	201519.0	98864.5	
+107689	occupes	occuper	VER				1.0	201519.0	98864.5	
+107706	célébrons	célébrer	VER				1.0	201519.0	98864.5	
+107709	ouvrira	ouvrir	VER				1.0	201519.0	98864.5	
+107724	ouïsse	ouïr	VER				1.0	201519.0	98864.5	
+107725	oserez	oser	VER				1.0	201519.0	98864.5	
+107743	osera	oser	VER				1.0	201519.0	98864.5	
+107772	réfléchissez	réfléchir	VER				1.0	201519.0	98864.5	
+107814	courez	courir	VER				1.0	201519.0	98864.5	
+107863	perdent	perdre	VER				1.0	201519.0	98864.5	
+107894	plaignons	plaindre	VER				1.0	201519.0	98864.5	
+107899	contribue	contribuer	VER				1.0	201519.0	98864.5	
+107918	pestifères	pestiférer	VER				1.0	201519.0	98864.5	
+107927	couine	couiner	VER				1.0	201519.0	98864.5	
+107930	couvais	couver	VER				1.0	201519.0	98864.5	
+107936	perde	perdre	VER				1.0	201519.0	98864.5	
+107972	crevez	crever	VER				1.0	201519.0	98864.5	
+107980	paiera	payer	VER				1.0	201519.0	98864.5	
+107994	payais	payer	VER				1.0	201519.0	98864.5	
+108000	paierai	payer	VER				1.0	201519.0	98864.5	
+108012	crèvent	crever	VER				1.0	201519.0	98864.5	
+108135	croise	croiser	VER				1.0	201519.0	98864.5	
+108139	cria	crier	VER				1.0	201519.0	98864.5	
+108194	rince	rincer	VER				1.0	201519.0	98864.5	
+108198	risquent	risquer	VER				1.0	201519.0	98864.5	
+108199	calma	calmer	VER				1.0	201519.0	98864.5	
+108275	calmera	calmer	VER				1.0	201519.0	98864.5	
+108323	blâmons	blâmer	VER				1.0	201519.0	98864.5	
+108386	rusa	ruser	VER				1.0	201519.0	98864.5	
+108464	boiter	boiter	VER				1.0	201519.0	98864.5	
+108490	savonne	savonner	VER				1.0	201519.0	98864.5	
+108491	boise	boiser	VER				1.0	201519.0	98864.5	
+108560	bénissent	bénir	VER				1.0	201519.0	98864.5	
+108569	réagence	réagencer	VER		f	s	1.0	201519.0	98864.5	
+108629	piquez	piquer	VER				1.0	201519.0	98864.5	
+108632	planent	planer	VER				1.0	201519.0	98864.5	
+108644	plaisantant	plaisanter	VER				1.0	201519.0	98864.5	
+108650	piquerons	piquer	VER		m	p	1.0	201519.0	98864.5	
+108661	pincez	pincer	VER				1.0	201519.0	98864.5	
+108726	pleurerais	pleurer	VER				1.0	201519.0	98864.5	
+108754	pleura	pleurer	VER				1.0	201519.0	98864.5	
+108815	pilonnant	pilonner	VER				1.0	201519.0	98864.5	
+108823	cachons	cacher	VER				1.0	201519.0	98864.5	
+108855	roulez	rouler	VER				1.0	201519.0	98864.5	
+108886	rugit	rugir	VER				1.0	201519.0	98864.5	
+108892	ruiez	ruer	VER				1.0	201519.0	98864.5	
+108906	cachent	cacher	VER				1.0	201519.0	98864.5	
+108909	cachez	cacher	VER				1.0	201519.0	98864.5	
+108910	rouvrirait	rouvrir	VER				1.0	201519.0	98864.5	
+108939	cota	coter	VER				1.0	201519.0	98864.5	
+109018	pinta	pinter	VER				1.0	201519.0	98864.5	
+109111	rabaissons	rabaisser	VER				1.0	201519.0	98864.5	
+109129	rada	rader	VER				1.0	201519.0	98864.5	
+109145	circules	circuler	VER				1.0	201519.0	98864.5	
+109166	clavardais	clavarder	VER				1.0	201519.0	98864.5	
+109167	clavardez	clavarder	VER				1.0	201519.0	98864.5	
+109240	publiez	publier	VER				1.0	201519.0	98864.5	
+109243	pueraient	puer	VER				1.0	201519.0	98864.5	
+109321	préfabrique	préfabriquer	VER		f	s	1.0	201519.0	98864.5	
+109338	prévenez	prévenir	VER				1.0	201519.0	98864.5	
+109346	prévis	prévoir	VER		f		1.0	201519.0	98864.5	
+109436	psalmodiant	psalmodier	VER				1.0	201519.0	98864.5	
+109447	prêtez	prêter	VER				1.0	201519.0	98864.5	
+109490	parlaient	parler	VER				1.0	201519.0	98864.5	
+109514	prétendent	prétendre	VER				1.0	201519.0	98864.5	
+109518	prétend	prétendre	VER				1.0	201519.0	98864.5	
+109552	combattons	combattre	VER				1.0	201519.0	98864.5	
+109561	pares	parer	VER				1.0	201519.0	98864.5	
+109627	créma	crémer	VER		f	s	1.0	201519.0	98864.5	
+109658	parie	parier	VER				1.0	201519.0	98864.5	
+109663	commences	commencer	VER				1.0	201519.0	98864.5	
+109669	commandons	commander	VER				1.0	201519.0	98864.5	
+109675	commandez	commander	VER				1.0	201519.0	98864.5	
+109691	présentera	présenter	VER				1.0	201519.0	98864.5	
+109716	comblant	combler	VER		m	s	1.0	201519.0	98864.5	
+109732	clave	claver	VER		m	s	1.0	201519.0	98864.5	
+109733	quittant	quitter	VER				1.0	201519.0	98864.5	
+109735	quittez	quitter	VER				1.0	201519.0	98864.5	
+109739	rabattez	rabattre	VER				1.0	201519.0	98864.5	
+109770	prépares	préparer	VER				1.0	201519.0	98864.5	
+109797	commencent	commencer	VER				1.0	201519.0	98864.5	
+109798	commençons	commencer	VER				1.0	201519.0	98864.5	
+109799	commencer	commencer	VER		m	s	1.0	201519.0	98864.5	
+109800	commenceront	commencer	VER				1.0	201519.0	98864.5	
+109858	prédisent	prédire	VER				1.0	201519.0	98864.5	
+109914	humanisant	humaniser	VER		m	s	1.0	201519.0	98864.5	
+109923	enfuie	enfuir	VER				1.0	201519.0	98864.5	
+109968	intervienne	intervenir	VER				1.0	201519.0	98864.5	
+109983	happent	happer	VER				1.0	201519.0	98864.5	
+109984	hanta	hanter	VER				1.0	201519.0	98864.5	
+110000	harper	harper	VER		m	s	1.0	201519.0	98864.5	
+110043	hypertrophiant	hypertrophier	VER		m	s	1.0	201519.0	98864.5	
+110047	enfilez	enfiler	VER				1.0	201519.0	98864.5	
+110069	enroule	enrouler	VER				1.0	201519.0	98864.5	
+110076	happer	happer	VER				1.0	201519.0	98864.5	
+110155	détournent	détourner	VER				1.0	201519.0	98864.5	
+110173	détériore	détériorer	VER				1.0	201519.0	98864.5	
+110189	désires	désirer	VER				1.0	201519.0	98864.5	
+110210	développer	développer	VER				1.0	201519.0	98864.5	
+110211	développe	développer	VER				1.0	201519.0	98864.5	
+110281	intriguant	intriguer	VER				1.0	201519.0	98864.5	
+110327	purifie	purifier	VER				1.0	201519.0	98864.5	
+110344	coince	coincer	VER				1.0	201519.0	98864.5	
+110492	cognez	cogner	VER				1.0	201519.0	98864.5	
+110554	engendre	engendrer	VER				1.0	201519.0	98864.5	
+110556	engendrez	engendrer	VER				1.0	201519.0	98864.5	
+110606	humilie	humilier	VER				1.0	201519.0	98864.5	
+110612	hurlera	hurler	VER				1.0	201519.0	98864.5	
+110623	institue	instituer	VER				1.0	201519.0	98864.5	
+110631	détoxifies	détoxifier	VER				1.0	201519.0	98864.5	
+110632	détoxifient	détoxifier	VER				1.0	201519.0	98864.5	
+110708	détoxifiait	détoxifier	VER				1.0	201519.0	98864.5	
+110712	détruisez	détruire	VER				1.0	201519.0	98864.5	
+110778	conduisons	conduire	VER				1.0	201519.0	98864.5	
+110793	pratiquent	pratiquer	VER				1.0	201519.0	98864.5	
+110870	comprendre	comprendre	VER		m	s	1.0	201519.0	98864.5	
+110881	prisa	priser	VER				1.0	201519.0	98864.5	
+110886	confirmez	confirmer	VER				1.0	201519.0	98864.5	
+110887	primer	primer	VER				1.0	201519.0	98864.5	
+110892	confirmons	confirmer	VER				1.0	201519.0	98864.5	
+110952	continuent	continuer	VER				1.0	201519.0	98864.5	
+110961	contentons	contenter	VER				1.0	201519.0	98864.5	
+110984	contourne	contourner	VER				1.0	201519.0	98864.5	
+111018	continua	continuer	VER				1.0	201519.0	98864.5	
+111019	continuons	continuer	VER				1.0	201519.0	98864.5	
+111083	pourra	pouvoir	VER				1.0	201519.0	98864.5	
+111085	pratiquez	pratiquer	VER				1.0	201519.0	98864.5	
+111094	procrastinez	procrastiner	VER				1.0	201519.0	98864.5	
+111100	procurez	procurer	VER				1.0	201519.0	98864.5	
+111134	procurent	procurer	VER				1.0	201519.0	98864.5	
+111135	condamne	condamner	VER				1.0	201519.0	98864.5	
+111145	provoquent	provoquer	VER				1.0	201519.0	98864.5	
+111151	cligne	cligner	VER				1.0	201519.0	98864.5	
+111240	clouent	clouer	VER				1.0	201519.0	98864.5	
+111330	raffole	raffoler	VER				1.0	201519.0	98864.5	
+111339	circule	circuler	VER				1.0	201519.0	98864.5	
+111353	cites	citer	VER				1.0	201519.0	98864.5	
+111367	conforte	conforter	VER				1.0	201519.0	98864.5	
+111383	pourraient	pouvoir	VER				1.0	201519.0	98864.5	
+111387	poussant	pousser	VER				1.0	201519.0	98864.5	
+111392	pourront	pouvoir	VER				1.0	201519.0	98864.5	
+111405	pourriez	pouvoir	VER				1.0	201519.0	98864.5	
+111406	pouvais	pouvoir	VER				1.0	201519.0	98864.5	
+111412	comprend	comprendre	VER				1.0	201519.0	98864.5	
+111418	comprenait	comprendre	VER				1.0	201519.0	98864.5	
+111424	provient	provenir	VER				1.0	201519.0	98864.5	
+111447	prospéré	prospérer	VER				1.0	201519.0	98864.5	
+111449	prospèrent	prospérer	VER				1.0	201519.0	98864.5	
+111495	codirigeait	codiriger	VER				1.0	201519.0	98864.5	
+111507	pénètre	pénétrer	VER				1.0	201519.0	98864.5	
+111519	prenne	prendre	VER				1.0	201519.0	98864.5	
+111546	cliquer	cliquer	VER		m	s	1.0	201519.0	98864.5	
+111669	cultivez	cultiver	VER				1.0	201519.0	98864.5	
+111695	paralyse	paralyser	VER				1.0	201519.0	98864.5	
+111771	cumule	cumuler	VER				1.0	201519.0	98864.5	
+111784	opine	opiner	VER				1.0	201519.0	98864.5	
+111797	cuisent	cuire	VER				1.0	201519.0	98864.5	
+111800	parera	parer	VER				1.0	201519.0	98864.5	
+111815	descendons	descendre	VER				1.0	201519.0	98864.5	
+111827	devra	devoir	VER				1.0	201519.0	98864.5	
+111837	partent	partir	VER				1.0	201519.0	98864.5	
+111847	partit	partir	VER				1.0	201519.0	98864.5	
+111866	paraphrasant	paraphraser	VER		m	s	1.0	201519.0	98864.5	
+111879	parte	partir	VER				1.0	201519.0	98864.5	
+111903	desserres	desserrer	VER		f	p	1.0	201519.0	98864.5	
+111949	dusse	devoir	VER				1.0	201519.0	98864.5	
+111951	devrions	devoir	VER				1.0	201519.0	98864.5	
+111980	deviner	deviner	VER				1.0	201519.0	98864.5	
+111986	devenait	devenir	VER				1.0	201519.0	98864.5	
+111987	deviendraient	devenir	VER				1.0	201519.0	98864.5	
+112064	compute	computer	VER				1.0	201519.0	98864.5	
+112091	proposent	proposer	VER				1.0	201519.0	98864.5	
+112102	plumons	plumer	VER		m	p	1.0	201519.0	98864.5	
+112151	promettez	promettre	VER				1.0	201519.0	98864.5	
+112154	promenez	promener	VER				1.0	201519.0	98864.5	
+112167	protégeons	protéger	VER				1.0	201519.0	98864.5	
+112179	concentres	concentrer	VER				1.0	201519.0	98864.5	
+112194	concentrez	concentrer	VER				1.0	201519.0	98864.5	
+112219	passèrent	passer	VER				1.0	201519.0	98864.5	
+112258	participera	participer	VER				1.0	201519.0	98864.5	
+112259	cryogénises	cryogéniser	VER				1.0	201519.0	98864.5	
+112283	croques	croquer	VER				1.0	201519.0	98864.5	
+112293	passent	passer	VER				1.0	201519.0	98864.5	
+112296	passa	passer	VER				1.0	201519.0	98864.5	
+112350	promettons	promettre	VER				1.0	201519.0	98864.5	
+112388	partageons	partager	VER				1.0	201519.0	98864.5	
