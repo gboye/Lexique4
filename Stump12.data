@@ -1,0 +1,451 @@
+﻿% French verbs, abstracting MPSs by the stems that they employ.
+% No rules of sandhi.  This is the hearer-oriented plat.
+% Greg Stump 2012
+
+ABBR 1 1S2C
+
+CONJ      Stem1 Stem2 Stem3 Stem4 Stem5 Stem6 Stem7
+TEMPLATE  1A    1A    1A    1A    1A    1A    1A
+ÊTRE      -sɥi  -ɛ    !sɔm  !ɛt   -sɔ̃   -et   -etj
+AVOIR     -ɛ    -a    -av   -av   -ɔ̃    -av   -avj
+AIMER     -     -     -     -     -     -     -j
+COLLER    -ɔl   -ɔl   -ol   -ol   -ɔl   -ol   -olj
+BEURRER   -œʁ   -œʁ   -øʁ   -øʁ   -œʁ   -øʁ   -øʁj
+DÉJEUNER  -     -     -     -     -     -     -j
+ÉCROUER   -     -     -     -     -     -     -j
+ÉCHOUER   -u    -u    -w    -w    -u    -w    -uj
+REFLUER   -     -     -     -     -     -     -j
+REMUER    -y    -y    -ɥ    -ɥ    -y    -ɥ    -yj
+LEVER     -ɛv   -ɛv   -əv   -əv   -ɛv   -əv   -əvj
+CÉDER     -ɛd   -ɛd   -ed   -ed   -ɛd   -ed   -edj
+COPIER    -i    -i    -j    -j    -i    -j    -j
+APPUYER   -     -     -j    -j    -     -j    -j
+BROYER    -     -     -j    -j    -     -j    -j
+ENVOYER   -wa   -wa   -waj  -waj  -wa   -waj  -waj
+FINIR     -     -     -s    -s    -s    -s    -sj
+HAÏR      !ɛ    !ɛ    -s    -s    -s    -s    -sj
+ALLER     !vɛ   !va   -     -     !vɔ̃   -     -j
+TENIR     -jɛ̃   -jɛ̃   -ən   -ən   -jɛn  -ən   -ənj
+ACQUÉRIR  -jɛʁ  -jɛʁ  -eʁ   -eʁ   -jɛʁ  -eʁ   -eʁj
+SENTIR    -     -     -t    -t    -t    -t    -tj
+VÊTIR     -     -     -t    -t    -t    -t    -tj
+COUVRIR   -ʁ    -ʁ    -ʁ    -ʁ    -ʁ    -ʁ    -ʁij
+CUEILLIR  -œj   -œj   -øj   -øj   -œj   -øj   -øj
+ASSAILLIR -     -     -     -     -     -     -
+BOUILLIR  -     -     -j    -j    -j    -j    -j
+DORMIR    -     -     -m    -m    -m    -m    -mj
+COURIR    -     -     -     -     -     -     -j
+MOURIR    -œʁ   -œʁ   -uʁ   -uʁ   -œʁ   -uʁ   -uʁj
+SERVIR    -     -     -v    -v    -v    -v    -vj
+FUIR      -     -     -j    -j    -     -j    -j
+RECEVOIR  -wa   -wa   -əv   -əv   -wav  -əv   -əvj
+VOIR      -wa   -wa   -waj  -waj  -wa   -waj  -waj
+POURVOIR  -wa   -wa   -waj  -waj  -wa   -waj  -waj
+SAVOIR    -ɛ    -ɛ    -av   -av   -av   -av   -avj
+DEVOIR    -wa   -wa   -əv   -əv   -wav  -əv   -əvj
+POUVOIR   -ø    -ø    -uv   -uv   -œv   -uv   -uvj
+MOUVOIR   -ø    -ø    -uv   -uv   -œv   -uv   -uvj
+VALOIR    -o    -o    -al   -al   -al   -al   -alj
+VOULOIR   -ø    -ø    -ul   -ul   -œl   -ul   -ulj
+ASSEOIR1  -wa   -wa   -waj  -waj  -wa   -waj  -waj
+ASSEOIR2  -je   -je   -ɛj   -ɛj   -ɛj   -ɛj   -ɛj
+SURSEOIR  -wa   -wa   -waj  -waj  -wa   -waj  -waj
+RENDRE    -     -     -d    -d    -d    -d    -dj
+PRENDRE   -ɑ̃    -ɑ̃    -ən   -ən   -ɛn   -ən   -ənj
+BATTRE    -     -     -t    -t    -t    -t    -tj
+METTRE    -ɛ    -ɛ    -ɛt   -ɛt   -ɛt   -ɛt   -ɛtj
+PEINDRE   -ɛ̃    -ɛ̃    -ɛɲ   -ɛɲ   -ɛɲ   -ɛɲ   -ɛɲ
+JOINDRE   -ɛ̃    -ɛ̃    -aɲ   -aɲ   -aɲ   -aɲ   -aɲ
+CRAINDRE  -ɛ̃    -ɛ̃    -ɛɲ   -ɛɲ   -ɛɲ   -ɛɲ   -ɛɲ
+VAINCRE   -     -     -k    -k    -k    -k    -kj
+FAIRE     -ɛ    -ɛ    -əz   !fɛt  -ɔ̃    -əz   -əzj
+PLAIRE    -ɛ    -ɛ    -ɛz   -ɛz   -ɛz   -ɛz   -ɛzj
+CONNAÎTRE -ɛ    -ɛ    -ɛs   -ɛs   -ɛs   -ɛs   -ɛsj
+NAÎTRE    -ɛ    -ɛ    -ɛs   -ɛs   -ɛs   -ɛs   -ɛsj
+REPAÎTRE  -ɛ    -ɛ    -ɛs   -ɛs   -ɛs   -ɛs   -ɛsj
+CROÎTRE   -wa   -wa   -was  -was  -was  -was  -wasj
+CROIRE    -wa   -wa   -waj  -waj  -wa   -waj  -waj
+BOIRE     -wa   -wa   -yv   -yv   -wav  -yv   -yvj
+CONCLURE  -     -     -     -     -     -     -j
+INCLURE   -     -     -     -     -     -     -j
+COUDRE    -     -     -z    -z    -z    -z    -zj
+MOUDRE    -     -     -l    -l    -l    -l    -lj
+SUIVRE    -     -     -v    -v    -v    -v    -vj
+VIVRE     -i    -i    -iv   -iv   -iv   -iv   -ivj
+LIRE      -i    -i    -iz   -iz   -iz   -iz   -izj
+DIRE      -     -     -z    !dit  -z    -z    -zj
+RIRE      -i    -i    -ij   -ij   -i    -ij   -ij
+ÉCRIRE    -     -     -v    -v    -v    -v    -vj
+CONFIRE   -     -     -z    -z    -z    -z    -zj
+CUIRE     -     -     -z    -z    -z    -z    -zj
+
+CONJ      Stem8 Stem9 Stem10
+TEMPLATE  1A    1A    1A    
+ÊTRE      -fy   -fy   -sə
+AVOIR     -y    -y    -o
+AIMER     -ɛ    -a    -ə
+COLLER    -olɛ  -ola  -olə
+BEURRER   -øʁɛ  -øʁa  -œʁə
+DÉJEUNER  -ɛ    -a    -ə
+ÉCROUER   -ɛ    -a    -
+ÉCHOUER   -wɛ   -wa   -u
+REFLUER   -ɛ    -a    -
+REMUER    -ɥɛ   -ɥa   -y
+LEVER     -əvɛ  -əva  -ɛvə
+CÉDER     -edɛ  -eda  -ɛdə
+COPIER    -jɛ   -ja   -i
+APPUYER   -jɛ   -ja   -
+BROYER    -jɛ   -ja   -
+ENVOYER   -wajɛ -waja -ɛ
+FINIR     -     -     -
+HAÏR      -     -     -
+ALLER     -ɛ    -a    @i
+TENIR     -ɛ̃    -ɛ̃    -jɛ̃d
+ACQUÉRIR  -i    -i    -eʁ
+SENTIR    -ti   -ti   -ti
+VÊTIR     -ti   -ti   -ti
+COUVRIR   -ʁi   -ʁi   -ʁi
+CUEILLIR  -øji  -øji  -œjə
+ASSAILLIR -i    -i    -i
+BOUILLIR  -ji   -ji   -ji
+DORMIR    -mi   -mi   -mi
+COURIR    -y    -y    -
+MOURIR    -uʁy  -uʁy  -uʁ
+SERVIR    -vi   -vi   -vi
+FUIR      -     -     -
+RECEVOIR  -y    -y    -əv
+VOIR      -i    -i    -ɛ
+POURVOIR  -y    -y    -wa
+SAVOIR    -y    -y    -o
+DEVOIR    -y    -y    -əv
+POUVOIR   -y    -y    -u
+MOUVOIR   -y    -y    -uv
+VALOIR    -aly  -aly  -od
+VOULOIR   -uly  -uly  -ud
+ASSEOIR1  -i    -i    -wa
+ASSEOIR2  -i    -i    -je
+SURSEOIR  -i    -i    -wa
+RENDRE    -di   -di   -d
+PRENDRE   -i    -i    -ɑ̃d
+BATTRE    -ti   -ti   -t
+METTRE    -i    -i    -ɛt
+PEINDRE   -ɛɲi  -ɛɲi  -ɛ̃d
+JOINDRE   -aɲi  -aɲi  -ɛ̃d
+CRAINDRE  -ɛɲi  -ɛɲi  -ɛ̃d
+VAINCRE   -ki   -ki   -k
+FAIRE     -i    -i    -ə
+PLAIRE    -y    -y    -ɛ
+CONNAÎTRE -y    -y    -ɛt
+NAÎTRE    -aki  -aki  -ɛt
+REPAÎTRE  -y    -y    -ɛt
+CROÎTRE   -y    -y    -wat
+CROIRE    -y    -y    -wa
+BOIRE     -y    -y    -wa
+CONCLURE  -     -     -
+INCLURE   -     -     -
+COUDRE    -zi   -zi   -d
+MOUDRE    -ly   -ly   -d
+SUIVRE    -vi   -vi   -v
+VIVRE     -ɛky  -ɛky  -iv
+LIRE      -y    -y    -i
+DIRE      -     -     -
+RIRE      -i    -i    -i
+ÉCRIRE    -vi   -vi   -
+CONFIRE   -     -     -
+CUIRE     -zi   -zi   -
+
+CONJ      Stem10a Stem11 Stem12 Stem13
+TEMPLATE  1A      1A     1A     1A
+ÊTRE      -səʁ    -swa   -swaj  -swa
+AVOIR     -oʁ     -ɛ     -ɛj    -ɛ
+AIMER     -əʁ     -      -j     -
+COLLER    -oləʁ   -ɔl    -olj   -ɔl
+BEURRER   -œʁəʁ   -œʁ    -øʁj   -œʁ
+DÉJEUNER  -əʁ     -      -j     -
+ÉCROUER   -ʁ      -      -j     -
+ÉCHOUER   -uʁ     -u     -uj    -u
+REFLUER   -ʁ      -      -j     -
+REMUER    -yʁ     -y     -yj    -y
+LEVER     -ɛvəʁ   -ɛv    -əvj   -ɛv
+CÉDER     -ɛdəʁ   -ɛd    -edj   -ɛd
+COPIER    -iʁ     -i     -j     -i
+APPUYER   -ʁ      -      -j     -
+BROYER    -ʁ      -      -j     -
+ENVOYER   -ɛʁ     -wa    -waj   -wa
+FINIR     -ʁ      -s     -sj    -
+HAÏR      -ʁ      -s     -sj    !ɛ
+ALLER     @iʁ     !aj    -j     !va
+TENIR     -jɛ̃dʁi  -jɛn   -ənj   -jɛ̃
+ACQUÉRIR  -eʁʁ    -jɛʁ   -eʁj   -jɛʁ
+SENTIR    -tiʁ    -t     -tj    -
+VÊTIR     -tiʁ    -t     -tj    -
+COUVRIR   -ʁiʁ    -ʁ     -ʁij   -ʁ
+CUEILLIR  -œjəʁ   -œj    -øj    -œj
+ASSAILLIR -iʁ     -      -      -
+BOUILLIR  -jiʁ    -j     -j     -
+DORMIR    -miʁ    -m     -mj    -
+COURIR    -ʁ      -      -j     -
+MOURIR    -uʁʁ    -œʁ    -uʁj   -œʁ
+SERVIR    -viʁ    -v     -vj    -
+FUIR      -ʁ      -      -j     -
+RECEVOIR  -əvʁi   -wav   -əvj   -wa
+VOIR      -ɛʁ     -wa    -waj   -wa
+POURVOIR  -waʁ    -wa    -waj   -wa
+SAVOIR    -oʁ     -aʃ    -aʃj   -aʃ
+DEVOIR    -əvʁi   -wav   -əvj   -wa
+POUVOIR   -uʁ     -ɥis   -ɥisj  -ø
+MOUVOIR   -uvʁi   -œv    -uvj   -ø
+VALOIR    -odʁi   -aj    -alj   -o
+VOULOIR   -udʁi   -œj    -ulj   -ø
+ASSEOIR1  -waʁ    -wa    -waj   -wa
+ASSEOIR2  -jeʁ    -ɛj    -ɛj    -je
+SURSEOIR  -waʁ    -wa    -waj   -wa
+RENDRE    -dʁi    -d     -dj    -
+PRENDRE   -ɑ̃dʁi   -ɛn    -ənj   -ɑ̃
+BATTRE    -tʁi    -t     -tj    -
+METTRE    -ɛtʁi   -ɛt    -ɛtj   -ɛ
+PEINDRE   -ɛ̃dʁi   -ɛɲ    -ɛɲ    -ɛ̃
+JOINDRE   -ɛ̃dʁi   -aɲ    -aɲ    -ɛ̃
+CRAINDRE  -ɛ̃dʁi   -ɛɲ    -ɛɲ    -ɛ̃
+VAINCRE   -kʁi    -k     -kj    -
+FAIRE     -əʁ     -as    -asj   -ɛ
+PLAIRE    -ɛʁ     -ɛz    -ɛzj   -ɛ
+CONNAÎTRE -ɛtʁi   -ɛs    -ɛsj   -ɛ
+NAÎTRE    -ɛtʁi   -ɛs    -ɛsj   -ɛ
+REPAÎTRE  -ɛtʁi   -ɛs    -ɛsj   -ɛ
+CROÎTRE   -watʁi  -was   -wasj  -wa
+CROIRE    -waʁ    -wa    -waj   -wa
+BOIRE     -waʁ    -wav   -yvj   -wa
+CONCLURE  -ʁ      -      -j     -
+INCLURE   -ʁ      -      -j     -
+COUDRE    -dʁi    -z     -zj    -
+MOUDRE    -dʁi    -l     -lj    -
+SUIVRE    -vʁi    -v     -vj    -
+VIVRE     -ivʁi   -iv    -ivj   -i
+LIRE      -iʁ     -iz    -izj   -i
+DIRE      -ʁ      -z     -zj    -
+RIRE      -iʁ     -i     -ij    -i
+ÉCRIRE    -ʁ      -v     -vj    -
+CONFIRE   -ʁ      -z     -zj    -
+CUIRE     -ʁ      -z     -zj    -
+
+CONJ      Stem14 Stem15 Stem16 Stem17 Stem18 Stem19
+TEMPLATE  1A     1A     1A     1A     1A     1A
+ÊTRE      -swaj  -swaj  -etʁ   -et    -ete   -ete
+AVOIR     -ɛj    -ɛj    -avwaʁ -ɛj    -y     -y
+AIMER     -      -      -e     -      -e     -e
+COLLER    -ol    -ol    -ole   -ol    -ole   -ole
+BEURRER   -øʁ    -øʁ    -øʁe   -øʁ    -øʁe   -øʁe
+DÉJEUNER  -      -      -e     -      -e     -e
+ÉCROUER   -      -      -e     -      -e     -e
+ÉCHOUER   -w     -w     -we    -w     -we    -we
+REFLUER   -      -      -e     -      -e     -e
+REMUER    -ɥ     -ɥ     -ɥe    -ɥ     -ɥe    -ɥe
+LEVER     -əv    -əv    -əve   -əv    -əve   -əve
+CÉDER     -ed    -ed    -ede   -ed    -ede   -ede
+COPIER    -j     -j     -je    -j     -je    -je
+APPUYER   -j     -j     -je    -j     -je    -je
+BROYER    -j     -j     -je    -j     -je    -je
+ENVOYER   -waj   -waj   -waje  -waj   -waje  -waje
+FINIR     -s     -s     -ʁ     -s     -      -
+HAÏR      -s     -s     -ʁ     -s     -      -
+ALLER     -      -      -e     -      -e     -e
+TENIR     -ən    -ən    -əniʁ  -ən    -əny   -əny
+ACQUÉRIR  -eʁ    -eʁ    -eʁiʁ  -ɛʁ    -i     -iz
+SENTIR    -t     -t     -tiʁ   -t     -ti    -ti
+VÊTIR     -t     -t     -tiʁ   -t     -ty    -ty
+COUVRIR   -ʁ     -ʁ     -ʁiʁ   -ʁ     -ɛʁ    -ɛʁt
+CUEILLIR  -øj    -øj    -øjiʁ  -øj    -øji   -øji
+ASSAILLIR -      -      -iʁ    -      -i     -i
+BOUILLIR  -j     -j     -jiʁ   -j     -ji    -ji
+DORMIR    -m     -m     -miʁ   -m     -mi    -mi
+COURIR    -      -      -iʁ    -      -y     -y
+MOURIR    -uʁ    -uʁ    -uʁiʁ  -uʁ    -ɔʁ    -ɔʁt
+SERVIR    -v     -v     -viʁ   -v     -vi    -vi
+FUIR      -j     -j     -ʁ     -j     -      -
+RECEVOIR  -əv    -əv    -əvwaʁ -əv    -y     -y
+VOIR      -waj   -waj   -waʁ   -waj   -y     -y
+POURVOIR  -waj   -waj   -waʁ   -waj   -y     -y
+SAVOIR    -aʃ    -aʃ    -avwaʁ -aʃ    -y     -y
+DEVOIR    -əv    -əv    -əvwaʁ -əv    -y     -y
+POUVOIR   -uv    -uv    -uvwaʁ -uv    -y     -y
+MOUVOIR   -uv    -uv    -uvwaʁ -uv    -y     -y
+VALOIR    -al    -al    -alwaʁ -al    -aly   -aly
+VOULOIR   -ul    -ul    -ulwaʁ -ul    -uly   -uly
+ASSEOIR1  -waj   -waj   -waʁ   -waj   -i     -iz
+ASSEOIR2  -ɛj    -ɛj    -waʁ   -ɛj    -i     -iz
+SURSEOIR  -waj   -waj   -waʁ   -waj   -i     -iz
+RENDRE    -d     -d     -dʁ    -d     -dy    -dy
+PRENDRE   -ən    -ən    -ɑ̃dʁ   -ən    -i     -iz
+BATTRE    -t     -t     -tʁ    -t     -ty    -ty
+METTRE    -ɛt    -ɛt    -ɛtʁ   -ɛt    -i     -iz
+PEINDRE   -ɛɲ    -ɛɲ    -ɛ̃dʁ   -ɛɲ    -ɛ̃     -ɛ̃t
+JOINDRE   -aɲ    -aɲ    -ɛ̃dʁ   -aɲ    -ɛ̃     -ɛ̃t
+CRAINDRE  -ɛɲ    -ɛɲ    -ɛ̃dʁ   -ɛɲ    -ɛ̃     -ɛ̃t
+VAINCRE   -k     -k     -kʁ    -k     -ky    -ky
+FAIRE     -əz    !fɛt   -ɛʁ    -əz    -ɛ     -ɛt
+PLAIRE    -ɛz    -ɛz    -ɛʁ    -ɛz    -y     -y
+CONNAÎTRE -ɛs    -ɛs    -ɛtʁ   -ɛs    -y     -y
+NAÎTRE    -ɛs    -ɛs    -ɛtʁ   -ɛs    -e     -e
+REPAÎTRE  -ɛs    -ɛs    -ɛtʁ   -ɛs    -y     -y
+CROÎTRE   -was   -was   -watʁ  -was   -y     -y
+CROIRE    -waj   -waj   -waʁ   -waj   -y     -y
+BOIRE     -yv    -yv    -waʁ   -yv    -y     -y
+CONCLURE  -      -      -ʁ     -      -      -
+INCLURE   -      -      -ʁ     -      -      -z
+COUDRE    -z     -z     -dʁ    -z     -zy    -zy
+MOUDRE    -l     -l     -dʁ    -l     -ly    -ly
+SUIVRE    -v     -v     -vʁ    -v     -vi    -vi
+VIVRE     -iv    -iv    -ivʁ   -iv    -ɛky   -ɛky
+LIRE      -iz    -iz    -iʁ    -iz    -y     -y
+DIRE      -z     !dit   -ʁ     -z     -      -t
+RIRE      -ij    -ij    -iʁ    -j     -i     -i
+ÉCRIRE    -v     -v     -ʁ     -v     -      -t
+CONFIRE   -z     -z     -ʁ     -z     -      -t
+CUIRE     -z     -z     -ʁ     -z     -      -t
+
+LEXEME be                 ÊTRE      1:∅
+LEXEME have               AVOIR     1:∅
+LEXEME like               AIMER     1:ɛm
+LEXEME paste              COLLER    1:k
+LEXEME butter             BEURRER   1:b
+LEXEME have_lunch         DÉJEUNER  1:deʒən
+LEXEME imprison           ÉCROUER   1:ekʁu
+LEXEME fail               ÉCHOUER   1:eʃ
+LEXEME ebb                REFLUER   1:ʁəfly
+LEXEME stir               REMUER    1:ʁəm
+LEXEME raise              LEVER     1:l
+LEXEME give_up            CÉDER     1:s
+LEXEME copy               COPIER    1:kop
+LEXEME press              APPUYER   1:apɥi
+LEXEME grind1             BROYER    1:bʁwa
+LEXEME send               ENVOYER   1:ɑ̃v
+LEXEME finish             FINIR     1:fini
+LEXEME hate               HAÏR      1:ai
+LEXEME go                 ALLER     1:al
+LEXEME hold               TENIR     1:t
+LEXEME acquire            ACQUÉRIR  1:ak
+LEXEME feel               SENTIR    1:sɑ̃
+LEXEME clothe             VÊTIR     1:vɛ
+LEXEME cover              COUVRIR   1:kuv
+LEXEME pick               CUEILLIR  1:k
+LEXEME assail             ASSAILLIR 1:asaj
+LEXEME boil               BOUILLIR  1:bu
+LEXEME sleep              DORMIR    1:dɔʁ
+LEXEME run                COURIR    1:kuʁ
+LEXEME die                MOURIR    1:m
+LEXEME serve              SERVIR    1:sɛʁ
+LEXEME flee               FUIR      1:fɥi
+LEXEME receive            RECEVOIR  1:ʁəs
+LEXEME see                VOIR      1:v
+LEXEME provide            POURVOIR  1:puʁv
+LEXEME know               SAVOIR    1:s
+LEXEME have_to            DEVOIR    1:d
+LEXEME can                POUVOIR   1:p
+LEXEME move               MOUVOIR   1:m
+LEXEME be_worth           VALOIR    1:v
+LEXEME want               VOULOIR   1:v
+LEXEME seat1              ASSEOIR1  1:as
+LEXEME seat2              ASSEOIR2  1:as
+LEXEME stay               SURSEOIR  1:syʁs
+LEXEME give_back          RENDRE    1:ʁɑ̃
+LEXEME take               PRENDRE   1:pʁ
+LEXEME beat               BATTRE    1:ba
+LEXEME put                METTRE    1:m
+LEXEME paint              PEINDRE   1:p
+LEXEME join               JOINDRE   1:ʒw
+LEXEME fear               CRAINDRE  1:kʁ
+LEXEME conquer            VAINCRE   1:vɛ̃
+LEXEME do                 FAIRE     1:f
+LEXEME please             PLAIRE    1:pl
+LEXEME be_acquainted_with CONNAÎTRE 1:kon
+LEXEME be_born            NAÎTRE    1:n
+LEXEME feed               REPAÎTRE  1:ʁəp
+LEXEME grow               CROÎTRE   1:kʁ
+LEXEME believe            CROIRE    1:kʁ
+LEXEME drink              BOIRE     1:b
+LEXEME end                CONCLURE  1:kɔ̃kly
+LEXEME include            INCLURE   1:ɛ̃kly
+LEXEME sew                COUDRE    1:ku
+LEXEME grind2             MOUDRE    1:mu
+LEXEME follow             SUIVRE    1:sɥi
+LEXEME live               VIVRE     1:v
+LEXEME read               LIRE      1:l
+LEXEME say                DIRE      1:di
+LEXEME laugh              RIRE      1:ʁ
+LEXEME write              ÉCRIRE    1:ekʁi
+LEXEME preserve           CONFIRE   1:kɔ̃fi
+LEXEME cook               CUIRE     1:kɥi
+
+KEYS ÊTRE      FREQ=1    LOW  NOTHIGH
+KEYS AVOIR     FREQ=2    LOW  NOTHIGH
+KEYS AIMER     FREQ=4139 HIGH NOTLOW
+KEYS COLLER    FREQ=423  HIGH NOTLOW
+KEYS BEURRER   FREQ=31   HIGH NOTLOW
+KEYS DÉJEUNER  FREQ=1    HIGH NOTLOW  %      would be    LOW     NOTHIGH, but      same as   beurrer
+KEYS ÉCROUER   FREQ=11   HIGH NOTLOW
+KEYS ÉCHOUER   FREQ=33   HIGH NOTLOW
+KEYS REFLUER   FREQ=12   HIGH NOTLOW
+KEYS REMUER    FREQ=63   HIGH NOTLOW
+KEYS LEVER     FREQ=196  HIGH NOTLOW
+KEYS CÉDER     FREQ=499  HIGH NOTLOW
+KEYS COPIER    FREQ=262  HIGH NOTLOW
+KEYS APPUYER   FREQ=83   HIGH NOTLOW
+KEYS BROYER    FREQ=53   HIGH NOTLOW
+KEYS ENVOYER   FREQ=2    LOW  NOTHIGH
+KEYS FINIR     FREQ=332  HIGH NOTLOW
+KEYS HAÏR      FREQ=1    LOW  NOTHIGH
+KEYS ALLER     FREQ=1    LOW  NOTHIGH
+KEYS TENIR     FREQ=30   HIGH NOTLOW
+KEYS ACQUÉRIR  FREQ=5    MED  NOTHIGH NOTLOW
+KEYS SENTIR    FREQ=12   HIGH NOTLOW
+KEYS VÊTIR     FREQ=4    MED  NOTHIGH NOTLOW
+KEYS COUVRIR   FREQ=10   HIGH NOTLOW
+KEYS CUEILLIR  FREQ=3    MED  NOTHIGH LOW
+KEYS ASSAILLIR FREQ=4    MED  NOTHIGH NOTLOW
+KEYS BOUILLIR  FREQ=2    LOW  NOTHIGH
+KEYS DORMIR    FREQ=3    MED  NOTHIGH LOW
+KEYS COURIR    FREQ=8    MED  NOTHIGH NOTLOW
+KEYS MOURIR    FREQ=1    LOW  NOTHIGH
+KEYS SERVIR    FREQ=3    MED  NOTHIGH LOW
+KEYS FUIR      FREQ=2    LOW  NOTHIGH
+KEYS RECEVOIR  FREQ=5    MED  NOTHIGH NOTLOW
+KEYS VOIR      FREQ=4    MED  NOTHIGH NOTLOW
+KEYS POURVOIR  FREQ=2    MED  NOTHIGH NOTLOW %     would be      LOW      NOTHIGH, but  same as        croire
+KEYS SAVOIR    FREQ=1    LOW  NOTHIGH
+KEYS DEVOIR    FREQ=2    MED  NOTHIGH NOTLOW %     would be      LOW      NOTHIGH, but  same as        recevoir
+KEYS POUVOIR   FREQ=1    LOW  NOTHIGH
+KEYS MOUVOIR   FREQ=3    MED  NOTHIGH LOW
+KEYS VALOIR    FREQ=4    MED  NOTHIGH NOTLOW
+KEYS VOULOIR   FREQ=1    LOW  NOTHIGH
+KEYS ASSEOIR1  FREQ=2    LOW  NOTHIGH
+KEYS ASSEOIR2  FREQ=2    LOW  NOTHIGH
+KEYS SURSEOIR  FREQ=1    LOW  NOTHIGH
+KEYS RENDRE    FREQ=52   HIGH NOTLOW
+KEYS PRENDRE   FREQ=11   HIGH NOTLOW
+KEYS BATTRE    FREQ=9    MED  NOTHIGH NOTLOW
+KEYS METTRE    FREQ=15   HIGH NOTLOW
+KEYS PEINDRE   FREQ=17   HIGH NOTLOW
+KEYS JOINDRE   FREQ=8    MED  NOTHIGH NOTLOW
+KEYS CRAINDRE  FREQ=3    HIGH NOTLOW  %      same  as    peindre
+KEYS VAINCRE   FREQ=2    LOW  NOTHIGH
+KEYS FAIRE     FREQ=11   HIGH NOTLOW
+KEYS PLAIRE    FREQ=4    MED  NOTHIGH NOTLOW
+KEYS CONNAÎTRE FREQ=11   HIGH NOTLOW
+KEYS NAÎTRE    FREQ=2    LOW  NOTHIGH
+KEYS REPAÎTRE  FREQ=1    HIGH NOTLOW  %      would be    LOW     NOTHIGH, but      same as   connaître
+KEYS CROÎTRE   FREQ=4    MED  NOTHIGH NOTLOW
+KEYS CROIRE    FREQ=2    MED  NOTHIGH NOTLOW %     would be      LOW      NOTHIGH, but  same as        pourvoir
+KEYS BOIRE     FREQ=2    LOW  NOTHIGH
+KEYS CONCLURE  FREQ=2    LOW  NOTHIGH
+KEYS INCLURE   FREQ=3    MED  NOTHIGH LOW
+KEYS COUDRE    FREQ=3    MED  NOTHIGH LOW
+KEYS MOUDRE    FREQ=3    MED  NOTHIGH LOW
+KEYS SUIVRE    FREQ=3    MED  NOTHIGH LOW
+KEYS VIVRE     FREQ=3    MED  NOTHIGH LOW
+KEYS LIRE      FREQ=4    MED  NOTHIGH NOTLOW
+KEYS DIRE      FREQ=7    MED  NOTHIGH NOTLOW
+KEYS RIRE      FREQ=2    LOW  NOTHIGH
+KEYS ÉCRIRE    FREQ=11   HIGH NOTLOW
+KEYS CONFIRE   FREQ=5    MED  NOTHIGH NOTLOW
+KEYS CUIRE     FREQ=24   HIGH NOTLOW
